@@ -1,4 +1,4 @@
-11939 nodes in total
+11946 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1987,6 +1987,7 @@ ftbutilities.claims.block.edit.industrialforegoing.biofuel: OP
 ftbutilities.claims.block.edit.industrialforegoing.biofuel_generator: OP
 ftbutilities.claims.block.edit.industrialforegoing.bioreactor: OP
 ftbutilities.claims.block.edit.industrialforegoing.black_hole_controller: OP
+ftbutilities.claims.block.edit.industrialforegoing.black_hole_label: OP
 ftbutilities.claims.block.edit.industrialforegoing.black_hole_tank: OP
 ftbutilities.claims.block.edit.industrialforegoing.black_hole_unit: OP
 ftbutilities.claims.block.edit.industrialforegoing.block_destroyer: OP
@@ -5090,6 +5091,7 @@ ftbutilities.claims.block.interact.industrialforegoing.biofuel: OP
 ftbutilities.claims.block.interact.industrialforegoing.biofuel_generator: OP
 ftbutilities.claims.block.interact.industrialforegoing.bioreactor: OP
 ftbutilities.claims.block.interact.industrialforegoing.black_hole_controller: OP
+ftbutilities.claims.block.interact.industrialforegoing.black_hole_label: OP
 ftbutilities.claims.block.interact.industrialforegoing.black_hole_tank: OP
 ftbutilities.claims.block.interact.industrialforegoing.black_hole_unit: OP
 ftbutilities.claims.block.interact.industrialforegoing.block_destroyer: OP
@@ -9857,6 +9859,7 @@ ftbutilities.claims.item.harvestcraft.zucchiniseeditem: ALL
 ftbutilities.claims.item.immersiveengineering.aluminum_scaffolding_stairs0: ALL
 ftbutilities.claims.item.immersiveengineering.aluminum_scaffolding_stairs1: ALL
 ftbutilities.claims.item.immersiveengineering.aluminum_scaffolding_stairs2: ALL
+ftbutilities.claims.item.immersiveengineering.axe_steel: ALL
 ftbutilities.claims.item.immersiveengineering.blueprint: ALL
 ftbutilities.claims.item.immersiveengineering.bullet: ALL
 ftbutilities.claims.item.immersiveengineering.chemthrower: ALL
@@ -9896,6 +9899,7 @@ ftbutilities.claims.item.immersiveengineering.mold: ALL
 ftbutilities.claims.item.immersiveengineering.molten_constantan: ALL
 ftbutilities.claims.item.immersiveengineering.molten_uranium: ALL
 ftbutilities.claims.item.immersiveengineering.ore: ALL
+ftbutilities.claims.item.immersiveengineering.pickaxe_steel: ALL
 ftbutilities.claims.item.immersiveengineering.powerpack: ALL
 ftbutilities.claims.item.immersiveengineering.railgun: ALL
 ftbutilities.claims.item.immersiveengineering.revolver: ALL
@@ -9905,6 +9909,7 @@ ftbutilities.claims.item.immersiveengineering.shader_bag: ALL
 ftbutilities.claims.item.immersiveengineering.sheetmetal: ALL
 ftbutilities.claims.item.immersiveengineering.sheetmetal_slab: ALL
 ftbutilities.claims.item.immersiveengineering.shield: ALL
+ftbutilities.claims.item.immersiveengineering.shovel_steel: ALL
 ftbutilities.claims.item.immersiveengineering.skyhook: ALL
 ftbutilities.claims.item.immersiveengineering.speedloader: ALL
 ftbutilities.claims.item.immersiveengineering.steel_scaffolding_stairs0: ALL
@@ -9919,6 +9924,7 @@ ftbutilities.claims.item.immersiveengineering.stone_decoration_stairs_hempcrete:
 ftbutilities.claims.item.immersiveengineering.stone_device: ALL
 ftbutilities.claims.item.immersiveengineering.storage: ALL
 ftbutilities.claims.item.immersiveengineering.storage_slab: ALL
+ftbutilities.claims.item.immersiveengineering.sword_steel: ALL
 ftbutilities.claims.item.immersiveengineering.tool: ALL
 ftbutilities.claims.item.immersiveengineering.toolbox: ALL
 ftbutilities.claims.item.immersiveengineering.toolupgrade: ALL
@@ -9947,6 +9953,7 @@ ftbutilities.claims.item.industrialforegoing.artificial_dye: ALL
 ftbutilities.claims.item.industrialforegoing.biofuel_generator: ALL
 ftbutilities.claims.item.industrialforegoing.bioreactor: ALL
 ftbutilities.claims.item.industrialforegoing.black_hole_controller: ALL
+ftbutilities.claims.item.industrialforegoing.black_hole_label: ALL
 ftbutilities.claims.item.industrialforegoing.black_hole_tank: ALL
 ftbutilities.claims.item.industrialforegoing.black_hole_unit: ALL
 ftbutilities.claims.item.industrialforegoing.block_destroyer: ALL
