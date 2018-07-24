@@ -1,4 +1,4 @@
-11946 nodes in total
+11966 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1014,6 +1014,12 @@ ftbutilities.claims.block.edit.environmentaltech.nano_cont_personal_3: OP
 ftbutilities.claims.block.edit.environmentaltech.nano_cont_personal_4: OP
 ftbutilities.claims.block.edit.environmentaltech.nano_cont_personal_5: OP
 ftbutilities.claims.block.edit.environmentaltech.nano_cont_personal_6: OP
+ftbutilities.claims.block.edit.environmentaltech.nano_cont_ranged_1: OP
+ftbutilities.claims.block.edit.environmentaltech.nano_cont_ranged_2: OP
+ftbutilities.claims.block.edit.environmentaltech.nano_cont_ranged_3: OP
+ftbutilities.claims.block.edit.environmentaltech.nano_cont_ranged_4: OP
+ftbutilities.claims.block.edit.environmentaltech.nano_cont_ranged_5: OP
+ftbutilities.claims.block.edit.environmentaltech.nano_cont_ranged_6: OP
 ftbutilities.claims.block.edit.environmentaltech.pladium: OP
 ftbutilities.claims.block.edit.environmentaltech.pladium_brick_slab: OP
 ftbutilities.claims.block.edit.environmentaltech.pladium_brick_slab_double: OP
@@ -4118,6 +4124,12 @@ ftbutilities.claims.block.interact.environmentaltech.nano_cont_personal_3: OP
 ftbutilities.claims.block.interact.environmentaltech.nano_cont_personal_4: OP
 ftbutilities.claims.block.interact.environmentaltech.nano_cont_personal_5: OP
 ftbutilities.claims.block.interact.environmentaltech.nano_cont_personal_6: OP
+ftbutilities.claims.block.interact.environmentaltech.nano_cont_ranged_1: OP
+ftbutilities.claims.block.interact.environmentaltech.nano_cont_ranged_2: OP
+ftbutilities.claims.block.interact.environmentaltech.nano_cont_ranged_3: OP
+ftbutilities.claims.block.interact.environmentaltech.nano_cont_ranged_4: OP
+ftbutilities.claims.block.interact.environmentaltech.nano_cont_ranged_5: OP
+ftbutilities.claims.block.interact.environmentaltech.nano_cont_ranged_6: OP
 ftbutilities.claims.block.interact.environmentaltech.pladium: OP
 ftbutilities.claims.block.interact.environmentaltech.pladium_brick_slab: OP
 ftbutilities.claims.block.interact.environmentaltech.pladium_brick_slab_double: OP
@@ -7774,6 +7786,12 @@ ftbutilities.claims.item.environmentaltech.nano_cont_personal_3: ALL
 ftbutilities.claims.item.environmentaltech.nano_cont_personal_4: ALL
 ftbutilities.claims.item.environmentaltech.nano_cont_personal_5: ALL
 ftbutilities.claims.item.environmentaltech.nano_cont_personal_6: ALL
+ftbutilities.claims.item.environmentaltech.nano_cont_ranged_1: ALL
+ftbutilities.claims.item.environmentaltech.nano_cont_ranged_2: ALL
+ftbutilities.claims.item.environmentaltech.nano_cont_ranged_3: ALL
+ftbutilities.claims.item.environmentaltech.nano_cont_ranged_4: ALL
+ftbutilities.claims.item.environmentaltech.nano_cont_ranged_5: ALL
+ftbutilities.claims.item.environmentaltech.nano_cont_ranged_6: ALL
 ftbutilities.claims.item.environmentaltech.photovoltaic_cell: ALL
 ftbutilities.claims.item.environmentaltech.pladium: ALL
 ftbutilities.claims.item.environmentaltech.pladium_brick_slab: ALL
@@ -11913,6 +11931,8 @@ ftbutilities.claims.item.torchmaster.frozen_pearl: ALL
 ftbutilities.claims.item.torchmaster.mega_torch: ALL
 ftbutilities.claims.item.torchmaster.terrain_lighter: ALL
 ftbutilities.claims.item.valkyrielib.guide: ALL
+ftbutilities.claims.item.valkyrielib.modifier_component: ALL
+ftbutilities.claims.item.valkyrielib.modifier_speed: ALL
 ftbutilities.claims.item.wct.infinity_booster_card: ALL
 ftbutilities.claims.item.wct.magnet_card: ALL
 ftbutilities.claims.item.wct.wct: ALL
@@ -12124,6 +12144,7 @@ command.tombmanygraves.tmg_toggle_grave_pos
 command.tombmanygraves.tmg_toggle_render
 command.tp
 command.trigger
+command.valkyrielib.removeowner
 command.weather
 command.worldborder
 command.xnet.xnetcheck
