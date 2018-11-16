@@ -11,6 +11,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
+          "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "questbook:itemquestbook",
@@ -440,7 +441,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "We Need to Go Deeper!",
-          "desc:8": "No Description"
+          "desc:8": "The Nether holds some items that aren\u0027t available anywhere else, just like Vanilla. Get yourself a portal and jump in! While you\u0027re there, pick up some blaze rods. (You\u0027ll need them later!)"
         }
       },
       "tasks:9": {
@@ -465,8 +466,14 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "minecraft:blaze_rod",
-              "Count:3": 8,
+              "id:8": "minecraft:obsidian",
+              "Count:3": 10,
+              "OreDict:8": "obsidian",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:flint_and_steel",
+              "Count:3": 1,
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -482,14 +489,8 @@
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "minecraft:obsidian",
-              "Count:3": 10,
-              "OreDict:8": "",
-              "Damage:3": 0
-            },
-            "1:10": {
-              "id:8": "minecraft:flint_and_steel",
-              "Count:3": 1,
+              "id:8": "minecraft:blaze_rod",
+              "Count:3": 8,
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -610,7 +611,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Sugarcane Farmer",
-          "desc:8": "No Description"
+          "desc:8": "Sugar... Yum. Get some sugarcane, get more sugarcane! Win-Win."
         }
       },
       "tasks:9": {
@@ -848,7 +849,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Wheat Farmer",
-          "desc:8": "No Description"
+          "desc:8": "Food is super important in Minecraft. Food is even more important when you use OreExcavator - the mod that lets you hold a key (Grave --\u003e ~ by default) to mine lots of one resource at once. When you mine like this you get hungry."
         }
       },
       "tasks:9": {
@@ -934,7 +935,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "The Gathering: Nether",
-          "desc:8": "The Nether Provides a vast array of resources that are not available in the overworld. How about you go gather some of them?"
+          "desc:8": "The Nether Provides a vast array of resources that are not available in the overworld. How about you go gather some of them?\n\nOr don\u0027t, but then no sandwitches for you."
         }
       },
       "tasks:9": {
@@ -2420,7 +2421,7 @@
           "icon:10": {
             "id:8": "tconstruct:tooltables",
             "Count:3": 1,
-            "Damage:2": 3,
+            "Damage:2": 0,
             "OreDict:8": ""
           },
           "globalshare:1": 0,
@@ -2429,12 +2430,46 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Tinker Tables",
-          "desc:8": "No Description"
+          "name:8": "A Little Tinkering",
+          "desc:8": "It\u0027s like a crafting table 2.0, but it\u0027s a station. It crafts and can see the last inventory to touch it. It also connects to some other tables in a very fancy GUI. More on those tables later...\n\n(For this reward, first click either the Banana Bread or the Pumpkin bread and then click \u0027Claim\u0027. You only get one)"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "tconstruct:tooltables",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "harvestcraft:pumpkinbreaditem",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "harvestcraft:banananutbreaditem",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     },
     "32:10": {
       "questID:3": 32,
@@ -2531,6 +2566,263 @@
       },
       "tasks:9": {},
       "rewards:9": {}
+    },
+    "35:10": {
+      "questID:3": 35,
+      "preRequisites:11": [
+        38
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "tconstruct:tooltables",
+            "Count:3": 1,
+            "tag:10": {
+              "textureBlock:10": {
+                "id:8": "minecraft:log",
+                "Count:1": 1,
+                "Damage:2": 0
+              }
+            },
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "36:10": {
+      "questID:3": 36,
+      "preRequisites:11": [
+        38
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "tconstruct:tooltables",
+            "Count:3": 1,
+            "tag:10": {
+              "textureBlock:10": {
+                "id:8": "minecraft:planks",
+                "Count:1": 1,
+                "Damage:2": 0
+              }
+            },
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Stencil Table",
+          "desc:8": "Sorry, you can\u0027t draw here.\n\nThis special table lets you change the stencils into different tool part stencils. Take these stencils and put them in the part builder to make parts of tools. It takes between 2 to 4 parts to create a tool (in the tool station). "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "tconstruct:tooltables",
+              "Count:3": 1,
+              "tag:10": {
+                "textureBlock:10": {
+                  "id:8": "minecraft:planks",
+                  "Count:1": 1,
+                  "Damage:2": 0
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "37:10": {
+      "questID:3": 37,
+      "preRequisites:11": [
+        38
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "tconstruct:tooltables",
+            "Count:3": 1,
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Tool Station",
+          "desc:8": "Build this to be able to put your tools together!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "tconstruct:tooltables",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "38:10": {
+      "questID:3": 38,
+      "preRequisites:11": [
+        31
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "tconstruct:pattern",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Patterns",
+          "desc:8": "These are used to create all sorts of tools in Tinkers\u0027 Smeltery. For now, make a few to get started. It\u0027s just planks and sticks, nbd."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "tconstruct:pattern",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "harvestcraft:hotdogitem",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "39:10": {
+      "questID:3": 39,
+      "preRequisites:11": [
+        38
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "tconstruct:tooltables",
+            "Count:3": 1,
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Pattern Chest",
+          "desc:8": "All those pesky patterns are going to get annoying quickly. This handy chest will hold them for you and be seen if it touches the other tables. Just don\u0027t try put anything else in there."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "tconstruct:tooltables",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 4
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -2538,13 +2830,13 @@
       "quests:9": {
         "0:10": {
           "size:3": 48,
-          "x:3": -402,
+          "x:3": -426,
           "y:3": -6,
           "id:3": 0
         },
         "1:10": {
           "size:3": 24,
-          "x:3": -354,
+          "x:3": -366,
           "y:3": 6,
           "id:3": 1
         },
@@ -2556,50 +2848,50 @@
         },
         "3:10": {
           "size:3": 24,
-          "x:3": -306,
+          "x:3": -294,
           "y:3": 6,
           "id:3": 3
         },
         "4:10": {
           "size:3": 24,
-          "x:3": -282,
+          "x:3": -258,
           "y:3": 6,
           "id:3": 4
         },
         "5:10": {
           "size:3": 24,
           "x:3": -330,
-          "y:3": 30,
+          "y:3": 42,
           "id:3": 5
         },
         "6:10": {
           "size:3": 24,
-          "x:3": -318,
-          "y:3": 54,
+          "x:3": -306,
+          "y:3": 78,
           "id:3": 6
         },
         "7:10": {
           "size:3": 24,
-          "x:3": -258,
+          "x:3": -222,
           "y:3": 6,
           "id:3": 7
         },
         "8:10": {
           "size:3": 24,
-          "x:3": -342,
-          "y:3": 54,
+          "x:3": -354,
+          "y:3": 78,
           "id:3": 8
         },
         "9:10": {
           "size:3": 24,
-          "x:3": -282,
-          "y:3": 30,
+          "x:3": -258,
+          "y:3": 42,
           "id:3": 9
         },
         "10:10": {
           "size:3": 24,
-          "x:3": -258,
-          "y:3": 30,
+          "x:3": -222,
+          "y:3": 42,
           "id:3": 10
         }
       },
@@ -2618,26 +2910,26 @@
       "quests:9": {
         "0:10": {
           "size:3": 48,
-          "x:3": -222,
+          "x:3": -210,
           "y:3": -12,
           "id:3": 11
         },
         "1:10": {
           "size:3": 24,
-          "x:3": -234,
-          "y:3": 36,
+          "x:3": -246,
+          "y:3": 48,
           "id:3": 12
         },
         "2:10": {
           "size:3": 24,
-          "x:3": -210,
-          "y:3": 36,
+          "x:3": -198,
+          "y:3": 54,
           "id:3": 13
         },
         "3:10": {
           "size:3": 24,
-          "x:3": -186,
-          "y:3": 36,
+          "x:3": -150,
+          "y:3": 48,
           "id:3": 14
         },
         "4:10": {
@@ -2654,86 +2946,86 @@
         },
         "6:10": {
           "size:3": 24,
-          "x:3": -30,
-          "y:3": 36,
+          "x:3": -42,
+          "y:3": 54,
           "id:3": 17
         },
         "7:10": {
           "size:3": 24,
-          "x:3": 6,
-          "y:3": 36,
+          "x:3": 18,
+          "y:3": 54,
           "id:3": 18
         },
         "8:10": {
           "size:3": 24,
           "x:3": 180,
-          "y:3": 36,
+          "y:3": 54,
           "id:3": 19
         },
         "9:10": {
           "size:3": 24,
-          "x:3": -30,
-          "y:3": 60,
+          "x:3": -42,
+          "y:3": 90,
           "id:3": 20
         },
         "10:10": {
           "size:3": 24,
-          "x:3": -30,
-          "y:3": 84,
+          "x:3": -42,
+          "y:3": 126,
           "id:3": 21
         },
         "11:10": {
           "size:3": 24,
-          "x:3": -258,
-          "y:3": 36,
+          "x:3": -270,
+          "y:3": 84,
           "id:3": 22
         },
         "12:10": {
           "size:3": 24,
-          "x:3": -234,
-          "y:3": 60,
+          "x:3": -216,
+          "y:3": 90,
           "id:3": 23
         },
         "13:10": {
           "size:3": 24,
-          "x:3": -210,
-          "y:3": 60,
+          "x:3": -180,
+          "y:3": 90,
           "id:3": 24
         },
         "14:10": {
           "size:3": 24,
-          "x:3": -6,
-          "y:3": 60,
+          "x:3": 0,
+          "y:3": 90,
           "id:3": 25
         },
         "15:10": {
           "size:3": 24,
-          "x:3": 18,
-          "y:3": 60,
+          "x:3": 36,
+          "y:3": 90,
           "id:3": 26
         },
         "16:10": {
           "size:3": 24,
-          "x:3": -42,
-          "y:3": 108,
+          "x:3": -60,
+          "y:3": 162,
           "id:3": 27
         },
         "17:10": {
           "size:3": 24,
-          "x:3": -18,
-          "y:3": 108,
+          "x:3": -24,
+          "y:3": 162,
           "id:3": 28
         },
         "18:10": {
           "size:3": 24,
-          "x:3": 192,
-          "y:3": 60,
+          "x:3": 198,
+          "y:3": 90,
           "id:3": 29
         },
         "19:10": {
           "size:3": 24,
-          "x:3": 168,
-          "y:3": 60,
+          "x:3": 162,
+          "y:3": 90,
           "id:3": 30
         }
       },
@@ -2752,27 +3044,57 @@
       "quests:9": {
         "0:10": {
           "size:3": 48,
-          "x:3": -264,
-          "y:3": -6,
+          "x:3": -24,
+          "y:3": 18,
           "id:3": 31
         },
         "1:10": {
           "size:3": 24,
-          "x:3": -216,
-          "y:3": 6,
+          "x:3": -12,
+          "y:3": 84,
           "id:3": 32
         },
         "2:10": {
           "size:3": 24,
-          "x:3": -216,
-          "y:3": 30,
+          "x:3": -12,
+          "y:3": 126,
           "id:3": 33
         },
         "3:10": {
           "size:3": 24,
-          "x:3": -216,
-          "y:3": 54,
+          "x:3": -12,
+          "y:3": 168,
           "id:3": 34
+        },
+        "4:10": {
+          "size:3": 24,
+          "x:3": -108,
+          "y:3": 72,
+          "id:3": 35
+        },
+        "5:10": {
+          "size:3": 24,
+          "x:3": -72,
+          "y:3": 48,
+          "id:3": 36
+        },
+        "6:10": {
+          "size:3": 24,
+          "x:3": -90,
+          "y:3": 120,
+          "id:3": 37
+        },
+        "7:10": {
+          "size:3": 24,
+          "x:3": -72,
+          "y:3": 84,
+          "id:3": 38
+        },
+        "8:10": {
+          "size:3": 24,
+          "x:3": -54,
+          "y:3": 120,
+          "id:3": 39
         }
       },
       "lineID:3": 2,
@@ -2781,7 +3103,7 @@
           "name:8": "The Technological Journey I",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "This chapter will introduce several mods themed around technology and industry. As there are several of these types of mods available in this pack, There will be two of these chapters. This one will introduce \"Low-Tech\" mods such as Immersive Engineering and Tinkers\u0027 Construct, as well as the Mod Actually Additions as a gateway to higher-tech items."
+          "desc:8": "This chapter is based on technological and industrial mods. We will introduce \"Low-Tech\" mods such as Immersive Engineering and Tinkers\u0027 Construct, as well as Actually Additions as a gateway to higher-tech items. See Part II for \"High-Tech\" mods."
         }
       },
       "order:3": 2
@@ -2794,7 +3116,7 @@
           "name:8": "The Technological Journey II",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Now that you have learned the lower-tech mods, This chapter will introduce some Higher-tech mods such as Thermal Expansion, RFTools, and AE2."
+          "desc:8": "Now that you\u0027ve learned some \"low-tech\" mods, we will introduce some \"High-tech\" mods such as Thermal Expansion, RFTools, and AE2."
         }
       },
       "order:3": 3
@@ -2807,7 +3129,7 @@
           "name:8": "The Magical Journey",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "You may think that after the last two chapters, Modded Minecraft is all technology. However, this is simply not the case. Magic exists too, in mods such as Blood Magic, and it combines with tech in mods such as Embers and Botania. So get out there, and become a Master Archmage!!"
+          "desc:8": "You may think thay after the last two chapters modded Minecraft is all technology. However, this is simply not the case. Magic exists too, in mods such as Blood Magic, and it combines with tech in mods like Embers and Botania. So get out there, and become a Master Archmage!!"
         }
       },
       "order:3": 4
@@ -2816,7 +3138,7 @@
   "questSettings:10": {
     "betterquesting:10": {
       "livesdef:3": 3,
-      "pack_name:8": "",
+      "pack_name:8": "Omicron-XII",
       "home_anchor_y:5": 0.0,
       "livesmax:3": 10,
       "home_anchor_x:5": 0.5,
