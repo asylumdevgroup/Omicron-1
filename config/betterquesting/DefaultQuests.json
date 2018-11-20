@@ -2433,17 +2433,22 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Melting down Metals",
-          "desc:8": "No Description"
+          "name:8": "Info: Melting down Metals",
+          "desc:8": "One bonus of using the Tinker\u0027s smeltery is the increased metal amount per ore. If you put an iron ore in a furnace, it produces 1 ingot. With the smeltery, it will create 2 ingots worth of molten iron. Then you can put it into an ingot mold, or 9 ingots worth into a basin for a block of iron."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
       "rewards:9": {}
     },
     "33:10": {
       "questID:3": 33,
       "preRequisites:11": [
-        32
+        41
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -2466,10 +2471,58 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "The Gathering: Tinker\u0027s Construct",
-          "desc:8": "No Description"
+          "desc:8": "Each type of item that is used to create a tool in Tinkers\u0027 has a different property, and they have different properties when used as different parts of the tool. Some will assist you, like the naturally slow repairing of wood. Others are annoying, like the cheapskate property of stone which causes less durability when it is used as the head. See §oMaterials and You§r for more info.\n\nOne that has to be mentioned is LivingWood from Botania (a magic mod). It has regeneration and additional modifiers, which allows for adding extras to your tool, like redstone for speed, lapis for luck, quartz for sharpness, and even a mending moss that works like vanilla\u0027s mending but stores extra XP when possible.\n\nThese are some of the extras that can be used to beef up your tools."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "tconstruct:materials",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 19
+            },
+            "1:10": {
+              "id:8": "tconstruct:materials",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 14
+            },
+            "2:10": {
+              "id:8": "tconstruct:materials",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 16
+            },
+            "3:10": {
+              "id:8": "tconstruct:materials",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 17
+            },
+            "4:10": {
+              "id:8": "minecraft:diamond",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "minecraft:tnt",
+              "Count:3": 3,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "34:10": {
@@ -2498,10 +2551,40 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Top-Tier Alloy",
-          "desc:8": "No Description"
+          "desc:8": "§oThis quest won\u0027t be possible until you\u0027ve completed at least some of the magic quest line.\n\n§rYou\u0027ll need some enderium, manyullyn and miron.\n\nEnderium is formed in the smeltery with ender pearls and casted into ingots.\n\nManyullyn is alloyed from cobalt and ardite, two metals found in the nether.\n\nMirion is alloyed from terrasteel, manasteel, elementium, cobalt, and glass. You should have some cobalt from the last quest, but you\u0027ll need to open an elven portal to get elementium."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "tconstruct:ingots",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "1:10": {
+              "id:8": "plustic:mirioningot",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "thermalfoundation:material",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 167
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "35:10": {
@@ -2998,7 +3081,9 @@
     },
     "43:10": {
       "questID:3": 43,
-      "preRequisites:11": [],
+      "preRequisites:11": [
+        47
+      ],
       "properties:10": {
         "betterquesting:10": {
           "issilent:1": 0,
@@ -3072,7 +3157,8 @@
     "44:10": {
       "questID:3": 44,
       "preRequisites:11": [
-        43
+        43,
+        46
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -3103,7 +3189,7 @@
             "OreDict:8": ""
           },
           "globalshare:1": 0,
-          "questlogic:8": "AND",
+          "questlogic:8": "OR",
           "partysinglereward:1": 0,
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
@@ -3118,8 +3204,962 @@
     "45:10": {
       "questID:3": 45,
       "preRequisites:11": [
-        44
+        44,
+        4
       ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalexpansion:machine",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
+            },
+            "Damage:2": 6,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Magma Crucible",
+          "desc:8": "This machine uses energy to melt items into fluids.\n\nIt even makes lava. Ooooh, ahhhh."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalexpansion:machine",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  1,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
+              },
+              "OreDict:8": "",
+              "Damage:3": 6
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "46:10": {
+      "questID:3": 46,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "appliedenergistics2:grindstone",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Quartz Grindstone",
+          "desc:8": "The Quartz grindstone is a manual grinder. After building it, you\u0027ll need to attach a wooden crank to the top of the machine. Press and hold your right mouse button to start grinding."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "appliedenergistics2:grindstone",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "appliedenergistics2:crank",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "47:10": {
+      "questID:3": 47,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalexpansion:frame",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Frames",
+          "desc:8": "Machine and device frames are the basis of Thermal Expansion.\n\nMachines are made with a machine frame and use energy (called RF) to manipulate items and fluids.\n\nDevices are made with device frames and manipulate items and fluids without energy."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalexpansion:frame",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "thermalexpansion:frame",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 64
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "48:10": {
+      "questID:3": 48,
+      "preRequisites:11": [
+        47
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalexpansion:machine",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                3,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
+            },
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Sawmill",
+          "desc:8": "This machine gives extra wood products when it takes them apart. 1 log \u003d 6 planks!?!?"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalexpansion:machine",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  3,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
+              },
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "49:10": {
+      "questID:3": 49,
+      "preRequisites:11": [
+        4,
+        47
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalexpansion:machine",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Facing:1": 3,
+              "Energy:3": 0,
+              "SideCache:7": [
+                3,
+                1,
+                2,
+                2,
+                2,
+                2
+              ],
+              "Level:1": 0
+            },
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Phytogenic Insolator",
+          "desc:8": "Isn\u0027t farming boring? Do you wish a machine would do it for you?\n\nNow it does. This machine takes Phyto-gro, your favorite plant, sunlight, and RF."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalexpansion:machine",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "Facing:1": 3,
+                "Energy:3": 0,
+                "SideCache:7": [
+                  3,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "Level:1": 0
+              },
+              "OreDict:8": "",
+              "Damage:3": 4
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "50:10": {
+      "questID:3": 50,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "rftools:powercell_simple",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Info: Power",
+          "desc:8": "Before you move on to Part II, you\u0027ll need some sort of power. Power in modded takes on a few forms. Some can be converted from one to another, and some mods require their own generator to work. If you\u0027re ever in doubt of what type of power is needed, Google it.\n\nEach of these energy types has a way to transfer power between blocks. These have different names, but basically work like plugging the machine in. Connect your cord to the energy generator and make a line to the block to power.\n\n§lPro/lazy tip:§r If you don\u0027t know what power type is needed for a block, try a few different conduits/cords/ducts until you find the one that attaches to your block. Then power your conduit/cord/duct and you\u0027re good to go"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
+    },
+    "51:10": {
+      "questID:3": 51,
+      "preRequisites:11": [
+        50
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermaldynamics:duct_0",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Energy Transfer",
+          "desc:8": "Power transfer in this pack is mainly through fluxducts. Early game, the easiest of these to create is the leadstone fluxduct. You need redstone, glass, and lead ingots. They don\u0027t transfer power very quickly, but they\u0027ll let you get to the next level."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermaldynamics:duct_0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "52:10": {
+      "questID:3": 52,
+      "preRequisites:11": [
+        50
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "actuallyadditions:block_coal_generator",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Coal Power Generation",
+          "desc:8": "You\u0027ll need to create some power before you use it or transfer it. Start small. This coal generator produces about 185 RF/tick.\n\nIt takes some iron, cobblestone, coal, and a piece of black quartz (You can get these from mining black quartz ore)"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "actuallyadditions:block_coal_generator",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "53:10": {
+      "questID:3": 53,
+      "preRequisites:11": [
+        51
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermaldynamics:duct_0",
+            "Count:3": 1,
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Hardened Fluxduct",
+          "desc:8": "The hardened fluxduct transfers power much faster. Upgrade your leadstone fluxducts to hardened fluxducts with some invar and a bit more redstone. Now you have some power!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermaldynamics:duct_0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "54:10": {
+      "questID:3": 54,
+      "preRequisites:11": [
+        53
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermaldynamics:duct_0",
+            "Count:3": 1,
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Redstone Energy Fluxduct",
+          "desc:8": "Once you get farther into your world, you\u0027ll find yourself needing to move MORE power. Unfortunatly, your hardened fluxducts are upgraded to the max. Now you\u0027ll need to make a redstone fluxduct.\n\nFirst, create an empty redstone energy fluxduct (2 electrum ingots and a hardened glass).\nThen fill it in the fluid transposer with redstone. You\u0027ll be set on power... for a little while."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermaldynamics:duct_0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "55:10": {
+      "questID:3": 55,
+      "preRequisites:11": [
+        54
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermaldynamics:duct_0",
+            "Count:3": 1,
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Signalium Fluxduct",
+          "desc:8": "Still not enough power? Good news, you can upgrade your redstone energy fluxducts!\n\nYou\u0027ll need some redstone and signalum. See if you can find the JEI recipie to alloy it in the smeltery.\n\nAlternatively, you can upgrade an empty redstone energy fluxduct to an empty signalum fluxduct then fill it with molten redstone in the fluid transposer."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermaldynamics:duct_0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "56:10": {
+      "questID:3": 56,
+      "preRequisites:11": [
+        55
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermaldynamics:duct_0",
+            "Count:3": 1,
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Resonant Fluxduct",
+          "desc:8": "Super powered!\n\nUpgrade you signalum fluxducts with more redstone and some enderium, or upgrade you empty ones and then fill these."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermaldynamics:duct_0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 4
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "57:10": {
+      "questID:3": 57,
+      "preRequisites:11": [
+        56
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermaldynamics:duct_0",
+            "Count:3": 1,
+            "Damage:2": 5,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Cryo-Stabalized Fluxduct",
+          "desc:8": "The end. There is nothing better. Literally infinite power transfer. This should be illegal.\n\nYou\u0027ll need to upgrade your resonant fluxducts (filled only) to create an empty cryo-stabalized flucduct and then fill it with some gelid cryotheum. Good fun!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermaldynamics:duct_0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "58:10": {
+      "questID:3": 58,
+      "preRequisites:11": [
+        52
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "actuallyadditions:item_misc",
+            "Count:3": 1,
+            "Damage:2": 13,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Canola Oil Power Generation",
+          "desc:8": "Canola seeds grow around the world and produce canola. When it is pressed, fermented, and put into an oil generator it creates power. You\u0027ll need to jumpstart the process with some power, but eventually it will be strong enough to power itself and more."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "actuallyadditions:item_misc",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 13
+            },
+            "1:10": {
+              "id:8": "actuallyadditions:block_canola_press",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "actuallyadditions:block_fermenting_barrel",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "actuallyadditions:block_oil_generator",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "59:10": {
+      "questID:3": 59,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "appliedenergistics2:quartz_ore",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "AE2: The Gathering",
+          "desc:8": "Like a lot of other mods, this has its own resources that need to be collected. Certus quartz has three forms: regular, charged, and pure. Regular and charged are found naturally in the world, while pure has to be grown.\n\nCharged certus quartz ore is found semi-rarely in the world, but it\u0027s visible in the dark.\n\n\n§nNote§r: Charged certus quartz\u0027s primary purpose in life is the creation of fluix. Please help it fulfill it\u0027s destiny. Regular certus quartz can be substituted in every other recipie."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "appliedenergistics2:material",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "appliedenergistics2:material",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "60:10": {
+      "questID:3": 60,
+      "preRequisites:11": [
+        46,
+        59,
+        43
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "appliedenergistics2:material",
+            "Count:3": 1,
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "OR",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Charged Crystal Production",
+          "desc:8": "Charged crystals can be created from regular certus quartz in a charger.\n\nFor production, you\u0027ll need an energy acceptor (if you\u0027re using RF), some ME Glass cables, and the charger. All of these require fluix crystals.\n\nFluix crystals are created by tossing a redstone dust, nether quartz, and a charged crystal into water. Wait a moment and they will transform... just don\u0027t ask why red, light blue, and white make a dark purple crystal. IT\u0027S SCIENCE PEOPLE!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "appliedenergistics2:material",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 7
+            },
+            "1:10": {
+              "id:8": "appliedenergistics2:energy_acceptor",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "appliedenergistics2:part",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 16
+            },
+            "3:10": {
+              "id:8": "appliedenergistics2:charger",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "61:10": {
+      "questID:3": 61,
+      "preRequisites:11": [
+        60
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "appliedenergistics2:inscriber",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Inscription",
+          "desc:8": "The inscriber is the basis of AE2. To use it, however, you\u0027ll need to go hunting. You need to find the 4 presses. These allow the inscriber to press gold, silicon, diamonds, and certus quartz crystals into different mechanical parts.\n\nTo get these presses, you need to wander the surface and look for large areas of earth that have been blown away by large astroids of Sky Stone. To break the sky stone, you\u0027ll need at least a diamond pickaxe. (I hope you made a decent pick from Tinkers\u0027!)\n\n\n§§§rA note from your friend: §r§oYou should make the slime sling and slime boots. Trust me, they help in long distance travel!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "appliedenergistics2:inscriber",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "appliedenergistics2:material",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 19
+            },
+            "2:10": {
+              "id:8": "appliedenergistics2:material",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 15
+            },
+            "3:10": {
+              "id:8": "appliedenergistics2:material",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 14
+            },
+            "4:10": {
+              "id:8": "appliedenergistics2:material",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 13
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "62:10": {
+      "questID:3": 62,
+      "preRequisites:11": [],
       "properties:10": {
         "betterquesting:10": {
           "issilent:1": 0,
@@ -3140,11 +4180,390 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "New Quest",
+          "name:8": "Water",
           "desc:8": "No Description"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "requiredFluids:9": {
+            "0:10": {
+              "FluidName:8": "water",
+              "Amount:3": 1000
+            }
+          },
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "taskID:8": "bq_standard:fluid"
+        },
+        "1:10": {
+          "autoConsume:1": 0,
+          "requiredFluids:9": {
+            "0:10": {
+              "FluidName:8": "manyullyn",
+              "Amount:3": 1000
+            }
+          },
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 1,
+          "taskID:8": "bq_standard:fluid"
+        }
+      },
+      "rewards:9": {}
+    },
+    "63:10": {
+      "questID:3": 63,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:lexicon",
+            "Count:3": 1,
+            "tag:10": {
+              "knowledge.minecraft:1": 1,
+              "knowledge.alfheim:1": 1,
+              "knowledge.relic:1": 1
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "You\u0027re Gonna Need this",
+          "desc:8": "For some mods, the authors will create an in-game explanation, often contained in a book. For Botania, this is incredibly helpful.\n\n\n\n§a§oPick up your copy of Lexica Botania today!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:lexicon",
+              "Count:3": 1,
+              "tag:10": {
+                "knowledge.minecraft:1": 1,
+                "knowledge.alfheim:1": 1,
+                "knowledge.relic:1": 1
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "64:10": {
+      "questID:3": 64,
+      "preRequisites:11": [
+        63
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:pestleandmortar",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Pestle and Mortar",
+          "desc:8": "You shouldn\u0027t look here for help. Look at your new book, it has the recipe in there!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:pestleandmortar",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "botania:fertilizer",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "65:10": {
+      "questID:3": 65,
+      "preRequisites:11": [
+        67
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:petal",
+            "Count:3": 1,
+            "Damage:2": 9,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "A Floral Array",
+          "desc:8": "Time to get your flower power on!\n\n\nSeriously, that\u0027s a lot of flowers"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "2:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "3:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "4:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "5:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "6:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "7:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 7
+            },
+            "8:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 8
+            },
+            "9:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 9
+            },
+            "10:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 10
+            },
+            "11:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 11
+            },
+            "12:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 12
+            },
+            "13:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 13
+            },
+            "14:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 14
+            },
+            "15:10": {
+              "id:8": "botania:petal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 15
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "66:10": {
+      "questID:3": 66,
+      "preRequisites:11": [
+        65
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:altar",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Petal Apothecary",
+          "desc:8": "You need one. Get it. It helps for making Botainic ... stuff.\n\n\n\nNote: It does need to be this one, but this is required for making the other varieties. Just submit this quest then craft a different one if you would like."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:altar",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "67:10": {
+      "questID:3": 67,
+      "preRequisites:11": [
+        63
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:pestleandmortar",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Pestle and Mortar",
+          "desc:8": "Don\u0027t look here for help, go look at your brand-spanking-new book!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:pestleandmortar",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
       "rewards:9": {}
     }
   },
@@ -3373,20 +4792,20 @@
         },
         "1:10": {
           "size:3": 24,
-          "x:3": -12,
-          "y:3": 168,
+          "x:3": 24,
+          "y:3": 126,
           "id:3": 32
         },
         "2:10": {
           "size:3": 24,
           "x:3": -12,
-          "y:3": 210,
+          "y:3": 168,
           "id:3": 33
         },
         "3:10": {
           "size:3": 24,
           "x:3": -12,
-          "y:3": 252,
+          "y:3": 204,
           "id:3": 34
         },
         "4:10": {
@@ -3436,6 +4855,60 @@
           "x:3": -90,
           "y:3": 162,
           "id:3": 42
+        },
+        "12:10": {
+          "size:3": 24,
+          "x:3": 102,
+          "y:3": 18,
+          "id:3": 50
+        },
+        "13:10": {
+          "size:3": 24,
+          "x:3": 66,
+          "y:3": 60,
+          "id:3": 51
+        },
+        "14:10": {
+          "size:3": 24,
+          "x:3": 102,
+          "y:3": 60,
+          "id:3": 52
+        },
+        "15:10": {
+          "size:3": 24,
+          "x:3": 66,
+          "y:3": 96,
+          "id:3": 53
+        },
+        "16:10": {
+          "size:3": 24,
+          "x:3": 66,
+          "y:3": 132,
+          "id:3": 54
+        },
+        "17:10": {
+          "size:3": 24,
+          "x:3": 66,
+          "y:3": 168,
+          "id:3": 55
+        },
+        "18:10": {
+          "size:3": 24,
+          "x:3": 66,
+          "y:3": 204,
+          "id:3": 56
+        },
+        "19:10": {
+          "size:3": 24,
+          "x:3": 66,
+          "y:3": 240,
+          "id:3": 57
+        },
+        "20:10": {
+          "size:3": 24,
+          "x:3": 102,
+          "y:3": 96,
+          "id:3": 58
         }
       },
       "lineID:3": 2,
@@ -3454,20 +4927,62 @@
         "0:10": {
           "size:3": 24,
           "x:3": -192,
-          "y:3": 30,
+          "y:3": 42,
           "id:3": 43
         },
         "1:10": {
           "size:3": 24,
           "x:3": -192,
-          "y:3": 66,
+          "y:3": 84,
           "id:3": 44
         },
         "2:10": {
           "size:3": 24,
           "x:3": -192,
-          "y:3": 102,
+          "y:3": 126,
           "id:3": 45
+        },
+        "3:10": {
+          "size:3": 24,
+          "x:3": -156,
+          "y:3": 42,
+          "id:3": 46
+        },
+        "4:10": {
+          "size:3": 24,
+          "x:3": -228,
+          "y:3": 0,
+          "id:3": 47
+        },
+        "5:10": {
+          "size:3": 24,
+          "x:3": -228,
+          "y:3": 42,
+          "id:3": 48
+        },
+        "6:10": {
+          "size:3": 24,
+          "x:3": -264,
+          "y:3": 42,
+          "id:3": 49
+        },
+        "7:10": {
+          "size:3": 24,
+          "x:3": -114,
+          "y:3": 42,
+          "id:3": 59
+        },
+        "8:10": {
+          "size:3": 24,
+          "x:3": -156,
+          "y:3": 84,
+          "id:3": 60
+        },
+        "9:10": {
+          "size:3": 24,
+          "x:3": -156,
+          "y:3": 126,
+          "id:3": 61
         }
       },
       "lineID:3": 3,
@@ -3482,7 +4997,32 @@
       "order:3": 3
     },
     "4:10": {
-      "quests:9": {},
+      "quests:9": {
+        "0:10": {
+          "size:3": 24,
+          "x:3": -12,
+          "y:3": 6,
+          "id:3": 63
+        },
+        "1:10": {
+          "size:3": 24,
+          "x:3": -12,
+          "y:3": 90,
+          "id:3": 65
+        },
+        "2:10": {
+          "size:3": 24,
+          "x:3": -12,
+          "y:3": 126,
+          "id:3": 66
+        },
+        "3:10": {
+          "size:3": 24,
+          "x:3": -12,
+          "y:3": 48,
+          "id:3": 67
+        }
+      },
       "lineID:3": 4,
       "properties:10": {
         "betterquesting:10": {
