@@ -4335,7 +4335,7 @@
     "65:10": {
       "questID:3": 65,
       "preRequisites:11": [
-        67
+        63
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -4498,7 +4498,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Petal Apothecary",
-          "desc:8": "You need one. Get it. It helps for making Botainic ... stuff.\n\n\n\nNote: It does need to be this one, but this is required for making the other varieties. Just submit this quest then craft a different one if you would like."
+          "desc:8": "A simple recipe, just stone and a petal in the right shape.\n\nNote that there is no GUI, and you don\u0027t right click to place items in. You actually throw (default Q) items into it. Finish each recipe with some seeds."
         }
       },
       "tasks:9": {
@@ -4557,6 +4557,698 @@
             "0:10": {
               "id:8": "botania:pestleandmortar",
               "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "68:10": {
+      "questID:3": 68,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "bloodmagic:soul_snare",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Snare that will",
+          "desc:8": "You have a dark feeling. You need someone\u0027s will.\n\n\nThrow this item at a dying monster. When you see white particles, finish them off to gain their will."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bloodmagic:soul_snare",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "69:10": {
+      "questID:3": 69,
+      "preRequisites:11": [
+        68
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "bloodmagic:soul_forge",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Get more wills",
+          "desc:8": "Those wills weren\u0027t enough. You feel the need for more. There must be a better way.\n\nLet\u0027s get a hellfire forge, and ramp up some production of wills."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bloodmagic:soul_forge",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "70:10": {
+      "questID:3": 70,
+      "preRequisites:11": [
+        69
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "bloodmagic:soul_gem",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Petty Tartanic Gem",
+          "desc:8": "To start, put a will (of at least 1.0 point value) into your Hellfire forge in the far right slot. In the corner slots, you\u0027ll need lapis, redstone, gold ingots, and glass.\n\n\n\n\n§r§oI hear they taste like Tartar! Mmm!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bloodmagic:soul_gem",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bloodmagic:soul_gem",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "71:10": {
+      "questID:3": 71,
+      "preRequisites:11": [
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "bloodmagic:sentient_sword",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "One Sword to Kill them All",
+          "desc:8": "The whole will collecting process is becoming quite bothersome. Let\u0027s ramp things up a bit.\n\nPut a Petty Tartaric Gem and an iron sword into a Hellfire Furnace to get a Sentient sword. It\u0027s so sentient that this sword will convice the other wills to join forces with it in a spectacular bout of wit.\n\nOr more simply, it always gets wills from mobs you kill with it, and stores them for you."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bloodmagic:sentient_sword",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "72:10": {
+      "questID:3": 72,
+      "preRequisites:11": [
+        68
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "bloodmagic:altar",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Red Altar",
+          "desc:8": "§oIt is unfortunately, your §o§o§cblood§r§o. Smeared all over that thing. Don\u0027t worry though, it won\u0027t hurt... too much.\n\n§rThe recipe isn\u0027t that bad though. A few gold ingots, some stone, a furnace, and a demonic will. Whip it up in no time.\n\n\n\nWe won\u0027t go into how here, but this is a multi-block structure that can be upgraded to unlock further and more powerful recipes. To do this, you will need a 23w x 23l x 9h room and an internet connection. Search something like \"minecraft blood altar\" in your favorite search engine (Google).  Be SURE to include minecraft in that search!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bloodmagic:altar",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "73:10": {
+      "questID:3": 73,
+      "preRequisites:11": [
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "bloodmagic:soul_gem",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "A Bit Less Will",
+          "desc:8": "§oOr a bit more, the name is confusing me.\n\n§rSometimes a petty thing just isn\u0027t enough. This is like a bigger will wallet. (Mine\u0027s for bills, but whatever floats your boat)"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bloodmagic:soul_gem",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "74:10": {
+      "questID:3": 74,
+      "preRequisites:11": [
+        73
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "bloodmagic:soul_gem",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "It\u0027s quite a Common Gem",
+          "desc:8": "§oMore! More! More!\n\n§rWhen a lesser really is lesser..."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bloodmagic:soul_gem",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "75:10": {
+      "questID:3": 75,
+      "preRequisites:11": [
+        74
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "bloodmagic:soul_gem",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Well this is just Great",
+          "desc:8": "I think the title says it all."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bloodmagic:soul_gem",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 3
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "76:10": {
+      "questID:3": 76,
+      "preRequisites:11": [
+        75
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "bloodmagic:soul_gem",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Gotta Hold them All!",
+          "desc:8": "§oFinally, I can have them! All of them! They all belong to me!\n\n§rI don\u0027t even know what you want this for. Can you seriously get this many?"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bloodmagic:soul_gem",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 4
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "77:10": {
+      "questID:3": 77,
+      "preRequisites:11": [
+        66
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Mana Pool",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "78:10": {
+      "questID:3": 78,
+      "preRequisites:11": [
+        66
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:specialflower",
+            "Count:3": 1,
+            "tag:10": {
+              "type:8": "endoflame"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Endoflame",
+          "desc:8": "A great starter to mana production, the endoflame burns dropped fuel that is within its reach. A block of coal will last longer than a piece, but be wary because each item only lasts so long. After the equivelent of 288 items being smelted in a furnace, the fuel is consumed. "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "endoflame"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "79:10": {
+      "questID:3": 79,
+      "preRequisites:11": [
+        66
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:specialflower",
+            "Count:3": 1,
+            "tag:10": {
+              "type:8": "puredaisy"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Pure Daisy",
+          "desc:8": "A magical flower that turns adjacent (including diagonal) stone and wood into their living varieties.\n\nCraft it with 4 white petals and water in the apothecary."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "puredaisy"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "80:10": {
+      "questID:3": 80,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Mana Spreader",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "81:10": {
+      "questID:3": 81,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:twigwand",
+            "Count:3": 1,
+            "tag:10": {
+              "color1:3": 0,
+              "color2:3": 0
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Wand of the Forest",
+          "desc:8": "A great all around tool for Botania. It can reorient mana spreaders, connect mana sources and destinations, and looks fantastic as you skip through flower fields."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:twigwand",
+              "Count:3": 1,
+              "tag:10": {
+                "color1:3": 0,
+                "color2:3": 0
+              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -5006,21 +5698,105 @@
         },
         "1:10": {
           "size:3": 24,
-          "x:3": -12,
-          "y:3": 90,
+          "x:3": 6,
+          "y:3": 42,
           "id:3": 65
         },
         "2:10": {
           "size:3": 24,
-          "x:3": -12,
-          "y:3": 126,
+          "x:3": 6,
+          "y:3": 78,
           "id:3": 66
         },
         "3:10": {
           "size:3": 24,
-          "x:3": -12,
-          "y:3": 48,
+          "x:3": -30,
+          "y:3": 42,
           "id:3": 67
+        },
+        "4:10": {
+          "size:3": 24,
+          "x:3": -180,
+          "y:3": 6,
+          "id:3": 68
+        },
+        "5:10": {
+          "size:3": 24,
+          "x:3": -180,
+          "y:3": 42,
+          "id:3": 69
+        },
+        "6:10": {
+          "size:3": 24,
+          "x:3": -150,
+          "y:3": 78,
+          "id:3": 70
+        },
+        "7:10": {
+          "size:3": 24,
+          "x:3": -168,
+          "y:3": 120,
+          "id:3": 71
+        },
+        "8:10": {
+          "size:3": 24,
+          "x:3": -216,
+          "y:3": 42,
+          "id:3": 72
+        },
+        "9:10": {
+          "size:3": 24,
+          "x:3": -132,
+          "y:3": 120,
+          "id:3": 73
+        },
+        "10:10": {
+          "size:3": 24,
+          "x:3": -132,
+          "y:3": 156,
+          "id:3": 74
+        },
+        "11:10": {
+          "size:3": 24,
+          "x:3": -132,
+          "y:3": 192,
+          "id:3": 75
+        },
+        "12:10": {
+          "size:3": 24,
+          "x:3": -132,
+          "y:3": 228,
+          "id:3": 76
+        },
+        "13:10": {
+          "size:3": 24,
+          "x:3": 6,
+          "y:3": 114,
+          "id:3": 77
+        },
+        "14:10": {
+          "size:3": 24,
+          "x:3": 36,
+          "y:3": 108,
+          "id:3": 78
+        },
+        "15:10": {
+          "size:3": 24,
+          "x:3": 42,
+          "y:3": 78,
+          "id:3": 79
+        },
+        "16:10": {
+          "size:3": 24,
+          "x:3": -24,
+          "y:3": 108,
+          "id:3": 80
+        },
+        "17:10": {
+          "size:3": 24,
+          "x:3": -30,
+          "y:3": 78,
+          "id:3": 81
         }
       },
       "lineID:3": 4,
