@@ -4258,12 +4258,8 @@
             "0:10": {
               "id:8": "botania:lexicon",
               "Count:3": 1,
-              "tag:10": {
-                "knowledge.minecraft:1": 1,
-                "knowledge.alfheim:1": 1,
-                "knowledge.relic:1": 1
-              },
-              "OreDict:8": "",
+              "tag:10": {},
+              "OreDict:8": "lexicaBotania",
               "Damage:3": 0
             }
           },
@@ -5034,7 +5030,7 @@
     "77:10": {
       "questID:3": 77,
       "preRequisites:11": [
-        66
+        83
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -5045,7 +5041,7 @@
           "repeattime:3": -1,
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "botania:pool",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -5057,10 +5053,25 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Mana Pool",
-          "desc:8": "No Description"
+          "desc:8": "It will hold a large amount of your mana for you. It is also used for other things, like the creation of mana pearls and manasteel ingots.\n\nIt\u0027s kind of like a battery, but with mana instead of electricity."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:pool",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
       "rewards:9": {}
     },
     "78:10": {
@@ -5177,7 +5188,9 @@
     },
     "80:10": {
       "questID:3": 80,
-      "preRequisites:11": [],
+      "preRequisites:11": [
+        82
+      ],
       "properties:10": {
         "betterquesting:10": {
           "issilent:1": 0,
@@ -5187,7 +5200,7 @@
           "repeattime:3": -1,
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "botania:spreader",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -5199,15 +5212,32 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Mana Spreader",
-          "desc:8": "No Description"
+          "desc:8": "The mana spreader is, I think anyways, the most important part of Botania as well as the most frustrating.\n\nMana spreaders move mana. That\u0027s all.\n\nSay you have an endoflame that is producing mana. You also have a mana pool a few blocks away. You need that mana in that pool, but mana is magic; you can\u0027t just pick it up. To move the mana, put a mana spreader next to the endoflame. Then shift-R-click on the spreader with a wand of the forest and shift-R-click on the pool. When the spreader works, you\u0027ll see a green particle effect jumping between the spreader and the object it is filling."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:spreader",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
       "rewards:9": {}
     },
     "81:10": {
       "questID:3": 81,
-      "preRequisites:11": [],
+      "preRequisites:11": [
+        82
+      ],
       "properties:10": {
         "betterquesting:10": {
           "issilent:1": 0,
@@ -5256,6 +5286,220 @@
           "taskID:8": "bq_standard:crafting"
         }
       },
+      "rewards:9": {}
+    },
+    "82:10": {
+      "questID:3": 82,
+      "preRequisites:11": [
+        79
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:livingwood",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Livingwood",
+          "desc:8": "§o§oThis is the stuff Groot is made of\n\n§rJust like livingrock, livingwood is another Botania item that is used for crafting magical items. Much like wood, it can be turned into planks and sticks as well."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:livingwood",
+              "Count:3": 16,
+              "OreDict:8": "livingwood",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "83:10": {
+      "questID:3": 83,
+      "preRequisites:11": [
+        79
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:livingrock",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "livingrock"
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Livingrock",
+          "desc:8": "The pure daisy has a special power. Any stone surrounding it will be turned into livingrock after a little while. The livingrock is used in crafting magical items in Botania"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:livingrock",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "84:10": {
+      "questID:3": 84,
+      "preRequisites:11": [
+        77
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:manaresource",
+            "Count:3": 1,
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Mana Pearl",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:manaresource",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "85:10": {
+      "questID:3": 85,
+      "preRequisites:11": [
+        77
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "86:10": {
+      "questID:3": 86,
+      "preRequisites:11": [
+        85
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
       "rewards:9": {}
     }
   },
@@ -5624,20 +5868,20 @@
         },
         "1:10": {
           "size:3": 24,
-          "x:3": -192,
-          "y:3": 84,
+          "x:3": -162,
+          "y:3": 78,
           "id:3": 44
         },
         "2:10": {
           "size:3": 24,
-          "x:3": -192,
-          "y:3": 126,
+          "x:3": -162,
+          "y:3": 120,
           "id:3": 45
         },
         "3:10": {
           "size:3": 24,
-          "x:3": -156,
-          "y:3": 42,
+          "x:3": -162,
+          "y:3": 0,
           "id:3": 46
         },
         "4:10": {
@@ -5660,20 +5904,20 @@
         },
         "7:10": {
           "size:3": 24,
-          "x:3": -114,
-          "y:3": 42,
+          "x:3": -108,
+          "y:3": 0,
           "id:3": 59
         },
         "8:10": {
           "size:3": 24,
-          "x:3": -156,
-          "y:3": 84,
+          "x:3": -108,
+          "y:3": 42,
           "id:3": 60
         },
         "9:10": {
           "size:3": 24,
-          "x:3": -156,
-          "y:3": 126,
+          "x:3": -108,
+          "y:3": 84,
           "id:3": 61
         }
       },
@@ -5770,33 +6014,63 @@
         },
         "13:10": {
           "size:3": 24,
-          "x:3": 6,
-          "y:3": 114,
+          "x:3": 30,
+          "y:3": 180,
           "id:3": 77
         },
         "14:10": {
           "size:3": 24,
-          "x:3": 36,
-          "y:3": 108,
+          "x:3": -30,
+          "y:3": 78,
           "id:3": 78
         },
         "15:10": {
           "size:3": 24,
-          "x:3": 42,
-          "y:3": 78,
+          "x:3": 6,
+          "y:3": 114,
           "id:3": 79
         },
         "16:10": {
           "size:3": 24,
-          "x:3": -24,
-          "y:3": 108,
+          "x:3": -42,
+          "y:3": 180,
           "id:3": 80
         },
         "17:10": {
           "size:3": 24,
-          "x:3": -30,
-          "y:3": 78,
+          "x:3": -6,
+          "y:3": 180,
           "id:3": 81
+        },
+        "18:10": {
+          "size:3": 24,
+          "x:3": -24,
+          "y:3": 144,
+          "id:3": 82
+        },
+        "19:10": {
+          "size:3": 24,
+          "x:3": 30,
+          "y:3": 144,
+          "id:3": 83
+        },
+        "20:10": {
+          "size:3": 24,
+          "x:3": 12,
+          "y:3": 216,
+          "id:3": 84
+        },
+        "21:10": {
+          "size:3": 24,
+          "x:3": 48,
+          "y:3": 216,
+          "id:3": 85
+        },
+        "22:10": {
+          "size:3": 24,
+          "x:3": 48,
+          "y:3": 252,
+          "id:3": 86
         }
       },
       "lineID:3": 4,
