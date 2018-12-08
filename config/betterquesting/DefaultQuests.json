@@ -4266,7 +4266,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "You\u0027re Gonna Need this",
-          "desc:8": "For some mods, the authors will create an in-game explanation, often contained in a book. For Botania, this is incredibly helpful.\n\n\n\n§a§oPick up your copy of Lexica Botania today!"
+          "desc:8": "Botania is a floral mod, but don\u0027t be tricked, these flowers can be nastly little buggers. With explosions, food, and magic, there\u0027s something for everyone!\n\n\nFor some mods, the authors will create an in-game explanation, often contained in a book. For Botania, this is incredibly helpful.\n\n\n\n§a§o§r§oPick up your copy of Lexica Botania today!"
         }
       },
       "tasks:9": {
@@ -5125,7 +5125,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Endoflame",
+          "name:8": "The End O Flame",
           "desc:8": "A great starter to mana production, the endoflame burns dropped fuel that is within its reach. A block of coal will last longer than a piece, but be wary because each item only lasts so long. After the equivelent of 288 items being smelted in a furnace, the fuel is consumed. "
         }
       },
@@ -5475,7 +5475,7 @@
           "repeattime:3": -1,
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "botania:manaresource",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -5486,17 +5486,37 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "Manasteel",
+          "desc:8": "Manasteel is created by throwing iron ingots into a mana pool. The iron ingot and some mana will be consumed, but it\u0027s worth it. We think."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:manaresource",
+              "Count:3": 16,
+              "OreDict:8": "ingotManasteel",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "86:10": {
       "questID:3": 86,
       "preRequisites:11": [
-        85
+        85,
+        84,
+        89
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -5507,7 +5527,7 @@
           "repeattime:3": -1,
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "minecraft:nether_star",
+            "id:8": "botania:terraplate",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -5518,11 +5538,41 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "New Quest",
-          "desc:8": "No Description"
+          "name:8": "It\u0027s an Agglomeration!",
+          "desc:8": "§o§l§o§o§r§l§nThe Ultimate Botanic Metal: Terrasteel\n\n§r§oIt\u0027s so difficult, it takes two quests!\n\n§rSo to set this up, you\u0027ll need to arrange these blocks in a 3x3 checker board pattern with the Agglomeration plate on top of the central block of living stone. Then collect all the mana you can, cause this takes a ton of mana (about half a pool per ingot)."
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:terraplate",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:lapis_block",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:livingrock",
+              "Count:3": 5,
+              "OreDict:8": "livingrock",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
       "rewards:9": {}
     },
     "87:10": {
@@ -5561,7 +5611,7 @@
           "groupDetect:1": 0,
           "ignoreNBT:1": 0,
           "index:3": 0,
-          "consume:1": 1,
+          "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
               "id:8": "actuallyadditions:item_misc",
@@ -5587,6 +5637,356 @@
           }
         }
       }
+    },
+    "88:10": {
+      "questID:3": 88,
+      "preRequisites:11": [
+        86
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:manaresource",
+            "Count:3": 1,
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Terrasteel",
+          "desc:8": "Now that you have the setup, just toss a mana pearl, mana diamond, and manasteel ingot onto the plate and wait...\n\n...\n\n\n\n...\n\n\nJust a few more minutes and you should have this cooked up... Really."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:manaresource",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 4
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "betterbuilderswands:wandunbreakable",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "89:10": {
+      "questID:3": 89,
+      "preRequisites:11": [
+        77
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:manaresource",
+            "Count:3": 1,
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Mana Diamond",
+          "desc:8": "Yup, you\u0027ll need to toss some diamonds (into a §mlava§r§r§r §r§rmana pool).\n\nIt\u0027s kinda fun isn\u0027t it? Oh, just fun for me? \n\n\n                     \u003e:)"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:manaresource",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "botania:manaresource",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
+    },
+    "90:10": {
+      "questID:3": 90,
+      "preRequisites:11": [
+        66
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:specialflower",
+            "Count:3": 1,
+            "tag:10": {
+              "type:8": "bergamute"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Hush!",
+          "desc:8": "if you like to keep things quiet, this flower will help you out. it absorbs sounds that are created in a small radius around it, and converts this into mana. the mana, however, is so insignificant that it can\u0027t be transfered or used.\n\n\n§o[no letters were yelled in the making of this quest]"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "bergamute"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "91:10": {
+      "questID:3": 91,
+      "preRequisites:11": [
+        66
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:specialflower",
+            "Count:3": 1,
+            "tag:10": {
+              "type:8": "medumone"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Stop, you animal!",
+          "desc:8": "§oAlternately, \u0027You Shall Not Pass!\u0027, but that\u0027s overused.\n\n§rThis flower gives all other mobs (non-player) a slow effect when they are in a short radius of the flower."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "medumone"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "92:10": {
+      "questID:3": 92,
+      "preRequisites:11": [
+        66
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:specialflower",
+            "Count:3": 1,
+            "tag:10": {
+              "type:8": "munchdew"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Tree Eater",
+          "desc:8": "This mana generating flower eats leaves that grow around it. It produces a large amount of mana as well. Be careful though, because it likes to eat non-stop. If it stops eating, it stops for minutes at a time."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "munchdew"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "93:10": {
+      "questID:3": 93,
+      "preRequisites:11": [
+        66
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:specialflower",
+            "Count:3": 1,
+            "tag:10": {
+              "type:8": "gourmaryllis"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "My Kind of Flower",
+          "desc:8": "§oThis plant likes to EAT!\n\n§rThis one (I wont\u0027 try to pronounce it) likes to eat food. It\u0027s a bit picky though. It likes to eat food it hasn\u0027t eaten lately, so keep a wide variety around.\n\nOnce fed, this plant will start generating mana."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "gourmaryllis"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -6028,8 +6428,8 @@
       "quests:9": {
         "0:10": {
           "size:3": 24,
-          "x:3": -12,
-          "y:3": 6,
+          "x:3": 6,
+          "y:3": 12,
           "id:3": 63
         },
         "1:10": {
@@ -6041,7 +6441,7 @@
         "2:10": {
           "size:3": 24,
           "x:3": 6,
-          "y:3": 78,
+          "y:3": 72,
           "id:3": 66
         },
         "3:10": {
@@ -6052,13 +6452,13 @@
         },
         "4:10": {
           "size:3": 24,
-          "x:3": -180,
+          "x:3": -168,
           "y:3": 6,
           "id:3": 68
         },
         "5:10": {
           "size:3": 24,
-          "x:3": -180,
+          "x:3": -150,
           "y:3": 42,
           "id:3": 69
         },
@@ -6076,7 +6476,7 @@
         },
         "8:10": {
           "size:3": 24,
-          "x:3": -216,
+          "x:3": -186,
           "y:3": 42,
           "id:3": 72
         },
@@ -6106,63 +6506,99 @@
         },
         "13:10": {
           "size:3": 24,
-          "x:3": 30,
-          "y:3": 180,
+          "x:3": 66,
+          "y:3": 162,
           "id:3": 77
         },
         "14:10": {
           "size:3": 24,
           "x:3": -30,
-          "y:3": 78,
+          "y:3": 72,
           "id:3": 78
         },
         "15:10": {
           "size:3": 24,
           "x:3": 6,
-          "y:3": 114,
+          "y:3": 102,
           "id:3": 79
         },
         "16:10": {
           "size:3": 24,
-          "x:3": -42,
-          "y:3": 180,
+          "x:3": -48,
+          "y:3": 162,
           "id:3": 80
         },
         "17:10": {
           "size:3": 24,
-          "x:3": -6,
-          "y:3": 180,
+          "x:3": 0,
+          "y:3": 162,
           "id:3": 81
         },
         "18:10": {
           "size:3": 24,
           "x:3": -24,
-          "y:3": 144,
+          "y:3": 132,
           "id:3": 82
         },
         "19:10": {
           "size:3": 24,
-          "x:3": 30,
-          "y:3": 144,
+          "x:3": 36,
+          "y:3": 132,
           "id:3": 83
         },
         "20:10": {
           "size:3": 24,
-          "x:3": 12,
-          "y:3": 216,
+          "x:3": 66,
+          "y:3": 192,
           "id:3": 84
         },
         "21:10": {
           "size:3": 24,
-          "x:3": 48,
-          "y:3": 216,
+          "x:3": 96,
+          "y:3": 192,
           "id:3": 85
         },
         "22:10": {
           "size:3": 24,
-          "x:3": 48,
-          "y:3": 252,
+          "x:3": 66,
+          "y:3": 222,
           "id:3": 86
+        },
+        "23:10": {
+          "size:3": 24,
+          "x:3": 66,
+          "y:3": 252,
+          "id:3": 88
+        },
+        "24:10": {
+          "size:3": 24,
+          "x:3": 36,
+          "y:3": 192,
+          "id:3": 89
+        },
+        "25:10": {
+          "size:3": 24,
+          "x:3": 42,
+          "y:3": 102,
+          "id:3": 90
+        },
+        "26:10": {
+          "size:3": 24,
+          "x:3": -30,
+          "y:3": 102,
+          "id:3": 91
+        },
+        "27:10": {
+          "size:3": 24,
+          "x:3": 42,
+          "y:3": 72,
+          "id:3": 92
+        },
+        "28:10": {
+          "size:3": 24,
+          "x:3": 42,
+          "y:3": 42,
+          "id:3": 93
         }
       },
       "lineID:3": 4,
