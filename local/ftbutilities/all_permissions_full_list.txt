@@ -1,4 +1,4 @@
-12464 nodes in total
+12465 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -10274,6 +10274,7 @@ ftbutilities.claims.item.immersiveengineering.fluorescent_tube: ALL
 ftbutilities.claims.item.immersiveengineering.graphite_electrode: ALL
 ftbutilities.claims.item.immersiveengineering.hemp: ALL
 ftbutilities.claims.item.immersiveengineering.jerrycan: ALL
+ftbutilities.claims.item.immersiveengineering.maintenance_kit: ALL
 ftbutilities.claims.item.immersiveengineering.material: ALL
 ftbutilities.claims.item.immersiveengineering.metal: ALL
 ftbutilities.claims.item.immersiveengineering.metal_decoration0: ALL
