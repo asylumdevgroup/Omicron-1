@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-12-22T03:34:20.0271274Z",
+  "lastPlayed": "2018-12-22T04:00:18.417835Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -197,36 +197,6 @@
       "queryTimestamp": "2018-12-21T23:51:38.2825915Z",
       "fileCount": 1,
       "fileSize": 100146
-    },
-    {
-      "folderName": "jeibees-0.9.0.5-mc1.12.2.jar",
-      "fingerprint": 12823422,
-      "fileDateHash": 2461288202,
-      "sectionID": 6,
-      "individualFingerprints": [
-        12823422
-      ],
-      "status": 1,
-      "timestamp": "2018-07-25T00:41:15.3103179Z",
-      "lastWriteTimeUtc": "2018-06-07T02:03:42Z",
-      "queryTimestamp": "2018-12-21T23:51:38.2825915Z",
-      "fileCount": 1,
-      "fileSize": 117480
-    },
-    {
-      "folderName": "binnie-mods-1.12.2-2.5.1.184.jar",
-      "fingerprint": 2458138545,
-      "fileDateHash": 2995228861,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2458138545
-      ],
-      "status": 1,
-      "timestamp": "2018-11-29T22:09:02.884489Z",
-      "lastWriteTimeUtc": "2018-11-29T00:54:13.1346885Z",
-      "queryTimestamp": "2018-12-21T23:51:38.2825915Z",
-      "fileCount": 1,
-      "fileSize": 5861232
     },
     {
       "folderName": "plustic-6.5.4.2.jar",
@@ -1358,21 +1328,6 @@
       "queryTimestamp": "2018-12-21T23:51:38.2905702Z",
       "fileCount": 1,
       "fileSize": 2639564
-    },
-    {
-      "folderName": "forestry_1.12.2-5.8.2.374.jar",
-      "fingerprint": 378578810,
-      "fileDateHash": 3604134528,
-      "sectionID": 6,
-      "individualFingerprints": [
-        378578810
-      ],
-      "status": 1,
-      "timestamp": "2018-11-29T22:09:03.0660032Z",
-      "lastWriteTimeUtc": "2018-11-29T00:54:25.4098762Z",
-      "queryTimestamp": "2018-12-21T23:51:38.2905702Z",
-      "fileCount": 1,
-      "fileSize": 5230821
     },
     {
       "folderName": "WanionLib-1.12.2-2.1.jar",
@@ -2792,71 +2747,6 @@
       "dateUpdated": "2018-12-22T03:11:52.6515323Z",
       "dateLastUpdateAttempted": "2018-12-22T03:11:52.6515323Z",
       "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 248370,
-      "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
-      "installedFile": {
-        "id": 2490058,
-        "fileName": "JEI Bees 0.9.0.5 (MC 1.12.2)",
-        "fileNameOnDisk": "jeibees-0.9.0.5-mc1.12.2.jar",
-        "fileDate": "2017-10-12T18:35:55.983",
-        "fileLength": 0,
-        "releaseType": 2,
-        "fileStatus": 1,
-        "downloadUrl": "https://files.forgecdn.net/files/2490/58/jeibees-0.9.0.5-mc1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "addonId": 59751,
-            "type": 1
-          },
-          {
-            "addonId": 238222,
-            "type": 1
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 2464251221
-          },
-          {
-            "folderName": "net",
-            "fimgerprint": 1541940746
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 369393444
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 728962449
-          }
-        ],
-        "packageFingerprint": 12823422,
-        "gameVersion": [
-          "1.12.2",
-          "1.12.1",
-          "1.12"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2018-07-04T15:23:10.5680205Z",
-      "dateUpdated": "2017-07-04T15:23:10.5680205Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5149,65 +5039,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 223525,
-      "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
-      "installedFile": {
-        "id": 2636899,
-        "fileName": "binnie-mods-1.12.2-2.5.1.184.jar",
-        "fileNameOnDisk": "binnie-mods-1.12.2-2.5.1.184.jar",
-        "fileDate": "2018-11-10T18:02:17.067",
-        "fileLength": 5861232,
-        "releaseType": 3,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2636/899/binnie-mods-1.12.2-2.5.1.184.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "addonId": 59751,
-            "type": 1
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 1368734024
-          },
-          {
-            "folderName": "binnie",
-            "fimgerprint": 2147580792
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 1126765706
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 226150280
-          }
-        ],
-        "packageFingerprint": 2458138545,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2018-07-25T01:15:17.4864615Z",
-      "dateUpdated": "2018-11-29T00:54:13.1626149Z",
-      "dateLastUpdateAttempted": "2018-11-29T00:54:13.1626149Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 228404,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
@@ -5707,72 +5538,6 @@
       "dateInstalled": "2018-07-25T01:15:17.4894536Z",
       "dateUpdated": "2018-12-12T22:17:35.8200052Z",
       "dateLastUpdateAttempted": "2018-12-12T22:17:35.8200052Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 59751,
-      "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
-      "installedFile": {
-        "id": 2638806,
-        "fileName": "forestry_1.12.2-5.8.2.374.jar",
-        "fileNameOnDisk": "forestry_1.12.2-5.8.2.374.jar",
-        "fileDate": "2018-11-17T08:01:27.737",
-        "fileLength": 5230821,
-        "releaseType": 2,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2638/806/forestry_1.12.2-5.8.2.374.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 2095829454
-          },
-          {
-            "folderName": "forestry",
-            "fimgerprint": 3399486947
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 2887259821
-          },
-          {
-            "folderName": "config",
-            "fimgerprint": 1828168322
-          },
-          {
-            "folderName": "CREDITS.txt",
-            "fimgerprint": 2738042887
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 3487886449
-          },
-          {
-            "folderName": "pack.mcmeta",
-            "fimgerprint": 3213175927
-          }
-        ],
-        "packageFingerprint": 378578810,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2018-07-25T01:15:17.4894536Z",
-      "dateUpdated": "2018-11-29T00:54:25.4348092Z",
-      "dateLastUpdateAttempted": "2018-11-29T00:54:25.4348092Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
