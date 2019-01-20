@@ -1168,6 +1168,9 @@ nuclearcraft:ingot_block:7, Magnesium Block
 nuclearcraft:ingot_block:8, Graphite Block
 nuclearcraft:ingot_block:9, Beryllium Block
 nuclearcraft:ingot_block:10, Zirconium Block
+nuclearcraft:ingot_block:11, Manganese Block
+nuclearcraft:ingot_block:12, Aluminum Block
+nuclearcraft:ingot_block:13, Silver Block
 nuclearcraft:fission_block:0, Fission Reactor Casing
 nuclearcraft:fission_block:1, Blast Block
 nuclearcraft:reactor_casing_transparent, Transparent Fission Reactor Casing
@@ -1291,13 +1294,27 @@ nuclearcraft:heat_exchanger_wall, Heat Exchanger Shell
 nuclearcraft:heat_exchanger_glass, Transparent Heat Exchanger Shell
 nuclearcraft:heat_exchanger_frame, Heat Exchanger Frame
 nuclearcraft:heat_exchanger_vent, Heat Exchanger Vent
-nuclearcraft:heat_exchanger_tube_copper, Basic Heat Exchanger Tube
-nuclearcraft:heat_exchanger_tube_hard_carbon, Advanced Heat Exchanger Tube
-nuclearcraft:heat_exchanger_tube_thermoconducting, Elite Heat Exchanger Tube
-nuclearcraft:turbine_controller, Steam Turbine Controller
-nuclearcraft:turbine_wall, Steam Turbine Wall
-nuclearcraft:turbine_glass, Transparent Steam Turbine Wall
-nuclearcraft:turbine_frame, Steam Turbine Frame
+nuclearcraft:heat_exchanger_tube_copper, Copper Heat Exchanger Tube
+nuclearcraft:heat_exchanger_tube_hard_carbon, Hard Carbon Heat Exchanger Tube
+nuclearcraft:heat_exchanger_tube_thermoconducting, Thermoconducting Alloy Heat Exchanger Tube
+nuclearcraft:turbine_controller, Turbine Controller
+nuclearcraft:turbine_wall, Turbine Wall
+nuclearcraft:turbine_glass, Transparent Turbine Wall
+nuclearcraft:turbine_frame, Turbine Frame
+nuclearcraft:turbine_rotor_shaft, Turbine Rotor Shaft
+nuclearcraft:turbine_rotor_blade_steel, Steel Turbine Rotor Blade
+nuclearcraft:turbine_rotor_blade_extreme, Extreme Alloy Turbine Rotor Blade
+nuclearcraft:turbine_rotor_blade_sic_sic_cmc, SiC-SiC CMC Turbine Rotor Blade
+nuclearcraft:turbine_rotor_stator, Turbine Rotor Stator
+nuclearcraft:turbine_rotor_bearing, Turbine Rotor Bearing
+nuclearcraft:turbine_dynamo_coil:0, Magnesium Turbine Dynamo Coil
+nuclearcraft:turbine_dynamo_coil:1, Beryllium Turbine Dynamo Coil
+nuclearcraft:turbine_dynamo_coil:2, Aluminum Turbine Dynamo Coil
+nuclearcraft:turbine_dynamo_coil:3, Gold Turbine Dynamo Coil
+nuclearcraft:turbine_dynamo_coil:4, Copper Turbine Dynamo Coil
+nuclearcraft:turbine_dynamo_coil:5, Silver Turbine Dynamo Coil
+nuclearcraft:turbine_inlet, Turbine Fluid Inlet
+nuclearcraft:turbine_outlet, Turbine Fluid Outlet
 nuclearcraft:accelerator_electromagnet_idle, Superconducting Electromagnet
 nuclearcraft:accelerator_electromagnet_active, Superconducting Electromagnet
 nuclearcraft:electromagnet_supercooler_idle, Superconducting Supercooler
@@ -1329,6 +1346,9 @@ nuclearcraft:ingot:7, Magnesium Ingot
 nuclearcraft:ingot:8, Graphite Ingot
 nuclearcraft:ingot:9, Beryllium Ingot
 nuclearcraft:ingot:10, Zirconium Ingot
+nuclearcraft:ingot:11, Manganese Ingot
+nuclearcraft:ingot:12, Aluminum Ingot
+nuclearcraft:ingot:13, Silver Ingot
 nuclearcraft:ingot_oxide:0, Thorium Oxide Ingot
 nuclearcraft:ingot_oxide:1, Uranium Oxide Ingot
 nuclearcraft:ingot_oxide:2, Manganese Oxide Ingot
@@ -1344,6 +1364,9 @@ nuclearcraft:dust:7, Magnesium Dust
 nuclearcraft:dust:8, Graphite Dust
 nuclearcraft:dust:9, Beryllium Dust
 nuclearcraft:dust:10, Zirconium Dust
+nuclearcraft:dust:11, Manganese Dust
+nuclearcraft:dust:12, Aluminum Dust
+nuclearcraft:dust:13, Silver Dust
 nuclearcraft:dust_oxide:0, Thorium Oxide Dust
 nuclearcraft:dust_oxide:1, Uranium Oxide Dust
 nuclearcraft:dust_oxide:2, Manganese Oxide Dust
@@ -1354,6 +1377,7 @@ nuclearcraft:gem:2, Fluorite
 nuclearcraft:gem:3, Villiaumite
 nuclearcraft:gem:4, Carobbiite
 nuclearcraft:gem:5, Boron Arsenide
+nuclearcraft:gem:6, Silicon
 nuclearcraft:gem_dust:0, Crushed Diamond
 nuclearcraft:gem_dust:1, Crushed Rhodochrosite
 nuclearcraft:gem_dust:2, Crushed Quartz
@@ -1365,6 +1389,7 @@ nuclearcraft:gem_dust:7, Crushed Coal
 nuclearcraft:gem_dust:8, Crushed Villiaumite
 nuclearcraft:gem_dust:9, Crushed Carobbiite
 nuclearcraft:gem_dust:10, Crushed Arsenic
+nuclearcraft:gem_dust:11, Crushed End Stone
 nuclearcraft:alloy:0, Bronze Ingot
 nuclearcraft:alloy:1, Tough Alloy
 nuclearcraft:alloy:2, Hard Carbon Alloy
@@ -1378,6 +1403,9 @@ nuclearcraft:alloy:9, Lead Platinum Alloy
 nuclearcraft:alloy:10, Extreme Alloy
 nuclearcraft:alloy:11, Thermoconducting Alloy
 nuclearcraft:alloy:12, Zircaloy
+nuclearcraft:alloy:13, Silicon Carbide Ingot
+nuclearcraft:alloy:14, SiC-SiC Ceramic Matrix Composite
+nuclearcraft:alloy:15, HSLA Steel Ingot
 nuclearcraft:compound:0, Calcium Sulfate
 nuclearcraft:compound:1, Crystal Binder
 nuclearcraft:compound:2, Energetic Blend
@@ -1386,6 +1414,9 @@ nuclearcraft:compound:4, Potassium Fluoride
 nuclearcraft:compound:5, Sodium Hydroxide
 nuclearcraft:compound:6, Potassium Hydroxide
 nuclearcraft:compound:7, Borax
+nuclearcraft:compound:8, Dimensional Blend
+nuclearcraft:compound:9, Carbon-Manganese Blend
+nuclearcraft:compound:10, Alugentum Dust
 nuclearcraft:part:0, Basic Plating
 nuclearcraft:part:1, Advanced Plating
 nuclearcraft:part:2, DU Plating
@@ -1399,10 +1430,11 @@ nuclearcraft:part:9, Linear Actuator
 nuclearcraft:part:10, Machine Chassis
 nuclearcraft:part:11, Empty Frame
 nuclearcraft:part:12, Steel Frame
+nuclearcraft:part:13, Silicon Carbide Fiber
 nuclearcraft:upgrade:0, Speed Upgrade
 nuclearcraft:upgrade:1, Energy Upgrade
-nuclearcraft:fuel_rod_empty, Empty Fuel Rod
 nuclearcraft:tiny_dust_lead, Tiny Pile of Lead Dust
+nuclearcraft:fuel_rod, item.nuclearcraft.fuel_rod.name
 nuclearcraft:reactor_door_item, Reactor Door
 nuclearcraft:thorium:0, Thorium-230
 nuclearcraft:thorium:1, Thorium-230 Oxide
@@ -1552,58 +1584,6 @@ nuclearcraft:fuel_californium:4, LECf-251 Fuel
 nuclearcraft:fuel_californium:5, LECf-251 Oxide Fuel
 nuclearcraft:fuel_californium:6, HECf-251 Fuel
 nuclearcraft:fuel_californium:7, HECf-251 Oxide Fuel
-nuclearcraft:fuel_rod_thorium:0, TBU Fuel Rod
-nuclearcraft:fuel_rod_thorium:1, TBU Oxide Fuel Rod
-nuclearcraft:fuel_rod_uranium:0, LEU-233 Fuel Rod
-nuclearcraft:fuel_rod_uranium:1, LEU-233 Oxide Fuel Rod
-nuclearcraft:fuel_rod_uranium:2, HEU-233 Fuel Rod
-nuclearcraft:fuel_rod_uranium:3, HEU-233 Oxide Fuel Rod
-nuclearcraft:fuel_rod_uranium:4, LEU-235 Fuel Rod
-nuclearcraft:fuel_rod_uranium:5, LEU-235 Oxide Fuel Rod
-nuclearcraft:fuel_rod_uranium:6, HEU-235 Fuel Rod
-nuclearcraft:fuel_rod_uranium:7, HEU-235 Oxide Fuel Rod
-nuclearcraft:fuel_rod_neptunium:0, LEN-236 Fuel Rod
-nuclearcraft:fuel_rod_neptunium:1, LEN-236 Oxide Fuel Rod
-nuclearcraft:fuel_rod_neptunium:2, HEN-236 Fuel Rod
-nuclearcraft:fuel_rod_neptunium:3, HEN-236 Oxide Fuel Rod
-nuclearcraft:fuel_rod_plutonium:0, LEP-239 Fuel Rod
-nuclearcraft:fuel_rod_plutonium:1, LEP-239 Oxide Fuel Rod
-nuclearcraft:fuel_rod_plutonium:2, HEP-239 Fuel Rod
-nuclearcraft:fuel_rod_plutonium:3, HEP-239 Oxide Fuel Rod
-nuclearcraft:fuel_rod_plutonium:4, LEP-241 Fuel Rod
-nuclearcraft:fuel_rod_plutonium:5, LEP-241 Oxide Fuel Rod
-nuclearcraft:fuel_rod_plutonium:6, HEP-241 Fuel Rod
-nuclearcraft:fuel_rod_plutonium:7, HEP-241 Oxide Fuel Rod
-nuclearcraft:fuel_rod_mixed_oxide:0, MOX-239 Fuel Rod
-nuclearcraft:fuel_rod_mixed_oxide:1, MOX-241 Fuel Rod
-nuclearcraft:fuel_rod_americium:0, LEA-242 Fuel Rod
-nuclearcraft:fuel_rod_americium:1, LEA-242 Oxide Fuel Rod
-nuclearcraft:fuel_rod_americium:2, HEA-242 Fuel Rod
-nuclearcraft:fuel_rod_americium:3, HEA-242 Oxide Fuel Rod
-nuclearcraft:fuel_rod_curium:0, LECm-243 Fuel Rod
-nuclearcraft:fuel_rod_curium:1, LECm-243 Oxide Fuel Rod
-nuclearcraft:fuel_rod_curium:2, HECm-243 Fuel Rod
-nuclearcraft:fuel_rod_curium:3, HECm-243 Oxide Fuel Rod
-nuclearcraft:fuel_rod_curium:4, LECm-245 Fuel Rod
-nuclearcraft:fuel_rod_curium:5, LECm-245 Oxide Fuel Rod
-nuclearcraft:fuel_rod_curium:6, HECm-245 Fuel Rod
-nuclearcraft:fuel_rod_curium:7, HECm-245 Oxide Fuel Rod
-nuclearcraft:fuel_rod_curium:8, LECm-247 Fuel Rod
-nuclearcraft:fuel_rod_curium:9, LECm-247 Oxide Fuel Rod
-nuclearcraft:fuel_rod_curium:10, HECm-247 Fuel Rod
-nuclearcraft:fuel_rod_curium:11, HECm-247 Oxide Fuel Rod
-nuclearcraft:fuel_rod_berkelium:0, LEB-248 Fuel Rod
-nuclearcraft:fuel_rod_berkelium:1, LEB-248 Oxide Fuel Rod
-nuclearcraft:fuel_rod_berkelium:2, HEB-248 Fuel Rod
-nuclearcraft:fuel_rod_berkelium:3, HEB-248 Oxide Fuel Rod
-nuclearcraft:fuel_rod_californium:0, LECf-249 Fuel Rod
-nuclearcraft:fuel_rod_californium:1, LECf-249 Oxide Fuel Rod
-nuclearcraft:fuel_rod_californium:2, HECf-249 Fuel Rod
-nuclearcraft:fuel_rod_californium:3, HECf-249 Oxide Fuel Rod
-nuclearcraft:fuel_rod_californium:4, LECf-251 Fuel Rod
-nuclearcraft:fuel_rod_californium:5, LECf-251 Oxide Fuel Rod
-nuclearcraft:fuel_rod_californium:6, HECf-251 Fuel Rod
-nuclearcraft:fuel_rod_californium:7, HECf-251 Oxide Fuel Rod
 nuclearcraft:depleted_fuel_thorium:0, Depleted TBU Fuel
 nuclearcraft:depleted_fuel_thorium:1, Depleted TBU Oxide Fuel
 nuclearcraft:depleted_fuel_uranium:0, Depleted LEU-233 Fuel
@@ -1658,58 +1638,6 @@ nuclearcraft:depleted_fuel_californium:6, Depleted HECf-251 Fuel
 nuclearcraft:depleted_fuel_californium:7, Depleted HECf-251 Oxide Fuel
 nuclearcraft:depleted_fuel_ic2:0, Depleted Uranium Nuclear Fuel
 nuclearcraft:depleted_fuel_ic2:1, Depleted MOX Nuclear Fuel
-nuclearcraft:depleted_fuel_rod_thorium:0, Depleted TBU Fuel Rod
-nuclearcraft:depleted_fuel_rod_thorium:1, Depleted TBU Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_uranium:0, Depleted LEU-233 Fuel Rod
-nuclearcraft:depleted_fuel_rod_uranium:1, Depleted LEU-233 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_uranium:2, Depleted HEU-233 Fuel Rod
-nuclearcraft:depleted_fuel_rod_uranium:3, Depleted HEU-233 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_uranium:4, Depleted LEU-235 Fuel Rod
-nuclearcraft:depleted_fuel_rod_uranium:5, Depleted LEU-235 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_uranium:6, Depleted HEU-235 Fuel Rod
-nuclearcraft:depleted_fuel_rod_uranium:7, Depleted HEU-235 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_neptunium:0, Depleted LEN-236 Fuel Rod
-nuclearcraft:depleted_fuel_rod_neptunium:1, Depleted LEN-236 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_neptunium:2, Depleted HEN-236 Fuel Rod
-nuclearcraft:depleted_fuel_rod_neptunium:3, Depleted HEN-236 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_plutonium:0, Depleted LEP-239 Fuel Rod
-nuclearcraft:depleted_fuel_rod_plutonium:1, Depleted LEP-239 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_plutonium:2, Depleted HEP-239 Fuel Rod
-nuclearcraft:depleted_fuel_rod_plutonium:3, Depleted HEP-239 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_plutonium:4, Depleted LEP-241 Fuel Rod
-nuclearcraft:depleted_fuel_rod_plutonium:5, Depleted LEP-241 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_plutonium:6, Depleted HEP-241 Fuel Rod
-nuclearcraft:depleted_fuel_rod_plutonium:7, Depleted HEP-241 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_mixed_oxide:0, Depleted MOX-239 Fuel Rod
-nuclearcraft:depleted_fuel_rod_mixed_oxide:1, Depleted MOX-241 Fuel Rod
-nuclearcraft:depleted_fuel_rod_americium:0, Depleted LEA-242 Fuel Rod
-nuclearcraft:depleted_fuel_rod_americium:1, Depleted LEA-242 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_americium:2, Depleted HEA-242 Fuel Rod
-nuclearcraft:depleted_fuel_rod_americium:3, Depleted HEA-242 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:0, Depleted LECm-243 Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:1, Depleted LECm-243 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:2, Depleted HECm-243 Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:3, Depleted HECm-243 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:4, Depleted LECm-245 Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:5, Depleted LECm-245 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:6, Depleted HECm-245 Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:7, Depleted HECm-245 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:8, Depleted LECm-247 Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:9, Depleted LECm-247 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:10, Depleted HECm-247 Fuel Rod
-nuclearcraft:depleted_fuel_rod_curium:11, Depleted HECm-247 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_berkelium:0, Depleted LEB-248 Fuel Rod
-nuclearcraft:depleted_fuel_rod_berkelium:1, Depleted LEB-248 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_berkelium:2, Depleted HEB-248 Fuel Rod
-nuclearcraft:depleted_fuel_rod_berkelium:3, Depleted HEB-248 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_californium:0, Depleted LECf-249 Fuel Rod
-nuclearcraft:depleted_fuel_rod_californium:1, Depleted LECf-249 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_californium:2, Depleted HECf-249 Fuel Rod
-nuclearcraft:depleted_fuel_rod_californium:3, Depleted HECf-249 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_californium:4, Depleted LECf-251 Fuel Rod
-nuclearcraft:depleted_fuel_rod_californium:5, Depleted LECf-251 Oxide Fuel Rod
-nuclearcraft:depleted_fuel_rod_californium:6, Depleted HECf-251 Fuel Rod
-nuclearcraft:depleted_fuel_rod_californium:7, Depleted HECf-251 Oxide Fuel Rod
 nuclearcraft:boron:0, Boron-10
 nuclearcraft:boron:1, Tiny Clump of Boron-10
 nuclearcraft:boron:2, Boron-11
@@ -1805,6 +1733,8 @@ nuclearcraft:fluid_tough, Molten Tough Alloy
 nuclearcraft:fluid_hard_carbon, Molten Hard Carbon
 nuclearcraft:fluid_coal, Liquefacted Coal
 nuclearcraft:fluid_beryllium, Molten Beryllium
+nuclearcraft:fluid_manganese, Molten Manganese
+nuclearcraft:fluid_manganese_dioxide, Molten Manganese Dioxide
 nuclearcraft:fluid_sulfur, Molten Sulfur
 nuclearcraft:fluid_arsenic, Molten Arsenic
 nuclearcraft:fluid_liquidhelium, Liquid Helium
@@ -1863,6 +1793,11 @@ nuclearcraft:fluid_potassium, Molten Potassium
 nuclearcraft:fluid_nak, Eutectic NaK Alloy
 nuclearcraft:fluid_nak_hot, Hot Eutectic NaK Alloy
 nuclearcraft:fluid_bas, Molten Boron Arsenide
+nuclearcraft:fluid_sic_vapor, Silicon Carbide Vapor
+nuclearcraft:fluid_alugentum, Molten Alugentum
+nuclearcraft:fluid_alumina, Molten Alumina
+nuclearcraft:fluid_aluminum, Molten Aluminum
+nuclearcraft:fluid_silver, Molten Silver
 openblocks:ladder, Jaded Ladder
 openblocks:guide, Building Guide
 openblocks:builder_guide, Enhanced Building Guide
@@ -2634,6 +2569,9 @@ thermaldynamics:cover:0, Magnesium Block Cover
 thermaldynamics:cover:0, Graphite Block Cover
 thermaldynamics:cover:0, Beryllium Block Cover
 thermaldynamics:cover:0, Zirconium Block Cover
+thermaldynamics:cover:0, Manganese Block Cover
+thermaldynamics:cover:0, Aluminum Block Cover
+thermaldynamics:cover:0, Silver Block Cover
 thermaldynamics:cover:0, Fission Reactor Casing Cover
 thermaldynamics:cover:0, Blast Block Cover
 thermaldynamics:cover:0, Transparent Fission Reactor Casing Cover
@@ -5247,6 +5185,9 @@ appliedenergistics2:facade:0, Cable Facade - Magnesium Block
 appliedenergistics2:facade:0, Cable Facade - Graphite Block
 appliedenergistics2:facade:0, Cable Facade - Beryllium Block
 appliedenergistics2:facade:0, Cable Facade - Zirconium Block
+appliedenergistics2:facade:0, Cable Facade - Manganese Block
+appliedenergistics2:facade:0, Cable Facade - Aluminum Block
+appliedenergistics2:facade:0, Cable Facade - Silver Block
 appliedenergistics2:facade:0, Cable Facade - Fission Reactor Casing
 appliedenergistics2:facade:0, Cable Facade - Blast Block
 appliedenergistics2:facade:0, Cable Facade - Empty Cooler
@@ -7276,13 +7217,6 @@ appliedenergistics2:facade:0, Cable Facade - Sugar Block
 appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
 appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
 appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
-appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
-appliedenergistics2:facade:0, Cable Facade - Brimstone
-appliedenergistics2:facade:0, Cable Facade - Glowcelium
-appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Biotite
-appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -7309,6 +7243,13 @@ appliedenergistics2:facade:0, Cable Facade - Carved Oak Wood
 appliedenergistics2:facade:0, Cable Facade - Soul Sandstone
 appliedenergistics2:facade:0, Cable Facade - Netherwrought Stone
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool
+appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
+appliedenergistics2:facade:0, Cable Facade - Brimstone
+appliedenergistics2:facade:0, Cable Facade - Glowcelium
+appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Biotite
+appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
 appliedenergistics2:facade:0, Cable Facade - Blank Rune
 appliedenergistics2:facade:0, Cable Facade - Speed Rune
 appliedenergistics2:facade:0, Cable Facade - Efficiency Rune
@@ -8087,37 +8028,37 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Laser Medium Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Pipe Piece Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Battery Cell Pattern
-tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Laser Medium Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:pattern:0, Binding Pattern
 tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Pipe Piece Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Battery Cell Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Kama Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -8154,6 +8095,10 @@ tconstruct:shard:0, Boron Shard
 tconstruct:shard:0, Tough Alloy Shard
 tconstruct:shard:0, Hard Carbon Shard
 tconstruct:shard:0, Boron Nitride Shard
+tconstruct:shard:0, Thorium Shard
+tconstruct:shard:0, Uranium Shard
+tconstruct:shard:0, Magnesium Shard
+tconstruct:shard:0, Chocolate Shard
 tconstruct:shard:0, Litherite Shard
 tconstruct:shard:0, Pladium Shard
 tconstruct:shard:0, Erodium Shard
@@ -8220,6 +8165,10 @@ tconstruct:sharpening_kit:0, Boron Sharpening Kit
 tconstruct:sharpening_kit:0, Tough Alloy Sharpening Kit
 tconstruct:sharpening_kit:0, Hard Carbon Sharpening Kit
 tconstruct:sharpening_kit:0, Boron Nitride Sharpening Kit
+tconstruct:sharpening_kit:0, Thorium Sharpening Kit
+tconstruct:sharpening_kit:0, Uranium Sharpening Kit
+tconstruct:sharpening_kit:0, Magnesium Sharpening Kit
+tconstruct:sharpening_kit:0, Chocolate Sharpening Kit
 tconstruct:sharpening_kit:0, Litherite Sharpening Kit
 tconstruct:sharpening_kit:0, Pladium Sharpening Kit
 tconstruct:sharpening_kit:0, Erodium Sharpening Kit
@@ -8286,6 +8235,10 @@ tconstruct:pick_head:0, Boron Pickaxe Head
 tconstruct:pick_head:0, Tough Alloy Pickaxe Head
 tconstruct:pick_head:0, Hard Carbon Pickaxe Head
 tconstruct:pick_head:0, Boron Nitride Pickaxe Head
+tconstruct:pick_head:0, Thorium Pickaxe Head
+tconstruct:pick_head:0, Uranium Pickaxe Head
+tconstruct:pick_head:0, Magnesium Pickaxe Head
+tconstruct:pick_head:0, Chocolate Pickaxe Head
 tconstruct:pick_head:0, Litherite Pickaxe Head
 tconstruct:pick_head:0, Pladium Pickaxe Head
 tconstruct:pick_head:0, Erodium Pickaxe Head
@@ -8352,6 +8305,10 @@ tconstruct:shovel_head:0, Boron Shovel Head
 tconstruct:shovel_head:0, Tough Alloy Shovel Head
 tconstruct:shovel_head:0, Hard Carbon Shovel Head
 tconstruct:shovel_head:0, Boron Nitride Shovel Head
+tconstruct:shovel_head:0, Thorium Shovel Head
+tconstruct:shovel_head:0, Uranium Shovel Head
+tconstruct:shovel_head:0, Magnesium Shovel Head
+tconstruct:shovel_head:0, Chocolate Shovel Head
 tconstruct:shovel_head:0, Litherite Shovel Head
 tconstruct:shovel_head:0, Pladium Shovel Head
 tconstruct:shovel_head:0, Erodium Shovel Head
@@ -8418,6 +8375,10 @@ tconstruct:axe_head:0, Boron Axe Head
 tconstruct:axe_head:0, Tough Alloy Axe Head
 tconstruct:axe_head:0, Hard Carbon Axe Head
 tconstruct:axe_head:0, Boron Nitride Axe Head
+tconstruct:axe_head:0, Thorium Axe Head
+tconstruct:axe_head:0, Uranium Axe Head
+tconstruct:axe_head:0, Magnesium Axe Head
+tconstruct:axe_head:0, Chocolate Axe Head
 tconstruct:axe_head:0, Litherite Axe Head
 tconstruct:axe_head:0, Pladium Axe Head
 tconstruct:axe_head:0, Erodium Axe Head
@@ -8484,6 +8445,10 @@ tconstruct:broad_axe_head:0, Boron Broad Axe Head
 tconstruct:broad_axe_head:0, Tough Alloy Broad Axe Head
 tconstruct:broad_axe_head:0, Hard Carbon Broad Axe Head
 tconstruct:broad_axe_head:0, Boron Nitride Broad Axe Head
+tconstruct:broad_axe_head:0, Thorium Broad Axe Head
+tconstruct:broad_axe_head:0, Uranium Broad Axe Head
+tconstruct:broad_axe_head:0, Magnesium Broad Axe Head
+tconstruct:broad_axe_head:0, Chocolate Broad Axe Head
 tconstruct:broad_axe_head:0, Litherite Broad Axe Head
 tconstruct:broad_axe_head:0, Pladium Broad Axe Head
 tconstruct:broad_axe_head:0, Erodium Broad Axe Head
@@ -8550,6 +8515,10 @@ tconstruct:sword_blade:0, Boron Sword Blade
 tconstruct:sword_blade:0, Tough Alloy Sword Blade
 tconstruct:sword_blade:0, Hard Carbon Sword Blade
 tconstruct:sword_blade:0, Boron Nitride Sword Blade
+tconstruct:sword_blade:0, Thorium Sword Blade
+tconstruct:sword_blade:0, Uranium Sword Blade
+tconstruct:sword_blade:0, Magnesium Sword Blade
+tconstruct:sword_blade:0, Chocolate Sword Blade
 tconstruct:sword_blade:0, Litherite Sword Blade
 tconstruct:sword_blade:0, Pladium Sword Blade
 tconstruct:sword_blade:0, Erodium Sword Blade
@@ -8616,6 +8585,10 @@ tconstruct:large_sword_blade:0, Boron Large Sword Blade
 tconstruct:large_sword_blade:0, Tough Alloy Large Sword Blade
 tconstruct:large_sword_blade:0, Hard Carbon Large Sword Blade
 tconstruct:large_sword_blade:0, Boron Nitride Large Sword Blade
+tconstruct:large_sword_blade:0, Thorium Large Sword Blade
+tconstruct:large_sword_blade:0, Uranium Large Sword Blade
+tconstruct:large_sword_blade:0, Magnesium Large Sword Blade
+tconstruct:large_sword_blade:0, Chocolate Large Sword Blade
 tconstruct:large_sword_blade:0, Litherite Large Sword Blade
 tconstruct:large_sword_blade:0, Pladium Large Sword Blade
 tconstruct:large_sword_blade:0, Erodium Large Sword Blade
@@ -8682,6 +8655,10 @@ tconstruct:hammer_head:0, Boron Hammer Head
 tconstruct:hammer_head:0, Tough Alloy Hammer Head
 tconstruct:hammer_head:0, Hard Carbon Hammer Head
 tconstruct:hammer_head:0, Boron Nitride Hammer Head
+tconstruct:hammer_head:0, Thorium Hammer Head
+tconstruct:hammer_head:0, Uranium Hammer Head
+tconstruct:hammer_head:0, Magnesium Hammer Head
+tconstruct:hammer_head:0, Chocolate Hammer Head
 tconstruct:hammer_head:0, Litherite Hammer Head
 tconstruct:hammer_head:0, Pladium Hammer Head
 tconstruct:hammer_head:0, Erodium Hammer Head
@@ -8748,6 +8725,10 @@ tconstruct:excavator_head:0, Boron Excavator Head
 tconstruct:excavator_head:0, Tough Alloy Excavator Head
 tconstruct:excavator_head:0, Hard Carbon Excavator Head
 tconstruct:excavator_head:0, Boron Nitride Excavator Head
+tconstruct:excavator_head:0, Thorium Excavator Head
+tconstruct:excavator_head:0, Uranium Excavator Head
+tconstruct:excavator_head:0, Magnesium Excavator Head
+tconstruct:excavator_head:0, Chocolate Excavator Head
 tconstruct:excavator_head:0, Litherite Excavator Head
 tconstruct:excavator_head:0, Pladium Excavator Head
 tconstruct:excavator_head:0, Erodium Excavator Head
@@ -8814,6 +8795,10 @@ tconstruct:kama_head:0, Boron Kama Head
 tconstruct:kama_head:0, Tough Alloy Kama Head
 tconstruct:kama_head:0, Hard Carbon Kama Head
 tconstruct:kama_head:0, Boron Nitride Kama Head
+tconstruct:kama_head:0, Thorium Kama Head
+tconstruct:kama_head:0, Uranium Kama Head
+tconstruct:kama_head:0, Magnesium Kama Head
+tconstruct:kama_head:0, Chocolate Kama Head
 tconstruct:kama_head:0, Litherite Kama Head
 tconstruct:kama_head:0, Pladium Kama Head
 tconstruct:kama_head:0, Erodium Kama Head
@@ -8880,6 +8865,10 @@ tconstruct:scythe_head:0, Boron Scythe Head
 tconstruct:scythe_head:0, Tough Alloy Scythe Head
 tconstruct:scythe_head:0, Hard Carbon Scythe Head
 tconstruct:scythe_head:0, Boron Nitride Scythe Head
+tconstruct:scythe_head:0, Thorium Scythe Head
+tconstruct:scythe_head:0, Uranium Scythe Head
+tconstruct:scythe_head:0, Magnesium Scythe Head
+tconstruct:scythe_head:0, Chocolate Scythe Head
 tconstruct:scythe_head:0, Litherite Scythe Head
 tconstruct:scythe_head:0, Pladium Scythe Head
 tconstruct:scythe_head:0, Erodium Scythe Head
@@ -8946,6 +8935,10 @@ tconstruct:pan_head:0, Boron Pan
 tconstruct:pan_head:0, Tough Alloy Pan
 tconstruct:pan_head:0, Hard Carbon Pan
 tconstruct:pan_head:0, Boron Nitride Pan
+tconstruct:pan_head:0, Thorium Pan
+tconstruct:pan_head:0, Uranium Pan
+tconstruct:pan_head:0, Magnesium Pan
+tconstruct:pan_head:0, Chocolate Pan
 tconstruct:pan_head:0, Litherite Pan
 tconstruct:pan_head:0, Pladium Pan
 tconstruct:pan_head:0, Erodium Pan
@@ -9012,6 +9005,10 @@ tconstruct:sign_head:0, Boron Sign Plate
 tconstruct:sign_head:0, Tough Alloy Sign Plate
 tconstruct:sign_head:0, Hard Carbon Sign Plate
 tconstruct:sign_head:0, Boron Nitride Sign Plate
+tconstruct:sign_head:0, Thorium Sign Plate
+tconstruct:sign_head:0, Uranium Sign Plate
+tconstruct:sign_head:0, Magnesium Sign Plate
+tconstruct:sign_head:0, Chocolate Sign Plate
 tconstruct:sign_head:0, Litherite Sign Plate
 tconstruct:sign_head:0, Pladium Sign Plate
 tconstruct:sign_head:0, Erodium Sign Plate
@@ -9078,6 +9075,10 @@ tconstruct:tool_rod:0, Boron Tool Rod
 tconstruct:tool_rod:0, Tough Alloy Tool Rod
 tconstruct:tool_rod:0, Hard Carbon Tool Rod
 tconstruct:tool_rod:0, Boron Nitride Tool Rod
+tconstruct:tool_rod:0, Thorium Tool Rod
+tconstruct:tool_rod:0, Uranium Tool Rod
+tconstruct:tool_rod:0, Magnesium Tool Rod
+tconstruct:tool_rod:0, Chocolate Tool Rod
 tconstruct:tool_rod:0, Litherite Tool Rod
 tconstruct:tool_rod:0, Pladium Tool Rod
 tconstruct:tool_rod:0, Erodium Tool Rod
@@ -9144,6 +9145,10 @@ tconstruct:tough_tool_rod:0, Boron Tough Tool Rod
 tconstruct:tough_tool_rod:0, Tough Alloy Tough Tool Rod
 tconstruct:tough_tool_rod:0, Hard Carbon Tough Tool Rod
 tconstruct:tough_tool_rod:0, Boron Nitride Tough Tool Rod
+tconstruct:tough_tool_rod:0, Thorium Tough Tool Rod
+tconstruct:tough_tool_rod:0, Uranium Tough Tool Rod
+tconstruct:tough_tool_rod:0, Magnesium Tough Tool Rod
+tconstruct:tough_tool_rod:0, Chocolate Tough Tool Rod
 tconstruct:tough_tool_rod:0, Litherite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Pladium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Erodium Tough Tool Rod
@@ -9210,6 +9215,10 @@ tconstruct:binding:0, Boron Binding
 tconstruct:binding:0, Tough Alloy Binding
 tconstruct:binding:0, Hard Carbon Binding
 tconstruct:binding:0, Boron Nitride Binding
+tconstruct:binding:0, Thorium Binding
+tconstruct:binding:0, Uranium Binding
+tconstruct:binding:0, Magnesium Binding
+tconstruct:binding:0, Chocolate Binding
 tconstruct:binding:0, Litherite Binding
 tconstruct:binding:0, Pladium Binding
 tconstruct:binding:0, Erodium Binding
@@ -9276,6 +9285,10 @@ tconstruct:tough_binding:0, Boron Tough Binding
 tconstruct:tough_binding:0, Tough Alloy Tough Binding
 tconstruct:tough_binding:0, Hard Carbon Tough Binding
 tconstruct:tough_binding:0, Boron Nitride Tough Binding
+tconstruct:tough_binding:0, Thorium Tough Binding
+tconstruct:tough_binding:0, Uranium Tough Binding
+tconstruct:tough_binding:0, Magnesium Tough Binding
+tconstruct:tough_binding:0, Chocolate Tough Binding
 tconstruct:tough_binding:0, Litherite Tough Binding
 tconstruct:tough_binding:0, Pladium Tough Binding
 tconstruct:tough_binding:0, Erodium Tough Binding
@@ -9342,6 +9355,10 @@ tconstruct:wide_guard:0, Boron Wide Guard
 tconstruct:wide_guard:0, Tough Alloy Wide Guard
 tconstruct:wide_guard:0, Hard Carbon Wide Guard
 tconstruct:wide_guard:0, Boron Nitride Wide Guard
+tconstruct:wide_guard:0, Thorium Wide Guard
+tconstruct:wide_guard:0, Uranium Wide Guard
+tconstruct:wide_guard:0, Magnesium Wide Guard
+tconstruct:wide_guard:0, Chocolate Wide Guard
 tconstruct:wide_guard:0, Litherite Wide Guard
 tconstruct:wide_guard:0, Pladium Wide Guard
 tconstruct:wide_guard:0, Erodium Wide Guard
@@ -9408,6 +9425,10 @@ tconstruct:hand_guard:0, Boron Hand Guard
 tconstruct:hand_guard:0, Tough Alloy Hand Guard
 tconstruct:hand_guard:0, Hard Carbon Hand Guard
 tconstruct:hand_guard:0, Boron Nitride Hand Guard
+tconstruct:hand_guard:0, Thorium Hand Guard
+tconstruct:hand_guard:0, Uranium Hand Guard
+tconstruct:hand_guard:0, Magnesium Hand Guard
+tconstruct:hand_guard:0, Chocolate Hand Guard
 tconstruct:hand_guard:0, Litherite Hand Guard
 tconstruct:hand_guard:0, Pladium Hand Guard
 tconstruct:hand_guard:0, Erodium Hand Guard
@@ -9474,6 +9495,10 @@ tconstruct:cross_guard:0, Boron Cross Guard
 tconstruct:cross_guard:0, Tough Alloy Cross Guard
 tconstruct:cross_guard:0, Hard Carbon Cross Guard
 tconstruct:cross_guard:0, Boron Nitride Cross Guard
+tconstruct:cross_guard:0, Thorium Cross Guard
+tconstruct:cross_guard:0, Uranium Cross Guard
+tconstruct:cross_guard:0, Magnesium Cross Guard
+tconstruct:cross_guard:0, Chocolate Cross Guard
 tconstruct:cross_guard:0, Litherite Cross Guard
 tconstruct:cross_guard:0, Pladium Cross Guard
 tconstruct:cross_guard:0, Erodium Cross Guard
@@ -9540,6 +9565,10 @@ tconstruct:large_plate:0, Boron Large Plate
 tconstruct:large_plate:0, Tough Alloy Large Plate
 tconstruct:large_plate:0, Hard Carbon Large Plate
 tconstruct:large_plate:0, Boron Nitride Large Plate
+tconstruct:large_plate:0, Thorium Large Plate
+tconstruct:large_plate:0, Uranium Large Plate
+tconstruct:large_plate:0, Magnesium Large Plate
+tconstruct:large_plate:0, Chocolate Large Plate
 tconstruct:large_plate:0, Litherite Large Plate
 tconstruct:large_plate:0, Pladium Large Plate
 tconstruct:large_plate:0, Erodium Large Plate
@@ -9606,6 +9635,10 @@ tconstruct:knife_blade:0, Boron Knife Blade
 tconstruct:knife_blade:0, Tough Alloy Knife Blade
 tconstruct:knife_blade:0, Hard Carbon Knife Blade
 tconstruct:knife_blade:0, Boron Nitride Knife Blade
+tconstruct:knife_blade:0, Thorium Knife Blade
+tconstruct:knife_blade:0, Uranium Knife Blade
+tconstruct:knife_blade:0, Magnesium Knife Blade
+tconstruct:knife_blade:0, Chocolate Knife Blade
 tconstruct:knife_blade:0, Litherite Knife Blade
 tconstruct:knife_blade:0, Pladium Knife Blade
 tconstruct:knife_blade:0, Erodium Knife Blade
@@ -9672,6 +9705,10 @@ tconstruct:bow_limb:0, Boron Bowlimb
 tconstruct:bow_limb:0, Tough Alloy Bowlimb
 tconstruct:bow_limb:0, Hard Carbon Bowlimb
 tconstruct:bow_limb:0, Boron Nitride Bowlimb
+tconstruct:bow_limb:0, Thorium Bowlimb
+tconstruct:bow_limb:0, Uranium Bowlimb
+tconstruct:bow_limb:0, Magnesium Bowlimb
+tconstruct:bow_limb:0, Chocolate Bowlimb
 tconstruct:bow_limb:0, Litherite Bowlimb
 tconstruct:bow_limb:0, Pladium Bowlimb
 tconstruct:bow_limb:0, Erodium Bowlimb
@@ -9743,6 +9780,10 @@ tconstruct:arrow_head:0, Boron Arrow Head
 tconstruct:arrow_head:0, Tough Alloy Arrow Head
 tconstruct:arrow_head:0, Hard Carbon Arrow Head
 tconstruct:arrow_head:0, Boron Nitride Arrow Head
+tconstruct:arrow_head:0, Thorium Arrow Head
+tconstruct:arrow_head:0, Uranium Arrow Head
+tconstruct:arrow_head:0, Magnesium Arrow Head
+tconstruct:arrow_head:0, Chocolate Arrow Head
 tconstruct:arrow_head:0, Litherite Arrow Head
 tconstruct:arrow_head:0, Pladium Arrow Head
 tconstruct:arrow_head:0, Erodium Arrow Head
@@ -9897,6 +9938,9 @@ tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:4, Pattern Chest
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
@@ -9909,6 +9953,9 @@ tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:5, Part Chest
 tconstruct:tooltables:3, Tool Station
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
@@ -10006,70 +10053,70 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Pipe Piece Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Battery Cell Cast
-tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Binding Cast
 tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Pipe Piece Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast:0, Fletching Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Battery Cell Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Kama Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Pipe Piece Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Battery Cell Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Pipe Piece Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:clay_cast:0, Fletching Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Battery Cell Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -10148,6 +10195,55 @@ tconstruct:fancy_frame:5, Golden Item Frame
 tconstruct:fancy_frame:6, Clear Item Frame
 tconstruct:moms_spaghetti, Mom's Spaghetti
 ae2wtlib:infinity_booster_card, Infinity Booster Card
+quark:glowstone_dust_block, tile.glowstone_dust_block.name
+quark:gunpowder_block, tile.gunpowder_block.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
 quark:chute, tile.chute.name
 quark:sugar_block, tile.sugar_block.name
 quark:redstone_randomizer, tile.redstone_randomizer.name
@@ -10156,7 +10252,6 @@ quark:gold_button, tile.gold_button.name
 quark:iron_rod, tile.iron_rod.name
 quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
 quark:rain_detector, tile.rain_detector.name
-quark:witch_hat, item.witch_hat.name
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -10250,84 +10345,6 @@ quark:jungle_button, tile.jungle_button.name
 quark:acacia_button, tile.acacia_button.name
 quark:dark_oak_button, tile.dark_oak_button.name
 quark:glass_item_frame, item.glass_item_frame.name
-quark:glowstone_dust_block, tile.glowstone_dust_block.name
-quark:gunpowder_block, tile.gunpowder_block.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
-quark:pirate_hat, item.pirate_hat.name
-quark:crystal:0, White Cave Crystal
-quark:crystal:1, Red Cave Crystal
-quark:crystal:2, Orange Cave Crystal
-quark:crystal:3, Yellow Cave Crystal
-quark:crystal:4, Green Cave Crystal
-quark:crystal:5, Blue Cave Crystal
-quark:crystal:6, Indigo Cave Crystal
-quark:crystal:7, Violet Cave Crystal
-quark:biome_cobblestone:0, Brimstone
-quark:biome_cobblestone:1, Permafrost
-quark:fire_stone_slab:0, Brimstone Slab
-quark:fire_stone_stairs, tile.fire_stone_stairs.name
-quark:icy_stone_slab:0, Permafrost Slab
-quark:icy_stone_stairs, tile.icy_stone_stairs.name
-quark:fire_stone_wall, tile.fire_stone_wall.name
-quark:icy_stone_wall, tile.icy_stone_wall.name
-quark:glowcelium, tile.glowcelium.name
-quark:glowshroom, tile.glowshroom.name
-quark:soul_bead, item.soul_bead.name
-quark:biotite_ore, tile.biotite_ore.name
-quark:biotite_block:0, Block of Biotite
-quark:biotite_block:1, Chiseled Biotite Block
-quark:biotite_block:2, Pillar Biotite Block
-quark:biotite, item.biotite.name
-quark:biotite_slab:0, Biotite Slab
-quark:biotite_stairs, tile.biotite_stairs.name
-quark:biotite_wall, tile.biotite_wall.name
-quark:smoker, tile.smoker.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -10607,6 +10624,36 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
+quark:witch_hat, item.witch_hat.name
+quark:pirate_hat, item.pirate_hat.name
+quark:crystal:0, White Cave Crystal
+quark:crystal:1, Red Cave Crystal
+quark:crystal:2, Orange Cave Crystal
+quark:crystal:3, Yellow Cave Crystal
+quark:crystal:4, Green Cave Crystal
+quark:crystal:5, Blue Cave Crystal
+quark:crystal:6, Indigo Cave Crystal
+quark:crystal:7, Violet Cave Crystal
+quark:biome_cobblestone:0, Brimstone
+quark:biome_cobblestone:1, Permafrost
+quark:fire_stone_slab:0, Brimstone Slab
+quark:fire_stone_stairs, tile.fire_stone_stairs.name
+quark:icy_stone_slab:0, Permafrost Slab
+quark:icy_stone_stairs, tile.icy_stone_stairs.name
+quark:fire_stone_wall, tile.fire_stone_wall.name
+quark:icy_stone_wall, tile.icy_stone_wall.name
+quark:glowcelium, tile.glowcelium.name
+quark:glowshroom, tile.glowshroom.name
+quark:soul_bead, item.soul_bead.name
+quark:biotite_ore, tile.biotite_ore.name
+quark:biotite_block:0, Block of Biotite
+quark:biotite_block:1, Chiseled Biotite Block
+quark:biotite_block:2, Pillar Biotite Block
+quark:biotite, item.biotite.name
+quark:biotite_slab:0, Biotite Slab
+quark:biotite_stairs, tile.biotite_stairs.name
+quark:biotite_wall, tile.biotite_wall.name
+quark:smoker, tile.smoker.name
 betterquesting:placeholder, Item Placeholder
 betterquesting:extra_life:0, Extra Life
 betterquesting:extra_life:1, Half Heart
@@ -12625,6 +12672,10 @@ plustic:pipe_piece:0, Boron Pipe Piece
 plustic:pipe_piece:0, Tough Alloy Pipe Piece
 plustic:pipe_piece:0, Hard Carbon Pipe Piece
 plustic:pipe_piece:0, Boron Nitride Pipe Piece
+plustic:pipe_piece:0, Thorium Pipe Piece
+plustic:pipe_piece:0, Uranium Pipe Piece
+plustic:pipe_piece:0, Magnesium Pipe Piece
+plustic:pipe_piece:0, Chocolate Pipe Piece
 plustic:pipe_piece:0, Litherite Pipe Piece
 plustic:pipe_piece:0, Pladium Pipe Piece
 plustic:pipe_piece:0, Erodium Pipe Piece
@@ -12752,12 +12803,12 @@ storagedrawers:shroud_key, Concealment Key
 storagedrawers:personal_key, Personal Key
 storagedrawers:quantify_key, Quantify Key
 storagedrawers:tape, Packing Tape
-torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
+torchmaster:frozen_pearl, Frozen Pearl
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
 wct:magnet_card, Magnet Card
@@ -13237,8 +13288,8 @@ aroma1997sdimension:portalframe, Portal Frame
 aroma1997sdimension:stickyore, Sticky Ore
 betterbuilderswands:wandstone, Stone Wand
 betterbuilderswands:wandiron, Iron Wand
-betterbuilderswands:wanddiamond, Diamond Wand
-betterbuilderswands:wandunbreakable, Unbreakable Wand
+betterbuilderswands:wanddiamond:0, Diamond Wand
+betterbuilderswands:wandunbreakable:0, Unbreakable Wand
 chiselsandbits:chisel_stone, Stone Chisel
 chiselsandbits:chisel_iron, Iron Chisel
 chiselsandbits:chisel_gold, Golden Chisel
@@ -13514,6 +13565,9 @@ chiselsandbits:block_bit:0, Chiseled Bit - Magnesium Block
 chiselsandbits:block_bit:0, Chiseled Bit - Graphite Block
 chiselsandbits:block_bit:0, Chiseled Bit - Beryllium Block
 chiselsandbits:block_bit:0, Chiseled Bit - Zirconium Block
+chiselsandbits:block_bit:0, Chiseled Bit - Manganese Block
+chiselsandbits:block_bit:0, Chiseled Bit - Aluminum Block
+chiselsandbits:block_bit:0, Chiseled Bit - Silver Block
 chiselsandbits:block_bit:0, Chiseled Bit - Fission Reactor Casing
 chiselsandbits:block_bit:0, Chiseled Bit - Blast Block
 chiselsandbits:block_bit:0, Chiseled Bit - Empty Cooler
@@ -15780,12 +15834,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
 chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
 chiselsandbits:block_bit:0, Chiseled Bit - Lit Redstone Lamp
 chiselsandbits:block_bit:0, Chiseled Bit - Blaze Lantern
-chiselsandbits:block_bit:0, Chiseled Bit - Brimstone
-chiselsandbits:block_bit:0, Chiseled Bit - Permafrost
-chiselsandbits:block_bit:0, Chiseled Bit - Ender Biotite Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Block of Biotite
-chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Biotite Block
-chiselsandbits:block_bit:0, Chiseled Bit - Pillar Biotite Block
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Sandstone
 chiselsandbits:block_bit:0, Chiseled Bit - Sandstone Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Polished Red Sandstone
@@ -15900,6 +15948,12 @@ chiselsandbits:block_bit:0, Chiseled Bit - Brown Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Green Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Red Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Black Quilted Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Brimstone
+chiselsandbits:block_bit:0, Chiseled Bit - Permafrost
+chiselsandbits:block_bit:0, Chiseled Bit - Ender Biotite Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Biotite
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Biotite Block
+chiselsandbits:block_bit:0, Chiseled Bit - Pillar Biotite Block
 chiselsandbits:block_bit:0, Chiseled Bit - Blank Rune
 chiselsandbits:block_bit:0, Chiseled Bit - Speed Rune
 chiselsandbits:block_bit:0, Chiseled Bit - Efficiency Rune
@@ -16365,6 +16419,8 @@ chiselsandbits:block_bit:0, Chiseled Bit - Molten Ferroboron
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Tough Alloy
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Hard Carbon
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Beryllium
+chiselsandbits:block_bit:0, Chiseled Bit - Molten Manganese
+chiselsandbits:block_bit:0, Chiseled Bit - Molten Manganese Dioxide
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Sulfur
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Arsenic
 chiselsandbits:block_bit:0, Chiseled Bit - Liquid Helium
@@ -16420,6 +16476,11 @@ chiselsandbits:block_bit:0, Chiseled Bit - Molten Potassium
 chiselsandbits:block_bit:0, Chiseled Bit - Eutectic NaK Alloy
 chiselsandbits:block_bit:0, Chiseled Bit - Hot Eutectic NaK Alloy
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Boron Arsenide
+chiselsandbits:block_bit:0, Chiseled Bit - Silicon Carbide Vapor
+chiselsandbits:block_bit:0, Chiseled Bit - Molten Alugentum
+chiselsandbits:block_bit:0, Chiseled Bit - Molten Alumina
+chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Alumite
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Terrasteel
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Elementium
@@ -16797,6 +16858,7 @@ environmentaltech:tool_multiblock_assembler, Assembler
 environmentaltech:connector, Connector
 environmentaltech:modifier_null, Null Modifier
 environmentaltech:modifier_speed, Speed Modifier
+environmentaltech:modifier_luck, Luck Modifier
 environmentaltech:structure_frame_1, Structure Frame Tier 1
 environmentaltech:structure_frame_2, Structure Frame Tier 2
 environmentaltech:structure_frame_3, Structure Frame Tier 3
@@ -16882,7 +16944,6 @@ environmentaltech:modifier_health_boost, Health Boost Modifier
 environmentaltech:modifier_absorption, Absoption Modifier
 environmentaltech:modifier_saturation, Saturation Modifier
 environmentaltech:modifier_glowing, Glowing Modifier
-environmentaltech:modifier_luck, Luck Modifier
 environmentaltech:nano_cont_ranged_1, Ranged Nano Bot Beacon Tier 1
 environmentaltech:nano_cont_ranged_2, Ranged Nano Bot Beacon Tier 2
 environmentaltech:nano_cont_ranged_3, Ranged Nano Bot Beacon Tier 3
