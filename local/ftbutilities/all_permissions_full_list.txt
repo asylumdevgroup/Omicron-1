@@ -1,4 +1,4 @@
-10146 nodes in total
+10148 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -188,9 +188,9 @@ ftbutilities.claims.block.edit.appliedenergistics2.vibration_chamber: OP
 ftbutilities.claims.block.edit.appliedenergistics2.wireless_access_point: OP
 ftbutilities.claims.block.edit.architecturecraft.sawbench: OP
 ftbutilities.claims.block.edit.architecturecraft.shape: OP
-ftbutilities.claims.block.edit.aroma1997sdimension.aromicportal: OP
+ftbutilities.claims.block.edit.aroma1997sdimension.miningore: OP
+ftbutilities.claims.block.edit.aroma1997sdimension.miningportal: OP
 ftbutilities.claims.block.edit.aroma1997sdimension.portalframe: OP
-ftbutilities.claims.block.edit.aroma1997sdimension.stickyore: OP
 ftbutilities.claims.block.edit.betterquesting.submit_station: OP
 ftbutilities.claims.block.edit.bibliocraft.armorstand: OP
 ftbutilities.claims.block.edit.bibliocraft.bell: OP
@@ -2732,9 +2732,9 @@ ftbutilities.claims.block.interact.appliedenergistics2.vibration_chamber: OP
 ftbutilities.claims.block.interact.appliedenergistics2.wireless_access_point: OP
 ftbutilities.claims.block.interact.architecturecraft.sawbench: OP
 ftbutilities.claims.block.interact.architecturecraft.shape: OP
-ftbutilities.claims.block.interact.aroma1997sdimension.aromicportal: OP
+ftbutilities.claims.block.interact.aroma1997sdimension.miningore: OP
+ftbutilities.claims.block.interact.aroma1997sdimension.miningportal: OP
 ftbutilities.claims.block.interact.aroma1997sdimension.portalframe: OP
-ftbutilities.claims.block.interact.aroma1997sdimension.stickyore: OP
 ftbutilities.claims.block.interact.betterquesting.submit_station: OP
 ftbutilities.claims.block.interact.bibliocraft.armorstand: OP
 ftbutilities.claims.block.interact.bibliocraft.bell: OP
@@ -5482,9 +5482,9 @@ ftbutilities.claims.item.architecturecraft.sawbench: ALL
 ftbutilities.claims.item.architecturecraft.sawblade: ALL
 ftbutilities.claims.item.architecturecraft.shape: ALL
 ftbutilities.claims.item.aroma1997sdimension.dimensionchanger: ALL
+ftbutilities.claims.item.aroma1997sdimension.miningmultitool: ALL
+ftbutilities.claims.item.aroma1997sdimension.miningore: ALL
 ftbutilities.claims.item.aroma1997sdimension.portalframe: ALL
-ftbutilities.claims.item.aroma1997sdimension.portaligniter: ALL
-ftbutilities.claims.item.aroma1997sdimension.stickyore: ALL
 ftbutilities.claims.item.baubles.ring: ALL
 ftbutilities.claims.item.betterbuilderswands.wanddiamond: ALL
 ftbutilities.claims.item.betterbuilderswands.wandiron: ALL
@@ -5625,6 +5625,7 @@ ftbutilities.claims.item.bloodmagic.path: ALL
 ftbutilities.claims.item.bloodmagic.points_upgrade: ALL
 ftbutilities.claims.item.bloodmagic.potion_flask: ALL
 ftbutilities.claims.item.bloodmagic.ritual_controller: ALL
+ftbutilities.claims.item.bloodmagic.ritual_dismantler: ALL
 ftbutilities.claims.item.bloodmagic.ritual_diviner: ALL
 ftbutilities.claims.item.bloodmagic.ritual_reader: ALL
 ftbutilities.claims.item.bloodmagic.ritual_stone: ALL
@@ -10135,6 +10136,7 @@ ftbutilities.display.admin_info: OP
 ftbutilities.homes.cross_dim: ALL
 ftbutilities.leaderboard.ftbutilities.deaths: ALL
 ftbutilities.leaderboard.ftbutilities.deaths_per_hour: ALL
+ftbutilities.leaderboard.ftbutilities.jumps: ALL
 ftbutilities.leaderboard.ftbutilities.last_seen: ALL
 ftbutilities.leaderboard.ftbutilities.mob_kills: ALL
 ftbutilities.leaderboard.ftbutilities.time_played: ALL
@@ -10154,16 +10156,37 @@ command.advancement
 command.appliedenergistics2.ae2
 command.aroma1997core.aroma1997
 command.aroma1997core.sleep
+command.aroma1997sdimension.dimensionalworld
 command.baubles.baubles
 command.betterbuilderswands.wandoops
 command.betterquesting.bq_admin
 command.betterquesting.bq_user
 command.blockdata
-command.bloodmagic.bloodmagic.bind
-command.bloodmagic.bloodmagic.network
-command.bloodmagic.bloodmagic.orb
+command.bloodmagic.bloodmagic.help.bind
+command.bloodmagic.bloodmagic.help.network
+command.bloodmagic.bloodmagic.help.orb
+command.bloodmagic.bloodmagic.help.ritual
+command.bloodmagic.bloodmagic.help.teleposer
+command.bloodmagic.bloodmagic.network.help.add
+command.bloodmagic.bloodmagic.network.help.cap
+command.bloodmagic.bloodmagic.network.help.fill
+command.bloodmagic.bloodmagic.network.help.get
+command.bloodmagic.bloodmagic.network.help.set
+command.bloodmagic.bloodmagic.network.help.syphon
+command.bloodmagic.bloodmagic.network.help.tickethistory
+command.bloodmagic.bloodmagic.orb.help.get
+command.bloodmagic.bloodmagic.orb.help.set
+command.bloodmagic.bloodmagic.ritual.help.create
+command.bloodmagic.bloodmagic.ritual.help.repair
+command.bloodmagic.bloodmagic.teleposer.help.list
+command.bloodmagic.bloodmagic.teleposer.help.remove
+command.bloodmagic.bloodmagic.teleposer.help.removeall
+command.bloodmagic.bloodmagic.teleposer.help.rmrf
+command.bloodmagic.bloodmagic.teleposer.help.teleport
+command.bloodmagic.bloodmagic.teleposer.help.teleportfocus
 command.botania.botania-open
 command.botania.botania-share
+command.bq_standard.bqs_advancement_dump
 command.bq_standard.bqs_loot
 command.clear
 command.clone
@@ -10256,6 +10279,7 @@ command.ftbutilities.ranks.get_permission
 command.ftbutilities.ranks.help
 command.ftbutilities.ranks.set
 command.ftbutilities.ranks.set_permission
+command.ftbutilities.rec
 command.ftbutilities.rtp
 command.ftbutilities.sethome
 command.ftbutilities.setwarp
