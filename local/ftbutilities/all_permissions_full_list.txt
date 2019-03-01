@@ -10238,10 +10238,6 @@ command.ftblib.team.settings
 command.ftblib.team.status
 command.ftblib.team.transfer_ownership
 command.ftbutilities.back
-command.ftbutilities.backup.help
-command.ftbutilities.backup.size
-command.ftbutilities.backup.start
-command.ftbutilities.backup.time
 command.ftbutilities.chunks.claim
 command.ftbutilities.chunks.help
 command.ftbutilities.chunks.load
@@ -10259,8 +10255,6 @@ command.ftbutilities.heal
 command.ftbutilities.home
 command.ftbutilities.inv.disable_right_click
 command.ftbutilities.inv.help
-command.ftbutilities.inv.load
-command.ftbutilities.inv.save
 command.ftbutilities.inv.view
 command.ftbutilities.kickme
 command.ftbutilities.killall

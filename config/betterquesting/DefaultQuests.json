@@ -3855,7 +3855,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Signalium Fluxduct",
+          "name:8": "Signalum Fluxduct",
           "desc:8": "Still not enough power? Good news, you can upgrade your redstone energy fluxducts!\n\nYou\u0027ll need some redstone and signalum. See if you can find the JEI recipie to alloy it in the smeltery.\n\nAlternatively, you can upgrade an empty redstone energy fluxduct to an empty signalum fluxduct then fill it with molten redstone in the fluid transposer."
         }
       },
@@ -6822,6 +6822,851 @@
         }
       },
       "rewards:9": {}
+    },
+    "105:10": {
+      "questID:3": 105,
+      "preRequisites:11": [
+        99
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "immersiveengineering:material",
+            "Count:3": 1,
+            "Damage:2": 17,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Crusher",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:metal_decoration1",
+              "Count:3": 10,
+              "OreDict:8": "scaffoldingSteel",
+              "Damage:3": 1
+            },
+            "1:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "2:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "3:10": {
+              "id:8": "immersiveengineering:metal_decoration1",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "minecraft:hopper",
+              "Count:3": 9,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "106:10": {
+      "questID:3": 106,
+      "preRequisites:11": [
+        99
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "forge:bucketfilled",
+            "Count:3": 1,
+            "tag:10": {
+              "FluidName:8": "seed_oil",
+              "Amount:3": 1000
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Squeezer",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:metal_decoration1",
+              "Count:3": 6,
+              "OreDict:8": "scaffoldingSteel",
+              "Damage:3": 1
+            },
+            "1:10": {
+              "id:8": "immersiveengineering:metal_device1",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "2:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "3:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "4:10": {
+              "id:8": "immersiveengineering:wooden_device0",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "5:10": {
+              "id:8": "minecraft:piston",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "6:10": {
+              "id:8": "immersiveengineering:metal_decoration1",
+              "Count:3": 3,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "107:10": {
+      "questID:3": 107,
+      "preRequisites:11": [
+        106
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "forge:bucketfilled",
+            "Count:3": 1,
+            "tag:10": {
+              "FluidName:8": "ethanol",
+              "Amount:3": 1000
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Fermenter",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:metal_decoration1",
+              "Count:3": 6,
+              "OreDict:8": "scaffoldingSteel",
+              "Damage:3": 1
+            },
+            "1:10": {
+              "id:8": "immersiveengineering:metal_device1",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "2:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "3:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "4:10": {
+              "id:8": "minecraft:cauldron",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "immersiveengineering:sheetmetal",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 9
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "108:10": {
+      "questID:3": 108,
+      "preRequisites:11": [
+        105,
+        106
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "immersiveengineering:material",
+            "Count:3": 1,
+            "Damage:2": 19,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "HOP Graphite",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:material",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 18
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:material",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 19
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:blueprint",
+              "Count:3": 1,
+              "tag:10": {
+                "blueprint:8": "electrode"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "109:10": {
+      "questID:3": 109,
+      "preRequisites:11": [
+        107
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "forge:bucketfilled",
+            "Count:3": 1,
+            "tag:10": {
+              "FluidName:8": "biodiesel",
+              "Amount:3": 1000
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Refinery",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:metal_decoration1",
+              "Count:3": 8,
+              "OreDict:8": "scaffoldingSteel",
+              "Damage:3": 1
+            },
+            "1:10": {
+              "id:8": "immersiveengineering:metal_device1",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "2:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "3:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "4:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "5:10": {
+              "id:8": "immersiveengineering:sheetmetal",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 9
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "110:10": {
+      "questID:3": 110,
+      "preRequisites:11": [
+        109
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "immersiveengineering:metal_decoration0",
+            "Count:3": 1,
+            "Damage:2": 6,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Biodiesel Power",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:metal_decoration1",
+              "Count:3": 6,
+              "OreDict:8": "scaffoldingSteel",
+              "Damage:3": 1
+            },
+            "1:10": {
+              "id:8": "immersiveengineering:metal_device1",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "2:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "3:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 13,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "4:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "5:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 9,
+              "OreDict:8": "",
+              "Damage:3": 7
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "111:10": {
+      "questID:3": 111,
+      "preRequisites:11": [
+        108
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "immersiveengineering:graphite_electrode",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Arc Furnace",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:cauldron",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "immersiveengineering:sheetmetal_slab",
+              "Count:3": 14,
+              "OreDict:8": "",
+              "Damage:3": 8
+            },
+            "2:10": {
+              "id:8": "immersiveengineering:sheetmetal",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 8
+            },
+            "3:10": {
+              "id:8": "immersiveengineering:storage",
+              "Count:3": 6,
+              "OreDict:8": "blockSteel",
+              "Damage:3": 8
+            },
+            "4:10": {
+              "id:8": "immersiveengineering:metal_decoration1",
+              "Count:3": 5,
+              "OreDict:8": "scaffoldingSteel",
+              "Damage:3": 1
+            },
+            "5:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "6:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "7:10": {
+              "id:8": "immersiveengineering:metal_decoration0",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "8:10": {
+              "id:8": "immersiveengineering:stone_decoration",
+              "Count:3": 27,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:graphite_electrode",
+              "Count:3": 3,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "112:10": {
+      "questID:3": 112,
+      "preRequisites:11": [
+        58
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "actuallyadditions:block_atomic_reconstructor",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Atomic Reconstructor",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "actuallyadditions:block_atomic_reconstructor",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "actuallyadditions:item_crystal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "actuallyadditions:item_crystal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "2:10": {
+              "id:8": "actuallyadditions:item_crystal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "3:10": {
+              "id:8": "actuallyadditions:item_crystal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "4:10": {
+              "id:8": "actuallyadditions:item_crystal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "5:10": {
+              "id:8": "actuallyadditions:item_crystal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "2:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 2,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "actuallyadditions:item_misc",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 23
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "113:10": {
+      "questID:3": 113,
+      "preRequisites:11": [
+        112
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "actuallyadditions:block_empowerer",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Empowerer",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "actuallyadditions:block_empowerer",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "actuallyadditions:block_display_stand",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "actuallyadditions:item_crystal_empowered",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "actuallyadditions:item_crystal_empowered",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "2:10": {
+              "id:8": "actuallyadditions:item_crystal_empowered",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "3:10": {
+              "id:8": "actuallyadditions:item_crystal_empowered",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "4:10": {
+              "id:8": "actuallyadditions:item_crystal_empowered",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "5:10": {
+              "id:8": "actuallyadditions:item_crystal_empowered",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "2:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 2,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "actuallyadditions:item_misc",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 24
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -7238,6 +8083,60 @@
           "x:3": 246,
           "y:3": 132,
           "id:3": 104
+        },
+        "32:10": {
+          "size:3": 24,
+          "x:3": 282,
+          "y:3": 132,
+          "id:3": 105
+        },
+        "33:10": {
+          "size:3": 24,
+          "x:3": 246,
+          "y:3": 168,
+          "id:3": 106
+        },
+        "34:10": {
+          "size:3": 24,
+          "x:3": 246,
+          "y:3": 204,
+          "id:3": 107
+        },
+        "35:10": {
+          "size:3": 24,
+          "x:3": 282,
+          "y:3": 168,
+          "id:3": 108
+        },
+        "36:10": {
+          "size:3": 24,
+          "x:3": 246,
+          "y:3": 240,
+          "id:3": 109
+        },
+        "37:10": {
+          "size:3": 24,
+          "x:3": 210,
+          "y:3": 240,
+          "id:3": 110
+        },
+        "38:10": {
+          "size:3": 24,
+          "x:3": 282,
+          "y:3": 204,
+          "id:3": 111
+        },
+        "39:10": {
+          "size:3": 24,
+          "x:3": 102,
+          "y:3": 168,
+          "id:3": 112
+        },
+        "40:10": {
+          "size:3": 24,
+          "x:3": 102,
+          "y:3": 204,
+          "id:3": 113
         }
       },
       "lineID:3": 2,
@@ -7508,7 +8407,7 @@
           "name:8": "The Magical Journey",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "\nYou may think that after the last two chapters modded Minecraft is all technology. However, this is simply not the case. Magic exists too, in mods such as Blood Magic, and it combines with tech in mods like Embers and Botania. So get out there, and become a Master Archmage!!"
+          "desc:8": "\nYou may think that after the last three chapters modded Minecraft is all technology. However, this is simply not the case. Magic exists too, in mods such as Blood Magic, and it combines with tech in mods like Embers and Botania. So get out there, and become a Master Archmage!!"
         }
       },
       "order:3": 5
