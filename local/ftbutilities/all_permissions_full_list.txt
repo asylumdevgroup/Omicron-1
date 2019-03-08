@@ -1,4 +1,4 @@
-10148 nodes in total
+10145 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1434,7 +1434,6 @@ ftbutilities.claims.block.edit.jaopca.block_blockcertusquartz: OP
 ftbutilities.claims.block.edit.jaopca.block_blockchargedcertusquartz: OP
 ftbutilities.claims.block.edit.jaopca.block_blockdimensionalshard: OP
 ftbutilities.claims.block.edit.jaopca.block_blockenderbiotite: OP
-ftbutilities.claims.block.edit.jaopca.block_blockquartzblack: OP
 ftbutilities.claims.block.edit.jaopca.fluid_moltenmithril: OP
 ftbutilities.claims.block.edit.minecraft.acacia_door: OP
 ftbutilities.claims.block.edit.minecraft.acacia_fence: OP
@@ -3978,7 +3977,6 @@ ftbutilities.claims.block.interact.jaopca.block_blockcertusquartz: OP
 ftbutilities.claims.block.interact.jaopca.block_blockchargedcertusquartz: OP
 ftbutilities.claims.block.interact.jaopca.block_blockdimensionalshard: OP
 ftbutilities.claims.block.interact.jaopca.block_blockenderbiotite: OP
-ftbutilities.claims.block.interact.jaopca.block_blockquartzblack: OP
 ftbutilities.claims.block.interact.jaopca.fluid_moltenmithril: OP
 ftbutilities.claims.block.interact.minecraft.acacia_door: ALL
 ftbutilities.claims.block.interact.minecraft.acacia_fence: OP
@@ -8167,7 +8165,6 @@ ftbutilities.claims.item.jaopca.block_blockcertusquartz: ALL
 ftbutilities.claims.item.jaopca.block_blockchargedcertusquartz: ALL
 ftbutilities.claims.item.jaopca.block_blockdimensionalshard: ALL
 ftbutilities.claims.item.jaopca.block_blockenderbiotite: ALL
-ftbutilities.claims.item.jaopca.block_blockquartzblack: ALL
 ftbutilities.claims.item.jaopca.fluid_moltenmithril: ALL
 ftbutilities.claims.item.jaopca.item_coinardite: ALL
 ftbutilities.claims.item.jaopca.item_coinboron: ALL
