@@ -10081,19 +10081,6 @@
           "desc:8": "\nYou may think that after the last three chapters modded Minecraft is all technology. However, this is simply not the case. Magic exists too, in mods such as Blood Magic, and it combines with tech in mods like Embers and Botania. So get out there, and become a Master Archmage!!"
         }
       },
-      "order:3": 5
-    },
-    "5:10": {
-      "quests:9": {},
-      "lineID:3": 5,
-      "properties:10": {
-        "betterquesting:10": {
-          "name:8": "The Technological Journey III",
-          "bg_image:8": "",
-          "bg_size:3": 256,
-          "desc:8": "\nAnother Tech Chapter? Yes, this chapter showcases mods such as Environmental Tech, RFTools, and XNet that would not fit in the second Tech chapter."
-        }
-      },
       "order:3": 4
     }
   },
