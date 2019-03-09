@@ -406,6 +406,7 @@
           "range:3": -1,
           "index:3": 0,
           "dimension:3": -1,
+          "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location",
           "hideInfo:1": 0
         },
@@ -661,6 +662,7 @@
           "range:3": -1,
           "index:3": 0,
           "dimension:3": 1,
+          "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location",
           "hideInfo:1": 0
         },
@@ -4272,6 +4274,7 @@
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
+          "groupDetect:1": 0,
           "requiredFluids:9": {
             "0:10": {
               "FluidName:8": "water",
@@ -4285,6 +4288,7 @@
         },
         "1:10": {
           "autoConsume:1": 0,
+          "groupDetect:1": 0,
           "requiredFluids:9": {
             "0:10": {
               "FluidName:8": "manyullyn",
@@ -6230,7 +6234,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Coke Oven",
-          "desc:8": "No Description"
+          "desc:8": "The Coke Oven is a multiblock structure used to produce Coal Coke from Coal, with Creosote Oil as a byproduct, which is used to craft treated wood for early power generation.\n\nTo Construct this Multiblock Structure, simply build a 3x3x3 cube from 27 Coke Bricks, then right click the center block on the face you want to be the front with an Engineer\u0027s Hammer."
         }
       },
       "tasks:9": {
@@ -6280,7 +6284,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Blast Furnace",
-          "desc:8": "No Description"
+          "desc:8": "When Supplied with Coal Coke and Iron Ingots or Blocks, this Multiblock Structure produces, albeit slowly, Steel Ingots/Blocks, with a byproduct of Slag, which can be used to make concrete.\n\nThis Structure is built and activated in the same fashion as the Coke Oven in the Previous Quest."
         }
       },
       "tasks:9": {
@@ -6330,11 +6334,42 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Water Power!",
-          "desc:8": "No Description"
+          "desc:8": "This structure generates power passively when water flows over water wheels, which must be attached to a Kinetic Dynamo.\n\nSee the Engineer\u0027s Manual for more information."
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:wooden_device1",
+              "Count:3": 3,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:metal_device1",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            }
+          }
+        }
+      }
     },
     "99:10": {
       "questID:3": 99,
@@ -6362,7 +6397,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Wires and Connectors",
-          "desc:8": "No Description"
+          "desc:8": "Want to transfer power using something more realistic than fluxducts? Simply place down some connectors on your power inputs and outputs, then place a relay somewhere in between to connect them all together. Then, right click on a connector, then the relay. Repeat, and voila! Awesome wire-based power transfer! Just don\u0027t get too close to the wires though...\n\nSee the Engineer\u0027s Manual for more information."
         }
       },
       "tasks:9": {
@@ -6483,7 +6518,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "A Faster Blast Furnace",
-          "desc:8": "No Description"
+          "desc:8": "Ever think your Blast Furnace is way too slow? Do you want to speed it up? Then use 27 Steel Plates (Crafted from Steel Ingots using the Engineer\u0027s Hammer) to upgrade it! However, there are a few more steps. The Blast Furnace Preheaters attached to the Multiblock must be powered. See the Engineer\u0027s Manual for how to construct the full structure."
         }
       },
       "tasks:9": {
@@ -6545,7 +6580,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Hemp",
-          "desc:8": "No Description"
+          "desc:8": "Hemp is a resource from Immersive Engineering used primarily to insulate wires, though can also be crafted into string. Hemp seeds can be found by breaking grass, just like regular wheat seeds."
         }
       },
       "tasks:9": {
@@ -6613,7 +6648,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Zap!",
-          "desc:8": "No Description"
+          "desc:8": "What did I tell you about touching the wires!? You\u0027ll shock yourself! If you just can\u0027t help it (or wires are in your way), then insulate the wires!!\n\nSee the Engineer\u0027s Manual for more information."
         }
       },
       "tasks:9": {
@@ -6669,7 +6704,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Engineer\u0027s Workbench",
-          "desc:8": "No Description"
+          "desc:8": "This Block, when supplied with a blueprint and the necessary ingredients, can be used to craft items such as press molds, circuits, and more.\n\nSee the Engineer\u0027s Manual for more information."
         }
       },
       "tasks:9": {
@@ -6719,7 +6754,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Metal Press",
-          "desc:8": "No Description"
+          "desc:8": "Need an easier way to make plates, gears, wires, and rods? Introducing the Metal Press! This multiblock structure, when given a Metal Press Mold for one of those four components, will produce them more efficiently, not wasting tool durabilities on your Hammer or Cutters!\n\nSee the Engineer\u0027s Manual for more information and how to construct this Multiblock."
         }
       },
       "tasks:9": {
@@ -6851,7 +6886,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Crusher",
-          "desc:8": "No Description"
+          "desc:8": "This multiblock structure can grind materials into dusts. Be careful, for it also can grind players, and destroy their non-grindable items while grinding their grindable ones. Some Items, such as coke dust, require this machine.\n\nSee the Engineer\u0027s Manual for more information and how to construct this Multiblock."
         }
       },
       "tasks:9": {
@@ -6929,7 +6964,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Squeezer",
-          "desc:8": "No Description"
+          "desc:8": "This Multiblock can be used both to produce seed oil from seeds (A Step in Biodiesel Power), and to compress Coke Dust into HOP Graphite (Used in the Arc Furnace).\n\nSee the Engineer\u0027s Manual for more information and how to construct this Multiblock."
         }
       },
       "tasks:9": {
@@ -7019,7 +7054,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Fermenter",
-          "desc:8": "No Description"
+          "desc:8": "This Multiblock Structure is used to produce ethanol from plant material, which is the next step in producing power from Biodiesel.\n\nSee the Engineer\u0027s Manual for more information and how to construct this Multiblock."
         }
       },
       "tasks:9": {
@@ -7100,7 +7135,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "HOP Graphite",
-          "desc:8": "No Description"
+          "desc:8": "HOP Graphite, made from squeezed Coke Dust (Coal Coke in the Crusher), is used in the Engineer\u0027s Workbench to Craft Graphite Electrodes, which are used to heat the Arc Furnace.\n\nSee the Engineer\u0027s Manual for more information."
         }
       },
       "tasks:9": {
@@ -7187,7 +7222,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Refinery",
-          "desc:8": "No Description"
+          "desc:8": "This Multiblock Structure is used to produce Biodiesel from the Combination of Seed Oil and Ethanol.\n\nSee the Engineer\u0027s Manual for more information and how to construct this Multiblock."
         }
       },
       "tasks:9": {
@@ -7267,7 +7302,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Biodiesel Power",
-          "desc:8": "No Description"
+          "desc:8": "Are you ready to turn your newly produced Biodiesel into lots of power! Then construct a Diesel Generator and pipe some biodiesel into it!\n\nSee the Engineer\u0027s Manual for more information and how to construct this Multiblock."
         }
       },
       "tasks:9": {
@@ -7347,7 +7382,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Arc Furnace",
-          "desc:8": "No Description"
+          "desc:8": "The Arc Furnace is a special Multiblock Structure that can both smelt metals and produce steel efficiently by heating to extremely high temperatures. However, it must be continuously maintained.\n\nSee the Engineer\u0027s Manual for more information and how to construct this Multiblock."
         }
       },
       "tasks:9": {
@@ -7879,7 +7914,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Collecting Ember",
-          "desc:8": "No Description"
+          "desc:8": "See the Ancient Codex for more information. (Hey, I\u0027m still fairly new to this mod, so it\u0027ll probably do a better job of explaning things than I will)"
         }
       },
       "tasks:9": {
@@ -7935,7 +7970,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Crystallized Ember",
-          "desc:8": "No Description"
+          "desc:8": "See the Ancient Codex for more information."
         }
       },
       "tasks:9": {
@@ -7985,7 +8020,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Ember Activation",
-          "desc:8": "No Description"
+          "desc:8": "See the Ancient Codex for more information."
         }
       },
       "tasks:9": {
@@ -8035,7 +8070,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Ember Storage and Transfer",
-          "desc:8": "No Description"
+          "desc:8": "See the Ancient Codex for more information."
         }
       },
       "tasks:9": {
@@ -8102,7 +8137,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Melting Metals",
-          "desc:8": "No Description"
+          "desc:8": "See the Ancient Codex for more information."
         }
       },
       "tasks:9": {
@@ -8152,7 +8187,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Mixing Metals",
-          "desc:8": "No Description"
+          "desc:8": "See the Ancient Codex for more information."
         }
       },
       "tasks:9": {
@@ -8202,7 +8237,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Stamping",
-          "desc:8": "No Description"
+          "desc:8": "See the Ancient Codex for more information."
         }
       },
       "tasks:9": {
@@ -8293,7 +8328,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Dawnstone",
-          "desc:8": "No Description"
+          "desc:8": "See the Ancient Codex for more information."
         }
       },
       "tasks:9": {
