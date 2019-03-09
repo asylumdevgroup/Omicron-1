@@ -8439,7 +8439,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Extracting Latex",
-          "desc:8": "No Description"
+          "desc:8": "Place this block facing a wood log, and it will slowly break the log, collecting latex in the process. It is recommended to make four of these, one for each side of the log.\n\nSee the Industrial Foregoing Manual for more Information."
         }
       },
       "tasks:9": {
@@ -8489,7 +8489,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Processing Latex",
-          "desc:8": "No Description"
+          "desc:8": "Pipe the fluid latex into this machine, supply it with power, and it will solidify the latex into Tiny Dry Rubber. Craft 9 Tiny Dry Rubber into one Dry Rubber, and smelt it into Plastic.\n\nSee the Industrial Foregoing Manual for more Information."
         }
       },
       "tasks:9": {
@@ -8573,7 +8573,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Petrified Fuel Generator",
-          "desc:8": "No Description"
+          "desc:8": "This generator is almost identical to Actually Additions\u0027 Coal Generator, but rather than lasting a longer or shorter time with different fuels, it merely alters the power production rate.\n\nSee the Industrial Foregoing Manual for more Information."
         }
       },
       "tasks:9": {
@@ -8623,7 +8623,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Farming Machines",
-          "desc:8": "No Description"
+          "desc:8": "These machines are used to automatically harvest and replant crops and trees at the cost of power.\n\nSee the Industrial Foregoing Manual for more Information."
         }
       },
       "tasks:9": {
@@ -8762,7 +8762,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Mob Farming",
-          "desc:8": "No Description"
+          "desc:8": "The Mob Crusher kills mobs at the cost of power, producing Essence, which is used in a Mob Duplicator to spawn mobs. The Mob Duplicator also requires that the mob you want to spawn be captured by right-clicking it with a Mob Imprisonment Tool.\n\nSee the Industrial Foregoing Manual for more Information."
         }
       },
       "tasks:9": {
@@ -8824,7 +8824,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Pink Slime Production",
-          "desc:8": "No Description"
+          "desc:8": "This machine kills passive mobs, producing Pink Slime liquid, which when placed in the world, spawns Pink Slime Mobs, which will drop Pink Slimeballs when killed.\n\nSee the Industrial Foregoing Manual for more Information."
         }
       },
       "tasks:9": {
@@ -8912,7 +8912,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Laser Drill",
-          "desc:8": "No Description"
+          "desc:8": "This Machine, when supplied with heavy amounts of power and a lens, generates ores out of thin air. NOTE: The Base Must have a direct line of sight to bedrock. When different colors of lenses are used, there are different chances to get certain ores.\n\nSee the Industrial Foregoing Manual for more Information."
         }
       },
       "tasks:9": {
@@ -8933,6 +8933,271 @@
             "1:10": {
               "id:8": "industrialforegoing:laser_drill",
               "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "131:10": {
+      "questID:3": 131,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "nuclearcraft:capability_radiation_source:10": {
+                "radiationLevel:6": 3.85E-10,
+                "radiationBuffer:6": 0.0
+              }
+            },
+            "id:8": "nuclearcraft:ingot",
+            "Count:3": 1,
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "NuclearCraft",
+          "desc:8": "NuclearCraft is a mod centered around using Nuclear Reactors to generate massive amounts of power. Unlike similar mods such as Extreme Reactors, NuclearCraft is semi-realistic, involving radioactive isotopes, chemical processing, and fission and fusion byproducts."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
+    },
+    "132:10": {
+      "questID:3": 132,
+      "preRequisites:11": [
+        131
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "nuclearcraft:manufactory_idle",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Manufactory",
+          "desc:8": "This machine is used to create crushed Coal and Quartz, as well as Graphite Dust, all of which are important components in this mod."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "nuclearcraft:manufactory_idle",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "133:10": {
+      "questID:3": 133,
+      "preRequisites:11": [
+        132
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "nuclearcraft:alloy_furnace_idle",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Alloy Furnace",
+          "desc:8": "This Machine is used to create special alloys such as Ferroboron Alloy and Tough Alloy, which are important in getting your first Fission Reactor."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "nuclearcraft:alloy_furnace_idle",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "134:10": {
+      "questID:3": 134,
+      "preRequisites:11": [
+        133
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "nuclearcraft:isotope_separator_idle",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Isotope Separator",
+          "desc:8": "This Machine takes Radioactive Materials, and breaks them down into various forms called Isotopes. Some of these Isotopes can be used as fuel for your fission reactor."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "nuclearcraft:isotope_separator_idle",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "135:10": {
+      "questID:3": 135,
+      "preRequisites:11": [
+        134
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "nuclearcraft:fission_controller_new_idle",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Fission Reactor",
+          "desc:8": "After Acquiring a lot of resources and going through long processing chains, you are finally ready to make your first reactor! These five components are essential for any efficient and safe reactor. NOTE: Only one of each component is required for this quest, but with the sole exception of the controller, you will need more than one, but the amount depends on how big you make your reactor."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "nuclearcraft:fission_controller_new_idle",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "nuclearcraft:fission_block",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "nuclearcraft:cell_block",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "nuclearcraft:ingot_block",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 8
+            },
+            "4:10": {
+              "id:8": "nuclearcraft:cooler",
+              "Count:3": 1,
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -9533,6 +9798,36 @@
           "x:3": 24,
           "y:3": 42,
           "id:3": 130
+        },
+        "18:10": {
+          "size:3": 24,
+          "x:3": 72,
+          "y:3": 0,
+          "id:3": 131
+        },
+        "19:10": {
+          "size:3": 24,
+          "x:3": 72,
+          "y:3": 42,
+          "id:3": 132
+        },
+        "20:10": {
+          "size:3": 24,
+          "x:3": 72,
+          "y:3": 78,
+          "id:3": 133
+        },
+        "21:10": {
+          "size:3": 24,
+          "x:3": 72,
+          "y:3": 114,
+          "id:3": 134
+        },
+        "22:10": {
+          "size:3": 24,
+          "x:3": 36,
+          "y:3": 114,
+          "id:3": 135
         }
       },
       "lineID:3": 3,
