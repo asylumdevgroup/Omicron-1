@@ -1,4 +1,4 @@
-10145 nodes in total
+10191 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -772,7 +772,9 @@ ftbutilities.claims.block.edit.embers.alchemy_tablet: OP
 ftbutilities.claims.block.edit.embers.aluminum: OP
 ftbutilities.claims.block.edit.embers.archaic_bricks: OP
 ftbutilities.claims.block.edit.embers.archaic_edge: OP
+ftbutilities.claims.block.edit.embers.archaic_geysir: OP
 ftbutilities.claims.block.edit.embers.archaic_light: OP
+ftbutilities.claims.block.edit.embers.archaic_mech_edge: OP
 ftbutilities.claims.block.edit.embers.archaic_tile: OP
 ftbutilities.claims.block.edit.embers.ashen_brick: OP
 ftbutilities.claims.block.edit.embers.ashen_brick_slab: OP
@@ -833,6 +835,7 @@ ftbutilities.claims.block.edit.embers.explosion_pedestal: OP
 ftbutilities.claims.block.edit.embers.field_chart: OP
 ftbutilities.claims.block.edit.embers.fluid_gauge: OP
 ftbutilities.claims.block.edit.embers.fluid_transfer: OP
+ftbutilities.claims.block.edit.embers.geo_separator: OP
 ftbutilities.claims.block.edit.embers.glow: OP
 ftbutilities.claims.block.edit.embers.gold: OP
 ftbutilities.claims.block.edit.embers.heat_coil: OP
@@ -864,6 +867,15 @@ ftbutilities.claims.block.edit.embers.pump: OP
 ftbutilities.claims.block.edit.embers.reactor: OP
 ftbutilities.claims.block.edit.embers.sealed_planks: OP
 ftbutilities.claims.block.edit.embers.seed: OP
+ftbutilities.claims.block.edit.embers.seed_aluminum: OP
+ftbutilities.claims.block.edit.embers.seed_copper: OP
+ftbutilities.claims.block.edit.embers.seed_dawnstone: OP
+ftbutilities.claims.block.edit.embers.seed_gold: OP
+ftbutilities.claims.block.edit.embers.seed_iron: OP
+ftbutilities.claims.block.edit.embers.seed_lead: OP
+ftbutilities.claims.block.edit.embers.seed_nickel: OP
+ftbutilities.claims.block.edit.embers.seed_silver: OP
+ftbutilities.claims.block.edit.embers.seed_tin: OP
 ftbutilities.claims.block.edit.embers.silver: OP
 ftbutilities.claims.block.edit.embers.stairs_ashen_brick: OP
 ftbutilities.claims.block.edit.embers.stairs_ashen_stone: OP
@@ -873,6 +885,7 @@ ftbutilities.claims.block.edit.embers.stamper: OP
 ftbutilities.claims.block.edit.embers.stamper_base: OP
 ftbutilities.claims.block.edit.embers.stirling: OP
 ftbutilities.claims.block.edit.embers.stone_edge: OP
+ftbutilities.claims.block.edit.embers.stone_valve: OP
 ftbutilities.claims.block.edit.embers.structure_marker: OP
 ftbutilities.claims.block.edit.embers.tin: OP
 ftbutilities.claims.block.edit.embers.vacuum: OP
@@ -1355,6 +1368,7 @@ ftbutilities.claims.block.edit.industrialforegoing.biofuel: OP
 ftbutilities.claims.block.edit.industrialforegoing.biofuel_generator: OP
 ftbutilities.claims.block.edit.industrialforegoing.bioreactor: OP
 ftbutilities.claims.block.edit.industrialforegoing.black_hole_controller: OP
+ftbutilities.claims.block.edit.industrialforegoing.black_hole_controller_reworked: OP
 ftbutilities.claims.block.edit.industrialforegoing.black_hole_label: OP
 ftbutilities.claims.block.edit.industrialforegoing.black_hole_tank: OP
 ftbutilities.claims.block.edit.industrialforegoing.black_hole_unit: OP
@@ -1753,7 +1767,6 @@ ftbutilities.claims.block.edit.nuclearcraft.fluid_calcium_sulfate_solution: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_carbon_dioxide: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_carbon_monoxide: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_chocolate_liquor: OP
-ftbutilities.claims.block.edit.nuclearcraft.fluid_coal: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_cocoa_butter: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_condensate_water: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_corium: OP
@@ -1808,7 +1821,6 @@ ftbutilities.claims.block.edit.nuclearcraft.fluid_silver: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sodium: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sodium_fluoride_solution: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sodium_hydroxide_solution: OP
-ftbutilities.claims.block.edit.nuclearcraft.fluid_steam: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sugar: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sulfur: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sulfur_dioxide: OP
@@ -1829,6 +1841,7 @@ ftbutilities.claims.block.edit.nuclearcraft.fusion_electromagnet_transparent_act
 ftbutilities.claims.block.edit.nuclearcraft.fusion_electromagnet_transparent_idle: OP
 ftbutilities.claims.block.edit.nuclearcraft.geiger_block: OP
 ftbutilities.claims.block.edit.nuclearcraft.glowing_mushroom: OP
+ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_computer_port: OP
 ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_controller: OP
 ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_frame: OP
 ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_glass: OP
@@ -1877,6 +1890,7 @@ ftbutilities.claims.block.edit.nuclearcraft.rtg_californium: OP
 ftbutilities.claims.block.edit.nuclearcraft.rtg_plutonium: OP
 ftbutilities.claims.block.edit.nuclearcraft.rtg_uranium: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_beam: OP
+ftbutilities.claims.block.edit.nuclearcraft.salt_fission_computer_port: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_controller: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_distributor: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_frame: OP
@@ -1896,6 +1910,7 @@ ftbutilities.claims.block.edit.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.edit.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.edit.nuclearcraft.turbine_computer_port: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_controller: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_dynamo_coil: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_frame: OP
@@ -3315,7 +3330,9 @@ ftbutilities.claims.block.interact.embers.alchemy_tablet: OP
 ftbutilities.claims.block.interact.embers.aluminum: OP
 ftbutilities.claims.block.interact.embers.archaic_bricks: OP
 ftbutilities.claims.block.interact.embers.archaic_edge: OP
+ftbutilities.claims.block.interact.embers.archaic_geysir: OP
 ftbutilities.claims.block.interact.embers.archaic_light: OP
+ftbutilities.claims.block.interact.embers.archaic_mech_edge: OP
 ftbutilities.claims.block.interact.embers.archaic_tile: OP
 ftbutilities.claims.block.interact.embers.ashen_brick: OP
 ftbutilities.claims.block.interact.embers.ashen_brick_slab: OP
@@ -3376,6 +3393,7 @@ ftbutilities.claims.block.interact.embers.explosion_pedestal: OP
 ftbutilities.claims.block.interact.embers.field_chart: OP
 ftbutilities.claims.block.interact.embers.fluid_gauge: OP
 ftbutilities.claims.block.interact.embers.fluid_transfer: OP
+ftbutilities.claims.block.interact.embers.geo_separator: OP
 ftbutilities.claims.block.interact.embers.glow: OP
 ftbutilities.claims.block.interact.embers.gold: OP
 ftbutilities.claims.block.interact.embers.heat_coil: OP
@@ -3407,6 +3425,15 @@ ftbutilities.claims.block.interact.embers.pump: OP
 ftbutilities.claims.block.interact.embers.reactor: OP
 ftbutilities.claims.block.interact.embers.sealed_planks: OP
 ftbutilities.claims.block.interact.embers.seed: OP
+ftbutilities.claims.block.interact.embers.seed_aluminum: OP
+ftbutilities.claims.block.interact.embers.seed_copper: OP
+ftbutilities.claims.block.interact.embers.seed_dawnstone: OP
+ftbutilities.claims.block.interact.embers.seed_gold: OP
+ftbutilities.claims.block.interact.embers.seed_iron: OP
+ftbutilities.claims.block.interact.embers.seed_lead: OP
+ftbutilities.claims.block.interact.embers.seed_nickel: OP
+ftbutilities.claims.block.interact.embers.seed_silver: OP
+ftbutilities.claims.block.interact.embers.seed_tin: OP
 ftbutilities.claims.block.interact.embers.silver: OP
 ftbutilities.claims.block.interact.embers.stairs_ashen_brick: OP
 ftbutilities.claims.block.interact.embers.stairs_ashen_stone: OP
@@ -3416,6 +3443,7 @@ ftbutilities.claims.block.interact.embers.stamper: OP
 ftbutilities.claims.block.interact.embers.stamper_base: OP
 ftbutilities.claims.block.interact.embers.stirling: OP
 ftbutilities.claims.block.interact.embers.stone_edge: OP
+ftbutilities.claims.block.interact.embers.stone_valve: OP
 ftbutilities.claims.block.interact.embers.structure_marker: OP
 ftbutilities.claims.block.interact.embers.tin: OP
 ftbutilities.claims.block.interact.embers.vacuum: OP
@@ -3898,6 +3926,7 @@ ftbutilities.claims.block.interact.industrialforegoing.biofuel: OP
 ftbutilities.claims.block.interact.industrialforegoing.biofuel_generator: OP
 ftbutilities.claims.block.interact.industrialforegoing.bioreactor: OP
 ftbutilities.claims.block.interact.industrialforegoing.black_hole_controller: OP
+ftbutilities.claims.block.interact.industrialforegoing.black_hole_controller_reworked: OP
 ftbutilities.claims.block.interact.industrialforegoing.black_hole_label: OP
 ftbutilities.claims.block.interact.industrialforegoing.black_hole_tank: OP
 ftbutilities.claims.block.interact.industrialforegoing.black_hole_unit: OP
@@ -4296,7 +4325,6 @@ ftbutilities.claims.block.interact.nuclearcraft.fluid_calcium_sulfate_solution: 
 ftbutilities.claims.block.interact.nuclearcraft.fluid_carbon_dioxide: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_carbon_monoxide: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_chocolate_liquor: OP
-ftbutilities.claims.block.interact.nuclearcraft.fluid_coal: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_cocoa_butter: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_condensate_water: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_corium: OP
@@ -4351,7 +4379,6 @@ ftbutilities.claims.block.interact.nuclearcraft.fluid_silver: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sodium: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sodium_fluoride_solution: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sodium_hydroxide_solution: OP
-ftbutilities.claims.block.interact.nuclearcraft.fluid_steam: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sugar: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sulfur: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sulfur_dioxide: OP
@@ -4372,6 +4399,7 @@ ftbutilities.claims.block.interact.nuclearcraft.fusion_electromagnet_transparent
 ftbutilities.claims.block.interact.nuclearcraft.fusion_electromagnet_transparent_idle: OP
 ftbutilities.claims.block.interact.nuclearcraft.geiger_block: OP
 ftbutilities.claims.block.interact.nuclearcraft.glowing_mushroom: OP
+ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_computer_port: OP
 ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_controller: OP
 ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_frame: OP
 ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_glass: OP
@@ -4420,6 +4448,7 @@ ftbutilities.claims.block.interact.nuclearcraft.rtg_californium: OP
 ftbutilities.claims.block.interact.nuclearcraft.rtg_plutonium: OP
 ftbutilities.claims.block.interact.nuclearcraft.rtg_uranium: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_beam: OP
+ftbutilities.claims.block.interact.nuclearcraft.salt_fission_computer_port: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_controller: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_distributor: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_frame: OP
@@ -4439,6 +4468,7 @@ ftbutilities.claims.block.interact.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.interact.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.interact.nuclearcraft.turbine_computer_port: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_controller: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_dynamo_coil: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_frame: OP
@@ -6297,6 +6327,7 @@ ftbutilities.claims.item.embers.archaic_brick: ALL
 ftbutilities.claims.item.embers.archaic_bricks: ALL
 ftbutilities.claims.item.embers.archaic_circuit: ALL
 ftbutilities.claims.item.embers.archaic_edge: ALL
+ftbutilities.claims.item.embers.archaic_geysir: ALL
 ftbutilities.claims.item.embers.archaic_light: ALL
 ftbutilities.claims.item.embers.archaic_tile: ALL
 ftbutilities.claims.item.embers.ashen_amulet: ALL
@@ -6399,6 +6430,7 @@ ftbutilities.claims.item.embers.flame_barrier: ALL
 ftbutilities.claims.item.embers.fluid_gauge: ALL
 ftbutilities.claims.item.embers.fluid_transfer: ALL
 ftbutilities.claims.item.embers.focal_lens: ALL
+ftbutilities.claims.item.embers.geo_separator: ALL
 ftbutilities.claims.item.embers.glimmer_lamp: ALL
 ftbutilities.claims.item.embers.glimmer_shard: ALL
 ftbutilities.claims.item.embers.grandhammer: ALL
@@ -6483,6 +6515,15 @@ ftbutilities.claims.item.embers.reactor: ALL
 ftbutilities.claims.item.embers.resonating_bell: ALL
 ftbutilities.claims.item.embers.sealed_planks: ALL
 ftbutilities.claims.item.embers.seed: ALL
+ftbutilities.claims.item.embers.seed_aluminum: ALL
+ftbutilities.claims.item.embers.seed_copper: ALL
+ftbutilities.claims.item.embers.seed_dawnstone: ALL
+ftbutilities.claims.item.embers.seed_gold: ALL
+ftbutilities.claims.item.embers.seed_iron: ALL
+ftbutilities.claims.item.embers.seed_lead: ALL
+ftbutilities.claims.item.embers.seed_nickel: ALL
+ftbutilities.claims.item.embers.seed_silver: ALL
+ftbutilities.claims.item.embers.seed_tin: ALL
 ftbutilities.claims.item.embers.shard_ember: ALL
 ftbutilities.claims.item.embers.shifting_scales: ALL
 ftbutilities.claims.item.embers.shovel_aluminum: ALL
@@ -6511,6 +6552,7 @@ ftbutilities.claims.item.embers.stamper: ALL
 ftbutilities.claims.item.embers.stamper_base: ALL
 ftbutilities.claims.item.embers.stirling: ALL
 ftbutilities.claims.item.embers.stone_edge: ALL
+ftbutilities.claims.item.embers.stone_valve: ALL
 ftbutilities.claims.item.embers.superheater: ALL
 ftbutilities.claims.item.embers.sword_aluminum: ALL
 ftbutilities.claims.item.embers.sword_bronze: ALL
@@ -8052,6 +8094,7 @@ ftbutilities.claims.item.industrialforegoing.artificial_dye: ALL
 ftbutilities.claims.item.industrialforegoing.biofuel_generator: ALL
 ftbutilities.claims.item.industrialforegoing.bioreactor: ALL
 ftbutilities.claims.item.industrialforegoing.black_hole_controller: ALL
+ftbutilities.claims.item.industrialforegoing.black_hole_controller_reworked: ALL
 ftbutilities.claims.item.industrialforegoing.black_hole_label: ALL
 ftbutilities.claims.item.industrialforegoing.black_hole_tank: ALL
 ftbutilities.claims.item.industrialforegoing.black_hole_unit: ALL
@@ -8846,7 +8889,6 @@ ftbutilities.claims.item.nuclearcraft.fluid_calcium_sulfate_solution: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_carbon_dioxide: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_carbon_monoxide: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_chocolate_liquor: ALL
-ftbutilities.claims.item.nuclearcraft.fluid_coal: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_cocoa_butter: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_condensate_water: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_corium: ALL
@@ -8901,7 +8943,6 @@ ftbutilities.claims.item.nuclearcraft.fluid_silver: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sodium: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sodium_fluoride_solution: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sodium_hydroxide_solution: ALL
-ftbutilities.claims.item.nuclearcraft.fluid_steam: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sugar: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sulfur: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sulfur_dioxide: ALL
@@ -8910,6 +8951,7 @@ ftbutilities.claims.item.nuclearcraft.fluid_sulfuric_acid: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_tough: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_tritium: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_unsweetened_chocolate: ALL
+ftbutilities.claims.item.nuclearcraft.foursmore: ALL
 ftbutilities.claims.item.nuclearcraft.fuel_americium: ALL
 ftbutilities.claims.item.nuclearcraft.fuel_berkelium: ALL
 ftbutilities.claims.item.nuclearcraft.fuel_californium: ALL
@@ -8938,6 +8980,7 @@ ftbutilities.claims.item.nuclearcraft.gem_dust: ALL
 ftbutilities.claims.item.nuclearcraft.glowing_mushroom: ALL
 ftbutilities.claims.item.nuclearcraft.graham_cracker: ALL
 ftbutilities.claims.item.nuclearcraft.ground_cocoa_nibs: ALL
+ftbutilities.claims.item.nuclearcraft.heat_exchanger_computer_port: ALL
 ftbutilities.claims.item.nuclearcraft.heat_exchanger_controller: ALL
 ftbutilities.claims.item.nuclearcraft.heat_exchanger_frame: ALL
 ftbutilities.claims.item.nuclearcraft.heat_exchanger_glass: ALL
@@ -9007,6 +9050,7 @@ ftbutilities.claims.item.nuclearcraft.pressurizer_idle: ALL
 ftbutilities.claims.item.nuclearcraft.rad_shielding: ALL
 ftbutilities.claims.item.nuclearcraft.rad_x: ALL
 ftbutilities.claims.item.nuclearcraft.radaway: ALL
+ftbutilities.claims.item.nuclearcraft.radiation_badge: ALL
 ftbutilities.claims.item.nuclearcraft.radiation_scrubber: ALL
 ftbutilities.claims.item.nuclearcraft.reactor_casing_transparent: ALL
 ftbutilities.claims.item.nuclearcraft.reactor_door: ALL
@@ -9024,6 +9068,7 @@ ftbutilities.claims.item.nuclearcraft.rtg_californium: ALL
 ftbutilities.claims.item.nuclearcraft.rtg_plutonium: ALL
 ftbutilities.claims.item.nuclearcraft.rtg_uranium: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_beam: ALL
+ftbutilities.claims.item.nuclearcraft.salt_fission_computer_port: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_controller: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_distributor: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_frame: ALL
@@ -9058,6 +9103,7 @@ ftbutilities.claims.item.nuclearcraft.sword_hard_carbon: ALL
 ftbutilities.claims.item.nuclearcraft.sword_tough: ALL
 ftbutilities.claims.item.nuclearcraft.thorium: ALL
 ftbutilities.claims.item.nuclearcraft.tiny_dust_lead: ALL
+ftbutilities.claims.item.nuclearcraft.turbine_computer_port: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_controller: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_dynamo_coil: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_frame: ALL
@@ -10221,6 +10267,12 @@ command.forge.track.help.te
 command.forge.track.reset
 command.forge.track.start
 command.forge.track.te
+command.ftbbackups.backup.help.size
+command.ftbbackups.backup.help.start
+command.ftbbackups.backup.help.time
+command.ftbbackups.backup.size
+command.ftbbackups.backup.start
+command.ftbbackups.backup.time
 command.ftblib.my_settings
 command.ftblib.reload
 command.ftblib.team.create
@@ -10301,6 +10353,7 @@ command.journeymap.jtp
 command.kill
 command.locate
 command.me
+command.nuclearcraft.nc_set_chunk_radiation
 command.openblocks.flimflam
 command.openblocks.luck
 command.openblocks.ob_inventory
