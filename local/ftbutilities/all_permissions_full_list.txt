@@ -1,4 +1,4 @@
-10388 nodes in total
+10391 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1812,6 +1812,7 @@ ftbutilities.claims.block.edit.nuclearcraft.fluid_hydrofluoric_acid: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_hydrogen: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_koh: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_lif: OP
+ftbutilities.claims.block.edit.nuclearcraft.fluid_liquid_nitrogen: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_liquidhelium: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_lithium6: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_lithium7: OP
@@ -4409,6 +4410,7 @@ ftbutilities.claims.block.interact.nuclearcraft.fluid_hydrofluoric_acid: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_hydrogen: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_koh: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_lif: OP
+ftbutilities.claims.block.interact.nuclearcraft.fluid_liquid_nitrogen: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_liquidhelium: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_lithium6: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_lithium7: OP
@@ -9066,6 +9068,7 @@ ftbutilities.claims.item.nuclearcraft.fluid_hydrofluoric_acid: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_hydrogen: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_koh: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_lif: ALL
+ftbutilities.claims.item.nuclearcraft.fluid_liquid_nitrogen: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_liquidhelium: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_lithium6: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_lithium7: ALL
