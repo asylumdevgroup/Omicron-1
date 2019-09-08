@@ -1,4 +1,4 @@
-10391 nodes in total
+10513 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1223,6 +1223,7 @@ ftbutilities.claims.block.edit.harvestcraft.pamhazelnut: OP
 ftbutilities.claims.block.edit.harvestcraft.pamhuckleberrycrop: OP
 ftbutilities.claims.block.edit.harvestcraft.pamjackfruit: OP
 ftbutilities.claims.block.edit.harvestcraft.pamjicamacrop: OP
+ftbutilities.claims.block.edit.harvestcraft.pamjuniperberrycrop: OP
 ftbutilities.claims.block.edit.harvestcraft.pamjutecrop: OP
 ftbutilities.claims.block.edit.harvestcraft.pamkalecrop: OP
 ftbutilities.claims.block.edit.harvestcraft.pamkenafcrop: OP
@@ -1284,6 +1285,7 @@ ftbutilities.claims.block.edit.harvestcraft.pamsweetpotatocrop: OP
 ftbutilities.claims.block.edit.harvestcraft.pamtamarind: OP
 ftbutilities.claims.block.edit.harvestcraft.pamtarocrop: OP
 ftbutilities.claims.block.edit.harvestcraft.pamtealeafcrop: OP
+ftbutilities.claims.block.edit.harvestcraft.pamtomatillocrop: OP
 ftbutilities.claims.block.edit.harvestcraft.pamtomatocrop: OP
 ftbutilities.claims.block.edit.harvestcraft.pamturnipcrop: OP
 ftbutilities.claims.block.edit.harvestcraft.pamvanillabean: OP
@@ -1936,6 +1938,7 @@ ftbutilities.claims.block.edit.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.edit.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.edit.nuclearcraft.tritium_lamp: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_computer_port: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_controller: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_dynamo_coil: OP
@@ -2048,6 +2051,7 @@ ftbutilities.claims.block.edit.quark.birch_pressure_plate: OP
 ftbutilities.claims.block.edit.quark.birch_trapdoor: OP
 ftbutilities.claims.block.edit.quark.black_ash: OP
 ftbutilities.claims.block.edit.quark.blaze_lantern: OP
+ftbutilities.claims.block.edit.quark.blaze_rod: OP
 ftbutilities.claims.block.edit.quark.brick_wall: OP
 ftbutilities.claims.block.edit.quark.candle: OP
 ftbutilities.claims.block.edit.quark.carved_wood: OP
@@ -2056,6 +2060,14 @@ ftbutilities.claims.block.edit.quark.charred_nether_brick_slab_double: OP
 ftbutilities.claims.block.edit.quark.charred_nether_brick_stairs: OP
 ftbutilities.claims.block.edit.quark.charred_nether_bricks: OP
 ftbutilities.claims.block.edit.quark.chute: OP
+ftbutilities.claims.block.edit.quark.cobbed_stone_slab: OP
+ftbutilities.claims.block.edit.quark.cobbed_stone_slab_double: OP
+ftbutilities.claims.block.edit.quark.cobbed_stone_stairs: OP
+ftbutilities.claims.block.edit.quark.cobbed_stone_wall: OP
+ftbutilities.claims.block.edit.quark.cobblestone_mossy_slab: OP
+ftbutilities.claims.block.edit.quark.cobblestone_mossy_slab_double: OP
+ftbutilities.claims.block.edit.quark.cobblestone_mossy_stairs: OP
+ftbutilities.claims.block.edit.quark.color_slime: OP
 ftbutilities.claims.block.edit.quark.colored_flowerpot_black: OP
 ftbutilities.claims.block.edit.quark.colored_flowerpot_blue: OP
 ftbutilities.claims.block.edit.quark.colored_flowerpot_brown: OP
@@ -2073,6 +2085,7 @@ ftbutilities.claims.block.edit.quark.colored_flowerpot_silver: OP
 ftbutilities.claims.block.edit.quark.colored_flowerpot_white: OP
 ftbutilities.claims.block.edit.quark.colored_flowerpot_yellow: OP
 ftbutilities.claims.block.edit.quark.crystal: OP
+ftbutilities.claims.block.edit.quark.crystal_pane: OP
 ftbutilities.claims.block.edit.quark.custom_bookshelf: OP
 ftbutilities.claims.block.edit.quark.custom_chest: OP
 ftbutilities.claims.block.edit.quark.custom_chest_trap: OP
@@ -2119,6 +2132,8 @@ ftbutilities.claims.block.edit.quark.glowshroom: OP
 ftbutilities.claims.block.edit.quark.glowshroom_block: OP
 ftbutilities.claims.block.edit.quark.glowstone_dust_block: OP
 ftbutilities.claims.block.edit.quark.gold_button: OP
+ftbutilities.claims.block.edit.quark.grate: OP
+ftbutilities.claims.block.edit.quark.gravisand: OP
 ftbutilities.claims.block.edit.quark.gunpowder_block: OP
 ftbutilities.claims.block.edit.quark.hardened_clay_tiles: OP
 ftbutilities.claims.block.edit.quark.hardened_clay_tiles_slab: OP
@@ -2139,6 +2154,8 @@ ftbutilities.claims.block.edit.quark.iron_plate_slab: OP
 ftbutilities.claims.block.edit.quark.iron_plate_slab_double: OP
 ftbutilities.claims.block.edit.quark.iron_plate_stairs: OP
 ftbutilities.claims.block.edit.quark.iron_rod: OP
+ftbutilities.claims.block.edit.quark.jasper: OP
+ftbutilities.claims.block.edit.quark.jasper_wall: OP
 ftbutilities.claims.block.edit.quark.jungle_button: OP
 ftbutilities.claims.block.edit.quark.jungle_pressure_plate: OP
 ftbutilities.claims.block.edit.quark.jungle_trapdoor: OP
@@ -2160,6 +2177,7 @@ ftbutilities.claims.block.edit.quark.obsidian_pressure_plate: OP
 ftbutilities.claims.block.edit.quark.paper_lantern: OP
 ftbutilities.claims.block.edit.quark.paper_wall: OP
 ftbutilities.claims.block.edit.quark.paper_wall_big: OP
+ftbutilities.claims.block.edit.quark.paper_wall_sakura: OP
 ftbutilities.claims.block.edit.quark.polished_netherrack: OP
 ftbutilities.claims.block.edit.quark.polished_netherrack_bricks_slab: OP
 ftbutilities.claims.block.edit.quark.polished_netherrack_bricks_slab_double: OP
@@ -2190,6 +2208,7 @@ ftbutilities.claims.block.edit.quark.red_sandstone_bricks_stairs: OP
 ftbutilities.claims.block.edit.quark.red_sandstone_smooth_slab: OP
 ftbutilities.claims.block.edit.quark.red_sandstone_smooth_slab_double: OP
 ftbutilities.claims.block.edit.quark.red_sandstone_wall: OP
+ftbutilities.claims.block.edit.quark.redstone_inductor: OP
 ftbutilities.claims.block.edit.quark.redstone_randomizer: OP
 ftbutilities.claims.block.edit.quark.reed_block: OP
 ftbutilities.claims.block.edit.quark.reed_block_slab: OP
@@ -2200,6 +2219,7 @@ ftbutilities.claims.block.edit.quark.roots: OP
 ftbutilities.claims.block.edit.quark.roots_black_flower: OP
 ftbutilities.claims.block.edit.quark.roots_blue_flower: OP
 ftbutilities.claims.block.edit.quark.roots_white_flower: OP
+ftbutilities.claims.block.edit.quark.rope: OP
 ftbutilities.claims.block.edit.quark.sandstone_bricks_slab: OP
 ftbutilities.claims.block.edit.quark.sandstone_bricks_slab_double: OP
 ftbutilities.claims.block.edit.quark.sandstone_bricks_stairs: OP
@@ -2212,6 +2232,8 @@ ftbutilities.claims.block.edit.quark.sandy_bricks_slab: OP
 ftbutilities.claims.block.edit.quark.sandy_bricks_slab_double: OP
 ftbutilities.claims.block.edit.quark.sandy_bricks_stairs: OP
 ftbutilities.claims.block.edit.quark.sandy_bricks_wall: OP
+ftbutilities.claims.block.edit.quark.slate: OP
+ftbutilities.claims.block.edit.quark.slate_wall: OP
 ftbutilities.claims.block.edit.quark.smoker: OP
 ftbutilities.claims.block.edit.quark.snow_bricks: OP
 ftbutilities.claims.block.edit.quark.snow_bricks_slab: OP
@@ -2353,8 +2375,26 @@ ftbutilities.claims.block.edit.quark.stone_granite_slab: OP
 ftbutilities.claims.block.edit.quark.stone_granite_slab_double: OP
 ftbutilities.claims.block.edit.quark.stone_granite_stairs: OP
 ftbutilities.claims.block.edit.quark.stone_granite_wall: OP
+ftbutilities.claims.block.edit.quark.stone_jasper_bricks_slab: OP
+ftbutilities.claims.block.edit.quark.stone_jasper_bricks_slab_double: OP
+ftbutilities.claims.block.edit.quark.stone_jasper_bricks_stairs: OP
+ftbutilities.claims.block.edit.quark.stone_jasper_bricks_wall: OP
+ftbutilities.claims.block.edit.quark.stone_jasper_slab: OP
+ftbutilities.claims.block.edit.quark.stone_jasper_slab_double: OP
+ftbutilities.claims.block.edit.quark.stone_jasper_stairs: OP
+ftbutilities.claims.block.edit.quark.stone_slate_bricks_slab: OP
+ftbutilities.claims.block.edit.quark.stone_slate_bricks_slab_double: OP
+ftbutilities.claims.block.edit.quark.stone_slate_bricks_stairs: OP
+ftbutilities.claims.block.edit.quark.stone_slate_bricks_wall: OP
+ftbutilities.claims.block.edit.quark.stone_slate_slab: OP
+ftbutilities.claims.block.edit.quark.stone_slate_slab_double: OP
+ftbutilities.claims.block.edit.quark.stone_slate_stairs: OP
 ftbutilities.claims.block.edit.quark.stone_stairs: OP
 ftbutilities.claims.block.edit.quark.stone_wall: OP
+ftbutilities.claims.block.edit.quark.stonebrick_mossy_slab: OP
+ftbutilities.claims.block.edit.quark.stonebrick_mossy_slab_double: OP
+ftbutilities.claims.block.edit.quark.stonebrick_mossy_stairs: OP
+ftbutilities.claims.block.edit.quark.stonebrick_mossy_wall: OP
 ftbutilities.claims.block.edit.quark.stonebrick_wall: OP
 ftbutilities.claims.block.edit.quark.sturdy_stone: OP
 ftbutilities.claims.block.edit.quark.sugar_block: OP
@@ -2366,6 +2406,8 @@ ftbutilities.claims.block.edit.quark.turf: OP
 ftbutilities.claims.block.edit.quark.turf_slab: OP
 ftbutilities.claims.block.edit.quark.turf_slab_double: OP
 ftbutilities.claims.block.edit.quark.turf_stairs: OP
+ftbutilities.claims.block.edit.quark.variant_leaves: OP
+ftbutilities.claims.block.edit.quark.variant_sapling: OP
 ftbutilities.claims.block.edit.quark.vertical_planks: OP
 ftbutilities.claims.block.edit.quark.vertical_stained_planks: OP
 ftbutilities.claims.block.edit.quark.world_stone_bricks: OP
@@ -3821,6 +3863,7 @@ ftbutilities.claims.block.interact.harvestcraft.pamhazelnut: OP
 ftbutilities.claims.block.interact.harvestcraft.pamhuckleberrycrop: OP
 ftbutilities.claims.block.interact.harvestcraft.pamjackfruit: OP
 ftbutilities.claims.block.interact.harvestcraft.pamjicamacrop: OP
+ftbutilities.claims.block.interact.harvestcraft.pamjuniperberrycrop: OP
 ftbutilities.claims.block.interact.harvestcraft.pamjutecrop: OP
 ftbutilities.claims.block.interact.harvestcraft.pamkalecrop: OP
 ftbutilities.claims.block.interact.harvestcraft.pamkenafcrop: OP
@@ -3882,6 +3925,7 @@ ftbutilities.claims.block.interact.harvestcraft.pamsweetpotatocrop: OP
 ftbutilities.claims.block.interact.harvestcraft.pamtamarind: OP
 ftbutilities.claims.block.interact.harvestcraft.pamtarocrop: OP
 ftbutilities.claims.block.interact.harvestcraft.pamtealeafcrop: OP
+ftbutilities.claims.block.interact.harvestcraft.pamtomatillocrop: OP
 ftbutilities.claims.block.interact.harvestcraft.pamtomatocrop: OP
 ftbutilities.claims.block.interact.harvestcraft.pamturnipcrop: OP
 ftbutilities.claims.block.interact.harvestcraft.pamvanillabean: OP
@@ -4534,6 +4578,7 @@ ftbutilities.claims.block.interact.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.interact.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.interact.nuclearcraft.tritium_lamp: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_computer_port: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_controller: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_dynamo_coil: OP
@@ -4646,6 +4691,7 @@ ftbutilities.claims.block.interact.quark.birch_pressure_plate: OP
 ftbutilities.claims.block.interact.quark.birch_trapdoor: OP
 ftbutilities.claims.block.interact.quark.black_ash: OP
 ftbutilities.claims.block.interact.quark.blaze_lantern: OP
+ftbutilities.claims.block.interact.quark.blaze_rod: OP
 ftbutilities.claims.block.interact.quark.brick_wall: OP
 ftbutilities.claims.block.interact.quark.candle: OP
 ftbutilities.claims.block.interact.quark.carved_wood: OP
@@ -4654,6 +4700,14 @@ ftbutilities.claims.block.interact.quark.charred_nether_brick_slab_double: OP
 ftbutilities.claims.block.interact.quark.charred_nether_brick_stairs: OP
 ftbutilities.claims.block.interact.quark.charred_nether_bricks: OP
 ftbutilities.claims.block.interact.quark.chute: OP
+ftbutilities.claims.block.interact.quark.cobbed_stone_slab: OP
+ftbutilities.claims.block.interact.quark.cobbed_stone_slab_double: OP
+ftbutilities.claims.block.interact.quark.cobbed_stone_stairs: OP
+ftbutilities.claims.block.interact.quark.cobbed_stone_wall: OP
+ftbutilities.claims.block.interact.quark.cobblestone_mossy_slab: OP
+ftbutilities.claims.block.interact.quark.cobblestone_mossy_slab_double: OP
+ftbutilities.claims.block.interact.quark.cobblestone_mossy_stairs: OP
+ftbutilities.claims.block.interact.quark.color_slime: OP
 ftbutilities.claims.block.interact.quark.colored_flowerpot_black: OP
 ftbutilities.claims.block.interact.quark.colored_flowerpot_blue: OP
 ftbutilities.claims.block.interact.quark.colored_flowerpot_brown: OP
@@ -4671,6 +4725,7 @@ ftbutilities.claims.block.interact.quark.colored_flowerpot_silver: OP
 ftbutilities.claims.block.interact.quark.colored_flowerpot_white: OP
 ftbutilities.claims.block.interact.quark.colored_flowerpot_yellow: OP
 ftbutilities.claims.block.interact.quark.crystal: OP
+ftbutilities.claims.block.interact.quark.crystal_pane: OP
 ftbutilities.claims.block.interact.quark.custom_bookshelf: OP
 ftbutilities.claims.block.interact.quark.custom_chest: OP
 ftbutilities.claims.block.interact.quark.custom_chest_trap: OP
@@ -4717,6 +4772,8 @@ ftbutilities.claims.block.interact.quark.glowshroom: OP
 ftbutilities.claims.block.interact.quark.glowshroom_block: OP
 ftbutilities.claims.block.interact.quark.glowstone_dust_block: OP
 ftbutilities.claims.block.interact.quark.gold_button: OP
+ftbutilities.claims.block.interact.quark.grate: OP
+ftbutilities.claims.block.interact.quark.gravisand: OP
 ftbutilities.claims.block.interact.quark.gunpowder_block: OP
 ftbutilities.claims.block.interact.quark.hardened_clay_tiles: OP
 ftbutilities.claims.block.interact.quark.hardened_clay_tiles_slab: OP
@@ -4737,6 +4794,8 @@ ftbutilities.claims.block.interact.quark.iron_plate_slab: OP
 ftbutilities.claims.block.interact.quark.iron_plate_slab_double: OP
 ftbutilities.claims.block.interact.quark.iron_plate_stairs: OP
 ftbutilities.claims.block.interact.quark.iron_rod: OP
+ftbutilities.claims.block.interact.quark.jasper: OP
+ftbutilities.claims.block.interact.quark.jasper_wall: OP
 ftbutilities.claims.block.interact.quark.jungle_button: OP
 ftbutilities.claims.block.interact.quark.jungle_pressure_plate: OP
 ftbutilities.claims.block.interact.quark.jungle_trapdoor: OP
@@ -4758,6 +4817,7 @@ ftbutilities.claims.block.interact.quark.obsidian_pressure_plate: OP
 ftbutilities.claims.block.interact.quark.paper_lantern: OP
 ftbutilities.claims.block.interact.quark.paper_wall: OP
 ftbutilities.claims.block.interact.quark.paper_wall_big: OP
+ftbutilities.claims.block.interact.quark.paper_wall_sakura: OP
 ftbutilities.claims.block.interact.quark.polished_netherrack: OP
 ftbutilities.claims.block.interact.quark.polished_netherrack_bricks_slab: OP
 ftbutilities.claims.block.interact.quark.polished_netherrack_bricks_slab_double: OP
@@ -4788,6 +4848,7 @@ ftbutilities.claims.block.interact.quark.red_sandstone_bricks_stairs: OP
 ftbutilities.claims.block.interact.quark.red_sandstone_smooth_slab: OP
 ftbutilities.claims.block.interact.quark.red_sandstone_smooth_slab_double: OP
 ftbutilities.claims.block.interact.quark.red_sandstone_wall: OP
+ftbutilities.claims.block.interact.quark.redstone_inductor: OP
 ftbutilities.claims.block.interact.quark.redstone_randomizer: OP
 ftbutilities.claims.block.interact.quark.reed_block: OP
 ftbutilities.claims.block.interact.quark.reed_block_slab: OP
@@ -4798,6 +4859,7 @@ ftbutilities.claims.block.interact.quark.roots: OP
 ftbutilities.claims.block.interact.quark.roots_black_flower: OP
 ftbutilities.claims.block.interact.quark.roots_blue_flower: OP
 ftbutilities.claims.block.interact.quark.roots_white_flower: OP
+ftbutilities.claims.block.interact.quark.rope: OP
 ftbutilities.claims.block.interact.quark.sandstone_bricks_slab: OP
 ftbutilities.claims.block.interact.quark.sandstone_bricks_slab_double: OP
 ftbutilities.claims.block.interact.quark.sandstone_bricks_stairs: OP
@@ -4810,6 +4872,8 @@ ftbutilities.claims.block.interact.quark.sandy_bricks_slab: OP
 ftbutilities.claims.block.interact.quark.sandy_bricks_slab_double: OP
 ftbutilities.claims.block.interact.quark.sandy_bricks_stairs: OP
 ftbutilities.claims.block.interact.quark.sandy_bricks_wall: OP
+ftbutilities.claims.block.interact.quark.slate: OP
+ftbutilities.claims.block.interact.quark.slate_wall: OP
 ftbutilities.claims.block.interact.quark.smoker: OP
 ftbutilities.claims.block.interact.quark.snow_bricks: OP
 ftbutilities.claims.block.interact.quark.snow_bricks_slab: OP
@@ -4951,8 +5015,26 @@ ftbutilities.claims.block.interact.quark.stone_granite_slab: OP
 ftbutilities.claims.block.interact.quark.stone_granite_slab_double: OP
 ftbutilities.claims.block.interact.quark.stone_granite_stairs: OP
 ftbutilities.claims.block.interact.quark.stone_granite_wall: OP
+ftbutilities.claims.block.interact.quark.stone_jasper_bricks_slab: OP
+ftbutilities.claims.block.interact.quark.stone_jasper_bricks_slab_double: OP
+ftbutilities.claims.block.interact.quark.stone_jasper_bricks_stairs: OP
+ftbutilities.claims.block.interact.quark.stone_jasper_bricks_wall: OP
+ftbutilities.claims.block.interact.quark.stone_jasper_slab: OP
+ftbutilities.claims.block.interact.quark.stone_jasper_slab_double: OP
+ftbutilities.claims.block.interact.quark.stone_jasper_stairs: OP
+ftbutilities.claims.block.interact.quark.stone_slate_bricks_slab: OP
+ftbutilities.claims.block.interact.quark.stone_slate_bricks_slab_double: OP
+ftbutilities.claims.block.interact.quark.stone_slate_bricks_stairs: OP
+ftbutilities.claims.block.interact.quark.stone_slate_bricks_wall: OP
+ftbutilities.claims.block.interact.quark.stone_slate_slab: OP
+ftbutilities.claims.block.interact.quark.stone_slate_slab_double: OP
+ftbutilities.claims.block.interact.quark.stone_slate_stairs: OP
 ftbutilities.claims.block.interact.quark.stone_stairs: OP
 ftbutilities.claims.block.interact.quark.stone_wall: OP
+ftbutilities.claims.block.interact.quark.stonebrick_mossy_slab: OP
+ftbutilities.claims.block.interact.quark.stonebrick_mossy_slab_double: OP
+ftbutilities.claims.block.interact.quark.stonebrick_mossy_stairs: OP
+ftbutilities.claims.block.interact.quark.stonebrick_mossy_wall: OP
 ftbutilities.claims.block.interact.quark.stonebrick_wall: OP
 ftbutilities.claims.block.interact.quark.sturdy_stone: OP
 ftbutilities.claims.block.interact.quark.sugar_block: OP
@@ -4964,6 +5046,8 @@ ftbutilities.claims.block.interact.quark.turf: OP
 ftbutilities.claims.block.interact.quark.turf_slab: OP
 ftbutilities.claims.block.interact.quark.turf_slab_double: OP
 ftbutilities.claims.block.interact.quark.turf_stairs: OP
+ftbutilities.claims.block.interact.quark.variant_leaves: OP
+ftbutilities.claims.block.interact.quark.variant_sapling: OP
 ftbutilities.claims.block.interact.quark.vertical_planks: OP
 ftbutilities.claims.block.interact.quark.vertical_stained_planks: OP
 ftbutilities.claims.block.interact.quark.world_stone_bricks: OP
@@ -7487,6 +7571,8 @@ ftbutilities.claims.item.harvestcraft.jellyfishrawitem: ALL
 ftbutilities.claims.item.harvestcraft.jicamaitem: ALL
 ftbutilities.claims.item.harvestcraft.jicamaseeditem: ALL
 ftbutilities.claims.item.harvestcraft.juiceritem: ALL
+ftbutilities.claims.item.harvestcraft.juniperberryitem: ALL
+ftbutilities.claims.item.harvestcraft.juniperberryseeditem: ALL
 ftbutilities.claims.item.harvestcraft.juteitem: ALL
 ftbutilities.claims.item.harvestcraft.juteseeditem: ALL
 ftbutilities.claims.item.harvestcraft.kalechipsitem: ALL
@@ -8086,6 +8172,8 @@ ftbutilities.claims.item.harvestcraft.toastedsesameseedsitem: ALL
 ftbutilities.claims.item.harvestcraft.toastedwesternitem: ALL
 ftbutilities.claims.item.harvestcraft.toastitem: ALL
 ftbutilities.claims.item.harvestcraft.toastsandwichitem: ALL
+ftbutilities.claims.item.harvestcraft.tomatilloitem: ALL
+ftbutilities.claims.item.harvestcraft.tomatilloseeditem: ALL
 ftbutilities.claims.item.harvestcraft.tomatoherbchickenitem: ALL
 ftbutilities.claims.item.harvestcraft.tomatoitem: ALL
 ftbutilities.claims.item.harvestcraft.tomatoseeditem: ALL
@@ -9264,6 +9352,7 @@ ftbutilities.claims.item.nuclearcraft.sword_hard_carbon: ALL
 ftbutilities.claims.item.nuclearcraft.sword_tough: ALL
 ftbutilities.claims.item.nuclearcraft.thorium: ALL
 ftbutilities.claims.item.nuclearcraft.tiny_dust_lead: ALL
+ftbutilities.claims.item.nuclearcraft.tritium_lamp: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_computer_port: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_controller: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_dynamo_coil: ALL
@@ -9422,10 +9511,17 @@ ftbutilities.claims.item.quark.blaze_lantern: ALL
 ftbutilities.claims.item.quark.brick_wall: ALL
 ftbutilities.claims.item.quark.candle: ALL
 ftbutilities.claims.item.quark.carved_wood: ALL
+ftbutilities.claims.item.quark.chain: ALL
 ftbutilities.claims.item.quark.charred_nether_brick_slab: ALL
 ftbutilities.claims.item.quark.charred_nether_brick_stairs: ALL
 ftbutilities.claims.item.quark.charred_nether_bricks: ALL
 ftbutilities.claims.item.quark.chute: ALL
+ftbutilities.claims.item.quark.cobbed_stone_slab: ALL
+ftbutilities.claims.item.quark.cobbed_stone_stairs: ALL
+ftbutilities.claims.item.quark.cobbed_stone_wall: ALL
+ftbutilities.claims.item.quark.cobblestone_mossy_slab: ALL
+ftbutilities.claims.item.quark.cobblestone_mossy_stairs: ALL
+ftbutilities.claims.item.quark.color_slime: ALL
 ftbutilities.claims.item.quark.colored_flowerpot_black: ALL
 ftbutilities.claims.item.quark.colored_flowerpot_blue: ALL
 ftbutilities.claims.item.quark.colored_flowerpot_brown: ALL
@@ -9443,8 +9539,12 @@ ftbutilities.claims.item.quark.colored_flowerpot_silver: ALL
 ftbutilities.claims.item.quark.colored_flowerpot_white: ALL
 ftbutilities.claims.item.quark.colored_flowerpot_yellow: ALL
 ftbutilities.claims.item.quark.colored_item_frame: ALL
+ftbutilities.claims.item.quark.cooked_crab_leg: ALL
 ftbutilities.claims.item.quark.cooked_frog_leg: ALL
+ftbutilities.claims.item.quark.crab_leg: ALL
+ftbutilities.claims.item.quark.crab_shell: ALL
 ftbutilities.claims.item.quark.crystal: ALL
+ftbutilities.claims.item.quark.crystal_pane: ALL
 ftbutilities.claims.item.quark.custom_bookshelf: ALL
 ftbutilities.claims.item.quark.custom_chest: ALL
 ftbutilities.claims.item.quark.custom_chest_trap: ALL
@@ -9487,10 +9587,10 @@ ftbutilities.claims.item.quark.glass_shards: ALL
 ftbutilities.claims.item.quark.glowcelium: ALL
 ftbutilities.claims.item.quark.glowshroom: ALL
 ftbutilities.claims.item.quark.glowshroom_block: ALL
-ftbutilities.claims.item.quark.glowstone_dust_block: ALL
 ftbutilities.claims.item.quark.gold_button: ALL
 ftbutilities.claims.item.quark.golden_frog_leg: ALL
-ftbutilities.claims.item.quark.gunpowder_block: ALL
+ftbutilities.claims.item.quark.grate: ALL
+ftbutilities.claims.item.quark.gravisand: ALL
 ftbutilities.claims.item.quark.hardened_clay_tiles: ALL
 ftbutilities.claims.item.quark.hardened_clay_tiles_slab: ALL
 ftbutilities.claims.item.quark.hardened_clay_tiles_stairs: ALL
@@ -9507,6 +9607,8 @@ ftbutilities.claims.item.quark.iron_plate: ALL
 ftbutilities.claims.item.quark.iron_plate_slab: ALL
 ftbutilities.claims.item.quark.iron_plate_stairs: ALL
 ftbutilities.claims.item.quark.iron_rod: ALL
+ftbutilities.claims.item.quark.jasper: ALL
+ftbutilities.claims.item.quark.jasper_wall: ALL
 ftbutilities.claims.item.quark.jungle_button: ALL
 ftbutilities.claims.item.quark.jungle_pressure_plate: ALL
 ftbutilities.claims.item.quark.jungle_trapdoor: ALL
@@ -9526,6 +9628,7 @@ ftbutilities.claims.item.quark.obsidian_pressure_plate: ALL
 ftbutilities.claims.item.quark.paper_lantern: ALL
 ftbutilities.claims.item.quark.paper_wall: ALL
 ftbutilities.claims.item.quark.paper_wall_big: ALL
+ftbutilities.claims.item.quark.paper_wall_sakura: ALL
 ftbutilities.claims.item.quark.parrot_egg: ALL
 ftbutilities.claims.item.quark.pickarang: ALL
 ftbutilities.claims.item.quark.pirate_hat: ALL
@@ -9552,6 +9655,7 @@ ftbutilities.claims.item.quark.red_sandstone_bricks_slab: ALL
 ftbutilities.claims.item.quark.red_sandstone_bricks_stairs: ALL
 ftbutilities.claims.item.quark.red_sandstone_smooth_slab: ALL
 ftbutilities.claims.item.quark.red_sandstone_wall: ALL
+ftbutilities.claims.item.quark.redstone_inductor: ALL
 ftbutilities.claims.item.quark.redstone_randomizer: ALL
 ftbutilities.claims.item.quark.reed_block: ALL
 ftbutilities.claims.item.quark.reed_block_slab: ALL
@@ -9564,6 +9668,7 @@ ftbutilities.claims.item.quark.roots: ALL
 ftbutilities.claims.item.quark.roots_black_flower: ALL
 ftbutilities.claims.item.quark.roots_blue_flower: ALL
 ftbutilities.claims.item.quark.roots_white_flower: ALL
+ftbutilities.claims.item.quark.rope: ALL
 ftbutilities.claims.item.quark.rune: ALL
 ftbutilities.claims.item.quark.sandstone_bricks_slab: ALL
 ftbutilities.claims.item.quark.sandstone_bricks_stairs: ALL
@@ -9574,6 +9679,8 @@ ftbutilities.claims.item.quark.sandy_bricks: ALL
 ftbutilities.claims.item.quark.sandy_bricks_slab: ALL
 ftbutilities.claims.item.quark.sandy_bricks_stairs: ALL
 ftbutilities.claims.item.quark.sandy_bricks_wall: ALL
+ftbutilities.claims.item.quark.slate: ALL
+ftbutilities.claims.item.quark.slate_wall: ALL
 ftbutilities.claims.item.quark.slime_bucket: ALL
 ftbutilities.claims.item.quark.smoker: ALL
 ftbutilities.claims.item.quark.snow_bricks: ALL
@@ -9676,8 +9783,21 @@ ftbutilities.claims.item.quark.stone_granite_bricks_wall: ALL
 ftbutilities.claims.item.quark.stone_granite_slab: ALL
 ftbutilities.claims.item.quark.stone_granite_stairs: ALL
 ftbutilities.claims.item.quark.stone_granite_wall: ALL
+ftbutilities.claims.item.quark.stone_jasper_bricks_slab: ALL
+ftbutilities.claims.item.quark.stone_jasper_bricks_stairs: ALL
+ftbutilities.claims.item.quark.stone_jasper_bricks_wall: ALL
+ftbutilities.claims.item.quark.stone_jasper_slab: ALL
+ftbutilities.claims.item.quark.stone_jasper_stairs: ALL
+ftbutilities.claims.item.quark.stone_slate_bricks_slab: ALL
+ftbutilities.claims.item.quark.stone_slate_bricks_stairs: ALL
+ftbutilities.claims.item.quark.stone_slate_bricks_wall: ALL
+ftbutilities.claims.item.quark.stone_slate_slab: ALL
+ftbutilities.claims.item.quark.stone_slate_stairs: ALL
 ftbutilities.claims.item.quark.stone_stairs: ALL
 ftbutilities.claims.item.quark.stone_wall: ALL
+ftbutilities.claims.item.quark.stonebrick_mossy_slab: ALL
+ftbutilities.claims.item.quark.stonebrick_mossy_stairs: ALL
+ftbutilities.claims.item.quark.stonebrick_mossy_wall: ALL
 ftbutilities.claims.item.quark.stonebrick_wall: ALL
 ftbutilities.claims.item.quark.sturdy_stone: ALL
 ftbutilities.claims.item.quark.sugar_block: ALL
@@ -9689,6 +9809,8 @@ ftbutilities.claims.item.quark.trowel: ALL
 ftbutilities.claims.item.quark.turf: ALL
 ftbutilities.claims.item.quark.turf_slab: ALL
 ftbutilities.claims.item.quark.turf_stairs: ALL
+ftbutilities.claims.item.quark.variant_leaves: ALL
+ftbutilities.claims.item.quark.variant_sapling: ALL
 ftbutilities.claims.item.quark.vertical_planks: ALL
 ftbutilities.claims.item.quark.vertical_stained_planks: ALL
 ftbutilities.claims.item.quark.witch_hat: ALL
@@ -10478,17 +10600,23 @@ command.ftblib.reload
 command.ftblib.team.create
 command.ftblib.team.create_server_team
 command.ftblib.team.delete
+command.ftblib.team.get
 command.ftblib.team.help
+command.ftblib.team.info
 command.ftblib.team.join
 command.ftblib.team.kick
 command.ftblib.team.leave
+command.ftblib.team.list
 command.ftblib.team.request_invite
 command.ftblib.team.settings
+command.ftblib.team.settings_for
 command.ftblib.team.status
 command.ftblib.team.transfer_ownership
 command.ftbutilities.back
 command.ftbutilities.chunks.claim
+command.ftbutilities.chunks.claim_as
 command.ftbutilities.chunks.help
+command.ftbutilities.chunks.info
 command.ftbutilities.chunks.load
 command.ftbutilities.chunks.unclaim
 command.ftbutilities.chunks.unclaim_all
@@ -10515,6 +10643,7 @@ command.ftbutilities.nbtedit.item
 command.ftbutilities.nbtedit.player
 command.ftbutilities.nbtedit.tile
 command.ftbutilities.nick
+command.ftbutilities.nickfor
 command.ftbutilities.ranks.add
 command.ftbutilities.ranks.delete
 command.ftbutilities.ranks.get
@@ -10564,7 +10693,7 @@ command.oreexcavation.undo_excavation
 command.particle
 command.playsound
 command.publish
-command.quark.quarkconfig
+command.quark.quark-config
 command.recipe
 command.replaceitem
 command.rftools.rftcfg
@@ -10599,6 +10728,8 @@ command.tombmanygraves.tmg_restore
 command.tombmanygraves.tmg_steal
 command.tombmanygraves.tmg_toggle_grave_pos
 command.tombmanygraves.tmg_toggle_render
+command.torchmaster.torchmaster_entity_dump
+command.torchmaster.torchmaster_torch_list
 command.tp
 command.trigger
 command.valkyrielib.removeowner
