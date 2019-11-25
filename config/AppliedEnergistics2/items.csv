@@ -2849,38 +2849,72 @@ chisel:brownstone:6, Brownstone
 chisel:brownstone:7, Brownstone
 chisel:brownstone:8, Brownstone
 chisel:brownstone:9, Brownstone
-chisel:carpet_black:0, Black Wool
-chisel:carpet_black:1, Black Wool
-chisel:carpet_red:0, Red Wool
-chisel:carpet_red:1, Red Wool
-chisel:carpet_green:0, Green Wool
-chisel:carpet_green:1, Green Wool
-chisel:carpet_brown:0, Brown Wool
-chisel:carpet_brown:1, Brown Wool
-chisel:carpet_blue:0, Blue Wool
-chisel:carpet_blue:1, Blue Wool
-chisel:carpet_purple:0, Purple Wool
-chisel:carpet_purple:1, Purple Wool
-chisel:carpet_cyan:0, Cyan Wool
-chisel:carpet_cyan:1, Cyan Wool
-chisel:carpet_lightgray:0, Light Gray Wool
-chisel:carpet_lightgray:1, Light Gray Wool
-chisel:carpet_gray:0, Gray Wool
-chisel:carpet_gray:1, Gray Wool
-chisel:carpet_pink:0, Pink Wool
-chisel:carpet_pink:1, Pink Wool
-chisel:carpet_lime:0, Lime Wool
-chisel:carpet_lime:1, Lime Wool
-chisel:carpet_yellow:0, Yellow Wool
-chisel:carpet_yellow:1, Yellow Wool
-chisel:carpet_lightblue:0, Light Blue Wool
-chisel:carpet_lightblue:1, Light Blue Wool
-chisel:carpet_magenta:0, Magenta Wool
-chisel:carpet_magenta:1, Magenta Wool
-chisel:carpet_orange:0, Orange Wool
-chisel:carpet_orange:1, Orange Wool
-chisel:carpet_white:0, Wool
-chisel:carpet_white:1, Wool
+chisel:certus:0, Block of Certus Quartz
+chisel:certus:1, Block of Certus Quartz
+chisel:certus:2, Block of Certus Quartz
+chisel:certus:3, Block of Certus Quartz
+chisel:certus:4, Block of Certus Quartz
+chisel:certus:5, Block of Certus Quartz
+chisel:certus:6, Block of Certus Quartz
+chisel:certus:7, Block of Certus Quartz
+chisel:certus:8, Block of Certus Quartz
+chisel:certus:9, Block of Certus Quartz
+chisel:certus:10, Block of Certus Quartz
+chisel:certus:11, Block of Certus Quartz
+chisel:certus:12, Block of Certus Quartz
+chisel:certus:13, Block of Certus Quartz
+chisel:certus:14, Block of Certus Quartz
+chisel:certus:15, Block of Certus Quartz
+chisel:certus1:0, Block of Certus Quartz
+chisel:certus1:1, Block of Certus Quartz
+chisel:certus1:2, Block of Certus Quartz
+chisel:certus1:3, Block of Certus Quartz
+chisel:certus1:4, Block of Certus Quartz
+chisel:certus1:5, Block of Certus Quartz
+chisel:certus1:6, Block of Certus Quartz
+chisel:certus1:7, Block of Certus Quartz
+chisel:certus1:8, Block of Certus Quartz
+chisel:certus1:9, Block of Certus Quartz
+chisel:certus1:10, Block of Certus Quartz
+chisel:certus1:11, Block of Certus Quartz
+chisel:certus1:12, Block of Certus Quartz
+chisel:certus1:13, Block of Certus Quartz
+chisel:certus1:14, Block of Certus Quartz
+chisel:certus1:15, Block of Certus Quartz
+chisel:certus2:0, Block of Certus Quartz
+chisel:certus2:1, Block of Certus Quartz
+chisel:carpet_black:0, Black Carpet
+chisel:carpet_black:1, Black Carpet
+chisel:carpet_red:0, Red Carpet
+chisel:carpet_red:1, Red Carpet
+chisel:carpet_green:0, Green Carpet
+chisel:carpet_green:1, Green Carpet
+chisel:carpet_brown:0, Brown Carpet
+chisel:carpet_brown:1, Brown Carpet
+chisel:carpet_blue:0, Blue Carpet
+chisel:carpet_blue:1, Blue Carpet
+chisel:carpet_purple:0, Purple Carpet
+chisel:carpet_purple:1, Purple Carpet
+chisel:carpet_cyan:0, Cyan Carpet
+chisel:carpet_cyan:1, Cyan Carpet
+chisel:carpet_lightgray:0, Light Gray Carpet
+chisel:carpet_lightgray:1, Light Gray Carpet
+chisel:carpet_gray:0, Gray Carpet
+chisel:carpet_gray:1, Gray Carpet
+chisel:carpet_pink:0, Pink Carpet
+chisel:carpet_pink:1, Pink Carpet
+chisel:carpet_lime:0, Lime Carpet
+chisel:carpet_lime:1, Lime Carpet
+chisel:carpet_yellow:0, Yellow Carpet
+chisel:carpet_yellow:1, Yellow Carpet
+chisel:carpet_lightblue:0, Light Blue Carpet
+chisel:carpet_lightblue:1, Light Blue Carpet
+chisel:carpet_magenta:0, Magenta Carpet
+chisel:carpet_magenta:1, Magenta Carpet
+chisel:carpet_orange:0, Orange Carpet
+chisel:carpet_orange:1, Orange Carpet
+chisel:carpet_white:0, White Carpet
+chisel:carpet_white:1, White Carpet
 chisel:block_charcoal:0, Block of Charcoal
 chisel:block_charcoal:1, Block of Charcoal
 chisel:block_charcoal:2, Block of Charcoal
@@ -3031,39 +3065,39 @@ chisel:block_coal_coke1:14, Block of Coal Coke
 chisel:block_coal_coke1:15, Block of Coal Coke
 chisel:block_coal_coke2:0, Block of Coal Coke
 chisel:block_coal_coke2:1, Block of Coal Coke
-chisel:cobblestonemossy:0, Mossy Cobblestone
-chisel:cobblestonemossy:1, Mossy Cobblestone
-chisel:cobblestonemossy:2, Mossy Cobblestone
-chisel:cobblestonemossy:3, Mossy Cobblestone
-chisel:cobblestonemossy:4, Mossy Cobblestone
-chisel:cobblestonemossy:5, Mossy Cobblestone
-chisel:cobblestonemossy:6, Mossy Cobblestone
-chisel:cobblestonemossy:7, Mossy Cobblestone
-chisel:cobblestonemossy:8, Mossy Cobblestone
-chisel:cobblestonemossy:9, Mossy Cobblestone
-chisel:cobblestonemossy:10, Mossy Cobblestone
-chisel:cobblestonemossy:11, Mossy Cobblestone
-chisel:cobblestonemossy:12, Mossy Cobblestone
-chisel:cobblestonemossy:13, Mossy Cobblestone
-chisel:cobblestonemossy:14, Mossy Cobblestone
-chisel:cobblestonemossy:15, Mossy Cobblestone
-chisel:cobblestonemossy1:0, Mossy Cobblestone
-chisel:cobblestonemossy1:1, Mossy Cobblestone
-chisel:cobblestonemossy1:2, Mossy Cobblestone
-chisel:cobblestonemossy1:3, Mossy Cobblestone
-chisel:cobblestonemossy1:4, Mossy Cobblestone
-chisel:cobblestonemossy1:5, Mossy Cobblestone
-chisel:cobblestonemossy1:6, Mossy Cobblestone
-chisel:cobblestonemossy1:7, Mossy Cobblestone
-chisel:cobblestonemossy1:8, Mossy Cobblestone
-chisel:cobblestonemossy1:9, Mossy Cobblestone
-chisel:cobblestonemossy1:10, Mossy Cobblestone
-chisel:cobblestonemossy1:11, Mossy Cobblestone
-chisel:cobblestonemossy1:12, Mossy Cobblestone
-chisel:cobblestonemossy1:13, Mossy Cobblestone
-chisel:cobblestonemossy1:14, Mossy Cobblestone
-chisel:cobblestonemossy1:15, Mossy Cobblestone
-chisel:cobblestonemossy2:0, Mossy Cobblestone
+chisel:cobblestonemossy:0, Moss Stone
+chisel:cobblestonemossy:1, Moss Stone
+chisel:cobblestonemossy:2, Moss Stone
+chisel:cobblestonemossy:3, Moss Stone
+chisel:cobblestonemossy:4, Moss Stone
+chisel:cobblestonemossy:5, Moss Stone
+chisel:cobblestonemossy:6, Moss Stone
+chisel:cobblestonemossy:7, Moss Stone
+chisel:cobblestonemossy:8, Moss Stone
+chisel:cobblestonemossy:9, Moss Stone
+chisel:cobblestonemossy:10, Moss Stone
+chisel:cobblestonemossy:11, Moss Stone
+chisel:cobblestonemossy:12, Moss Stone
+chisel:cobblestonemossy:13, Moss Stone
+chisel:cobblestonemossy:14, Moss Stone
+chisel:cobblestonemossy:15, Moss Stone
+chisel:cobblestonemossy1:0, Moss Stone
+chisel:cobblestonemossy1:1, Moss Stone
+chisel:cobblestonemossy1:2, Moss Stone
+chisel:cobblestonemossy1:3, Moss Stone
+chisel:cobblestonemossy1:4, Moss Stone
+chisel:cobblestonemossy1:5, Moss Stone
+chisel:cobblestonemossy1:6, Moss Stone
+chisel:cobblestonemossy1:7, Moss Stone
+chisel:cobblestonemossy1:8, Moss Stone
+chisel:cobblestonemossy1:9, Moss Stone
+chisel:cobblestonemossy1:10, Moss Stone
+chisel:cobblestonemossy1:11, Moss Stone
+chisel:cobblestonemossy1:12, Moss Stone
+chisel:cobblestonemossy1:13, Moss Stone
+chisel:cobblestonemossy1:14, Moss Stone
+chisel:cobblestonemossy1:15, Moss Stone
+chisel:cobblestonemossy2:0, Moss Stone
 chisel:concrete_black:0, Black Concrete
 chisel:concrete_black:1, Black Concrete
 chisel:concrete_black:2, Black Concrete
@@ -3788,102 +3822,218 @@ chisel:glass:12, Glass
 chisel:glass:13, Glass
 chisel:glass:14, Glass
 chisel:glass:15, Glass
+chisel:glass1:0, Glass
+chisel:glass1:1, Glass
+chisel:glasspane:0, Glass Pane
+chisel:glasspane:1, Glass Pane
+chisel:glasspane:2, Glass Pane
+chisel:glasspane:3, Glass Pane
+chisel:glasspane:4, Glass Pane
+chisel:glasspane:5, Glass Pane
+chisel:glasspane:6, Glass Pane
+chisel:glasspane:7, Glass Pane
+chisel:glasspane:8, Glass Pane
+chisel:glasspane:9, Glass Pane
+chisel:glasspane:10, Glass Pane
+chisel:glasspane:11, Glass Pane
+chisel:glasspane:12, Glass Pane
+chisel:glasspane:13, Glass Pane
+chisel:glasspane:14, Glass Pane
+chisel:glasspane:15, Glass Pane
+chisel:glasspane1:0, Glass Pane
+chisel:glasspane1:1, Glass Pane
 chisel:glassdyedblack:0, Black Stained Glass
 chisel:glassdyedblack:1, Black Stained Glass
 chisel:glassdyedblack:2, Black Stained Glass
 chisel:glassdyedblack:3, Black Stained Glass
 chisel:glassdyedblack:4, Black Stained Glass
 chisel:glassdyedblack:5, Black Stained Glass
+chisel:glasspanedyedblack:0, Black Stained Glass Pane
+chisel:glasspanedyedblack:1, Black Stained Glass Pane
+chisel:glasspanedyedblack:2, Black Stained Glass Pane
+chisel:glasspanedyedblack:3, Black Stained Glass Pane
+chisel:glasspanedyedblack:4, Black Stained Glass Pane
+chisel:glasspanedyedblack:5, Black Stained Glass Pane
 chisel:glassdyedred:0, Red Stained Glass
 chisel:glassdyedred:1, Red Stained Glass
 chisel:glassdyedred:2, Red Stained Glass
 chisel:glassdyedred:3, Red Stained Glass
 chisel:glassdyedred:4, Red Stained Glass
 chisel:glassdyedred:5, Red Stained Glass
+chisel:glasspanedyedred:0, Red Stained Glass Pane
+chisel:glasspanedyedred:1, Red Stained Glass Pane
+chisel:glasspanedyedred:2, Red Stained Glass Pane
+chisel:glasspanedyedred:3, Red Stained Glass Pane
+chisel:glasspanedyedred:4, Red Stained Glass Pane
+chisel:glasspanedyedred:5, Red Stained Glass Pane
 chisel:glassdyedgreen:0, Green Stained Glass
 chisel:glassdyedgreen:1, Green Stained Glass
 chisel:glassdyedgreen:2, Green Stained Glass
 chisel:glassdyedgreen:3, Green Stained Glass
 chisel:glassdyedgreen:4, Green Stained Glass
 chisel:glassdyedgreen:5, Green Stained Glass
+chisel:glasspanedyedgreen:0, Green Stained Glass Pane
+chisel:glasspanedyedgreen:1, Green Stained Glass Pane
+chisel:glasspanedyedgreen:2, Green Stained Glass Pane
+chisel:glasspanedyedgreen:3, Green Stained Glass Pane
+chisel:glasspanedyedgreen:4, Green Stained Glass Pane
+chisel:glasspanedyedgreen:5, Green Stained Glass Pane
 chisel:glassdyedbrown:0, Brown Stained Glass
 chisel:glassdyedbrown:1, Brown Stained Glass
 chisel:glassdyedbrown:2, Brown Stained Glass
 chisel:glassdyedbrown:3, Brown Stained Glass
 chisel:glassdyedbrown:4, Brown Stained Glass
 chisel:glassdyedbrown:5, Brown Stained Glass
+chisel:glasspanedyedbrown:0, Brown Stained Glass Pane
+chisel:glasspanedyedbrown:1, Brown Stained Glass Pane
+chisel:glasspanedyedbrown:2, Brown Stained Glass Pane
+chisel:glasspanedyedbrown:3, Brown Stained Glass Pane
+chisel:glasspanedyedbrown:4, Brown Stained Glass Pane
+chisel:glasspanedyedbrown:5, Brown Stained Glass Pane
 chisel:glassdyedblue:0, Blue Stained Glass
 chisel:glassdyedblue:1, Blue Stained Glass
 chisel:glassdyedblue:2, Blue Stained Glass
 chisel:glassdyedblue:3, Blue Stained Glass
 chisel:glassdyedblue:4, Blue Stained Glass
 chisel:glassdyedblue:5, Blue Stained Glass
+chisel:glasspanedyedblue:0, Blue Stained Glass Pane
+chisel:glasspanedyedblue:1, Blue Stained Glass Pane
+chisel:glasspanedyedblue:2, Blue Stained Glass Pane
+chisel:glasspanedyedblue:3, Blue Stained Glass Pane
+chisel:glasspanedyedblue:4, Blue Stained Glass Pane
+chisel:glasspanedyedblue:5, Blue Stained Glass Pane
 chisel:glassdyedpurple:0, Purple Stained Glass
 chisel:glassdyedpurple:1, Purple Stained Glass
 chisel:glassdyedpurple:2, Purple Stained Glass
 chisel:glassdyedpurple:3, Purple Stained Glass
 chisel:glassdyedpurple:4, Purple Stained Glass
 chisel:glassdyedpurple:5, Purple Stained Glass
+chisel:glasspanedyedpurple:0, Purple Stained Glass Pane
+chisel:glasspanedyedpurple:1, Purple Stained Glass Pane
+chisel:glasspanedyedpurple:2, Purple Stained Glass Pane
+chisel:glasspanedyedpurple:3, Purple Stained Glass Pane
+chisel:glasspanedyedpurple:4, Purple Stained Glass Pane
+chisel:glasspanedyedpurple:5, Purple Stained Glass Pane
 chisel:glassdyedcyan:0, Cyan Stained Glass
 chisel:glassdyedcyan:1, Cyan Stained Glass
 chisel:glassdyedcyan:2, Cyan Stained Glass
 chisel:glassdyedcyan:3, Cyan Stained Glass
 chisel:glassdyedcyan:4, Cyan Stained Glass
 chisel:glassdyedcyan:5, Cyan Stained Glass
+chisel:glasspanedyedcyan:0, Cyan Stained Glass Pane
+chisel:glasspanedyedcyan:1, Cyan Stained Glass Pane
+chisel:glasspanedyedcyan:2, Cyan Stained Glass Pane
+chisel:glasspanedyedcyan:3, Cyan Stained Glass Pane
+chisel:glasspanedyedcyan:4, Cyan Stained Glass Pane
+chisel:glasspanedyedcyan:5, Cyan Stained Glass Pane
 chisel:glassdyedlightgray:0, Light Gray Stained Glass
 chisel:glassdyedlightgray:1, Light Gray Stained Glass
 chisel:glassdyedlightgray:2, Light Gray Stained Glass
 chisel:glassdyedlightgray:3, Light Gray Stained Glass
 chisel:glassdyedlightgray:4, Light Gray Stained Glass
 chisel:glassdyedlightgray:5, Light Gray Stained Glass
+chisel:glasspanedyedlightgray:0, Light Gray Stained Glass Pane
+chisel:glasspanedyedlightgray:1, Light Gray Stained Glass Pane
+chisel:glasspanedyedlightgray:2, Light Gray Stained Glass Pane
+chisel:glasspanedyedlightgray:3, Light Gray Stained Glass Pane
+chisel:glasspanedyedlightgray:4, Light Gray Stained Glass Pane
+chisel:glasspanedyedlightgray:5, Light Gray Stained Glass Pane
 chisel:glassdyedgray:0, Gray Stained Glass
 chisel:glassdyedgray:1, Gray Stained Glass
 chisel:glassdyedgray:2, Gray Stained Glass
 chisel:glassdyedgray:3, Gray Stained Glass
 chisel:glassdyedgray:4, Gray Stained Glass
 chisel:glassdyedgray:5, Gray Stained Glass
+chisel:glasspanedyedgray:0, Gray Stained Glass Pane
+chisel:glasspanedyedgray:1, Gray Stained Glass Pane
+chisel:glasspanedyedgray:2, Gray Stained Glass Pane
+chisel:glasspanedyedgray:3, Gray Stained Glass Pane
+chisel:glasspanedyedgray:4, Gray Stained Glass Pane
+chisel:glasspanedyedgray:5, Gray Stained Glass Pane
 chisel:glassdyedpink:0, Pink Stained Glass
 chisel:glassdyedpink:1, Pink Stained Glass
 chisel:glassdyedpink:2, Pink Stained Glass
 chisel:glassdyedpink:3, Pink Stained Glass
 chisel:glassdyedpink:4, Pink Stained Glass
 chisel:glassdyedpink:5, Pink Stained Glass
+chisel:glasspanedyedpink:0, Pink Stained Glass Pane
+chisel:glasspanedyedpink:1, Pink Stained Glass Pane
+chisel:glasspanedyedpink:2, Pink Stained Glass Pane
+chisel:glasspanedyedpink:3, Pink Stained Glass Pane
+chisel:glasspanedyedpink:4, Pink Stained Glass Pane
+chisel:glasspanedyedpink:5, Pink Stained Glass Pane
 chisel:glassdyedlime:0, Lime Stained Glass
 chisel:glassdyedlime:1, Lime Stained Glass
 chisel:glassdyedlime:2, Lime Stained Glass
 chisel:glassdyedlime:3, Lime Stained Glass
 chisel:glassdyedlime:4, Lime Stained Glass
 chisel:glassdyedlime:5, Lime Stained Glass
+chisel:glasspanedyedlime:0, Lime Stained Glass Pane
+chisel:glasspanedyedlime:1, Lime Stained Glass Pane
+chisel:glasspanedyedlime:2, Lime Stained Glass Pane
+chisel:glasspanedyedlime:3, Lime Stained Glass Pane
+chisel:glasspanedyedlime:4, Lime Stained Glass Pane
+chisel:glasspanedyedlime:5, Lime Stained Glass Pane
 chisel:glassdyedyellow:0, Yellow Stained Glass
 chisel:glassdyedyellow:1, Yellow Stained Glass
 chisel:glassdyedyellow:2, Yellow Stained Glass
 chisel:glassdyedyellow:3, Yellow Stained Glass
 chisel:glassdyedyellow:4, Yellow Stained Glass
 chisel:glassdyedyellow:5, Yellow Stained Glass
+chisel:glasspanedyedyellow:0, Yellow Stained Glass Pane
+chisel:glasspanedyedyellow:1, Yellow Stained Glass Pane
+chisel:glasspanedyedyellow:2, Yellow Stained Glass Pane
+chisel:glasspanedyedyellow:3, Yellow Stained Glass Pane
+chisel:glasspanedyedyellow:4, Yellow Stained Glass Pane
+chisel:glasspanedyedyellow:5, Yellow Stained Glass Pane
 chisel:glassdyedlightblue:0, Light Blue Stained Glass
 chisel:glassdyedlightblue:1, Light Blue Stained Glass
 chisel:glassdyedlightblue:2, Light Blue Stained Glass
 chisel:glassdyedlightblue:3, Light Blue Stained Glass
 chisel:glassdyedlightblue:4, Light Blue Stained Glass
 chisel:glassdyedlightblue:5, Light Blue Stained Glass
+chisel:glasspanedyedlightblue:0, Light Blue Stained Glass Pane
+chisel:glasspanedyedlightblue:1, Light Blue Stained Glass Pane
+chisel:glasspanedyedlightblue:2, Light Blue Stained Glass Pane
+chisel:glasspanedyedlightblue:3, Light Blue Stained Glass Pane
+chisel:glasspanedyedlightblue:4, Light Blue Stained Glass Pane
+chisel:glasspanedyedlightblue:5, Light Blue Stained Glass Pane
 chisel:glassdyedmagenta:0, Magenta Stained Glass
 chisel:glassdyedmagenta:1, Magenta Stained Glass
 chisel:glassdyedmagenta:2, Magenta Stained Glass
 chisel:glassdyedmagenta:3, Magenta Stained Glass
 chisel:glassdyedmagenta:4, Magenta Stained Glass
 chisel:glassdyedmagenta:5, Magenta Stained Glass
+chisel:glasspanedyedmagenta:0, Magenta Stained Glass Pane
+chisel:glasspanedyedmagenta:1, Magenta Stained Glass Pane
+chisel:glasspanedyedmagenta:2, Magenta Stained Glass Pane
+chisel:glasspanedyedmagenta:3, Magenta Stained Glass Pane
+chisel:glasspanedyedmagenta:4, Magenta Stained Glass Pane
+chisel:glasspanedyedmagenta:5, Magenta Stained Glass Pane
 chisel:glassdyedorange:0, Orange Stained Glass
 chisel:glassdyedorange:1, Orange Stained Glass
 chisel:glassdyedorange:2, Orange Stained Glass
 chisel:glassdyedorange:3, Orange Stained Glass
 chisel:glassdyedorange:4, Orange Stained Glass
 chisel:glassdyedorange:5, Orange Stained Glass
+chisel:glasspanedyedorange:0, Orange Stained Glass Pane
+chisel:glasspanedyedorange:1, Orange Stained Glass Pane
+chisel:glasspanedyedorange:2, Orange Stained Glass Pane
+chisel:glasspanedyedorange:3, Orange Stained Glass Pane
+chisel:glasspanedyedorange:4, Orange Stained Glass Pane
+chisel:glasspanedyedorange:5, Orange Stained Glass Pane
 chisel:glassdyedwhite:0, White Stained Glass
 chisel:glassdyedwhite:1, White Stained Glass
 chisel:glassdyedwhite:2, White Stained Glass
 chisel:glassdyedwhite:3, White Stained Glass
 chisel:glassdyedwhite:4, White Stained Glass
 chisel:glassdyedwhite:5, White Stained Glass
+chisel:glasspanedyedwhite:0, White Stained Glass Pane
+chisel:glasspanedyedwhite:1, White Stained Glass Pane
+chisel:glasspanedyedwhite:2, White Stained Glass Pane
+chisel:glasspanedyedwhite:3, White Stained Glass Pane
+chisel:glasspanedyedwhite:4, White Stained Glass Pane
+chisel:glasspanedyedwhite:5, White Stained Glass Pane
 chisel:glowstone:0, Glowstone
 chisel:glowstone:1, Glowstone
 chisel:glowstone:2, Glowstone
@@ -3938,7 +4088,6 @@ chisel:gold:10, Block of Gold
 chisel:gold:11, Block of Gold
 chisel:gold:12, Block of Gold
 chisel:gold:13, Block of Gold
-chisel:gold:14, Block of Gold
 chisel:granite:0, Granite
 chisel:granite:1, Granite
 chisel:granite:2, Granite
@@ -4236,22 +4385,22 @@ chisel:marblepillar:12, Marble Pillar
 chisel:marblepillar:13, Marble Pillar
 chisel:marblepillar:14, Marble Pillar
 chisel:marblepillar:15, Marble Pillar
-chisel:netherbrick:0, Nether Bricks
-chisel:netherbrick:1, Nether Bricks
-chisel:netherbrick:2, Nether Bricks
-chisel:netherbrick:3, Nether Bricks
-chisel:netherbrick:4, Nether Bricks
-chisel:netherbrick:5, Nether Bricks
-chisel:netherbrick:6, Nether Bricks
-chisel:netherbrick:7, Nether Bricks
-chisel:netherbrick:8, Nether Bricks
-chisel:netherbrick:9, Nether Bricks
-chisel:netherbrick:10, Nether Bricks
-chisel:netherbrick:11, Nether Bricks
-chisel:netherbrick:12, Nether Bricks
-chisel:netherbrick:13, Nether Bricks
-chisel:netherbrick:14, Nether Bricks
-chisel:netherbrick:15, Nether Bricks
+chisel:netherbrick:0, Nether Brick
+chisel:netherbrick:1, Nether Brick
+chisel:netherbrick:2, Nether Brick
+chisel:netherbrick:3, Nether Brick
+chisel:netherbrick:4, Nether Brick
+chisel:netherbrick:5, Nether Brick
+chisel:netherbrick:6, Nether Brick
+chisel:netherbrick:7, Nether Brick
+chisel:netherbrick:8, Nether Brick
+chisel:netherbrick:9, Nether Brick
+chisel:netherbrick:10, Nether Brick
+chisel:netherbrick:11, Nether Brick
+chisel:netherbrick:12, Nether Brick
+chisel:netherbrick:13, Nether Brick
+chisel:netherbrick:14, Nether Brick
+chisel:netherbrick:15, Nether Brick
 chisel:netherrack:0, Netherrack
 chisel:netherrack:1, Netherrack
 chisel:netherrack:2, Netherrack
@@ -4297,96 +4446,96 @@ chisel:paper:5, Paper Wall
 chisel:paper:6, Paper Wall
 chisel:paper:7, Paper Wall
 chisel:paper:8, Paper Wall
-chisel:planks-oak:0, Oak Planks
-chisel:planks-oak:1, Oak Planks
-chisel:planks-oak:2, Oak Planks
-chisel:planks-oak:3, Oak Planks
-chisel:planks-oak:4, Oak Planks
-chisel:planks-oak:5, Oak Planks
-chisel:planks-oak:6, Oak Planks
-chisel:planks-oak:7, Oak Planks
-chisel:planks-oak:8, Oak Planks
-chisel:planks-oak:9, Oak Planks
-chisel:planks-oak:10, Oak Planks
-chisel:planks-oak:11, Oak Planks
-chisel:planks-oak:12, Oak Planks
-chisel:planks-oak:13, Oak Planks
-chisel:planks-oak:14, Oak Planks
-chisel:planks-spruce:0, Spruce Planks
-chisel:planks-spruce:1, Spruce Planks
-chisel:planks-spruce:2, Spruce Planks
-chisel:planks-spruce:3, Spruce Planks
-chisel:planks-spruce:4, Spruce Planks
-chisel:planks-spruce:5, Spruce Planks
-chisel:planks-spruce:6, Spruce Planks
-chisel:planks-spruce:7, Spruce Planks
-chisel:planks-spruce:8, Spruce Planks
-chisel:planks-spruce:9, Spruce Planks
-chisel:planks-spruce:10, Spruce Planks
-chisel:planks-spruce:11, Spruce Planks
-chisel:planks-spruce:12, Spruce Planks
-chisel:planks-spruce:13, Spruce Planks
-chisel:planks-spruce:14, Spruce Planks
-chisel:planks-birch:0, Birch Planks
-chisel:planks-birch:1, Birch Planks
-chisel:planks-birch:2, Birch Planks
-chisel:planks-birch:3, Birch Planks
-chisel:planks-birch:4, Birch Planks
-chisel:planks-birch:5, Birch Planks
-chisel:planks-birch:6, Birch Planks
-chisel:planks-birch:7, Birch Planks
-chisel:planks-birch:8, Birch Planks
-chisel:planks-birch:9, Birch Planks
-chisel:planks-birch:10, Birch Planks
-chisel:planks-birch:11, Birch Planks
-chisel:planks-birch:12, Birch Planks
-chisel:planks-birch:13, Birch Planks
-chisel:planks-birch:14, Birch Planks
-chisel:planks-jungle:0, Jungle Planks
-chisel:planks-jungle:1, Jungle Planks
-chisel:planks-jungle:2, Jungle Planks
-chisel:planks-jungle:3, Jungle Planks
-chisel:planks-jungle:4, Jungle Planks
-chisel:planks-jungle:5, Jungle Planks
-chisel:planks-jungle:6, Jungle Planks
-chisel:planks-jungle:7, Jungle Planks
-chisel:planks-jungle:8, Jungle Planks
-chisel:planks-jungle:9, Jungle Planks
-chisel:planks-jungle:10, Jungle Planks
-chisel:planks-jungle:11, Jungle Planks
-chisel:planks-jungle:12, Jungle Planks
-chisel:planks-jungle:13, Jungle Planks
-chisel:planks-jungle:14, Jungle Planks
-chisel:planks-acacia:0, Acacia Planks
-chisel:planks-acacia:1, Acacia Planks
-chisel:planks-acacia:2, Acacia Planks
-chisel:planks-acacia:3, Acacia Planks
-chisel:planks-acacia:4, Acacia Planks
-chisel:planks-acacia:5, Acacia Planks
-chisel:planks-acacia:6, Acacia Planks
-chisel:planks-acacia:7, Acacia Planks
-chisel:planks-acacia:8, Acacia Planks
-chisel:planks-acacia:9, Acacia Planks
-chisel:planks-acacia:10, Acacia Planks
-chisel:planks-acacia:11, Acacia Planks
-chisel:planks-acacia:12, Acacia Planks
-chisel:planks-acacia:13, Acacia Planks
-chisel:planks-acacia:14, Acacia Planks
-chisel:planks-dark-oak:0, Dark Oak Planks
-chisel:planks-dark-oak:1, Dark Oak Planks
-chisel:planks-dark-oak:2, Dark Oak Planks
-chisel:planks-dark-oak:3, Dark Oak Planks
-chisel:planks-dark-oak:4, Dark Oak Planks
-chisel:planks-dark-oak:5, Dark Oak Planks
-chisel:planks-dark-oak:6, Dark Oak Planks
-chisel:planks-dark-oak:7, Dark Oak Planks
-chisel:planks-dark-oak:8, Dark Oak Planks
-chisel:planks-dark-oak:9, Dark Oak Planks
-chisel:planks-dark-oak:10, Dark Oak Planks
-chisel:planks-dark-oak:11, Dark Oak Planks
-chisel:planks-dark-oak:12, Dark Oak Planks
-chisel:planks-dark-oak:13, Dark Oak Planks
-chisel:planks-dark-oak:14, Dark Oak Planks
+chisel:planks-oak:0, Oak Wood Planks
+chisel:planks-oak:1, Oak Wood Planks
+chisel:planks-oak:2, Oak Wood Planks
+chisel:planks-oak:3, Oak Wood Planks
+chisel:planks-oak:4, Oak Wood Planks
+chisel:planks-oak:5, Oak Wood Planks
+chisel:planks-oak:6, Oak Wood Planks
+chisel:planks-oak:7, Oak Wood Planks
+chisel:planks-oak:8, Oak Wood Planks
+chisel:planks-oak:9, Oak Wood Planks
+chisel:planks-oak:10, Oak Wood Planks
+chisel:planks-oak:11, Oak Wood Planks
+chisel:planks-oak:12, Oak Wood Planks
+chisel:planks-oak:13, Oak Wood Planks
+chisel:planks-oak:14, Oak Wood Planks
+chisel:planks-spruce:0, Spruce Wood Planks
+chisel:planks-spruce:1, Spruce Wood Planks
+chisel:planks-spruce:2, Spruce Wood Planks
+chisel:planks-spruce:3, Spruce Wood Planks
+chisel:planks-spruce:4, Spruce Wood Planks
+chisel:planks-spruce:5, Spruce Wood Planks
+chisel:planks-spruce:6, Spruce Wood Planks
+chisel:planks-spruce:7, Spruce Wood Planks
+chisel:planks-spruce:8, Spruce Wood Planks
+chisel:planks-spruce:9, Spruce Wood Planks
+chisel:planks-spruce:10, Spruce Wood Planks
+chisel:planks-spruce:11, Spruce Wood Planks
+chisel:planks-spruce:12, Spruce Wood Planks
+chisel:planks-spruce:13, Spruce Wood Planks
+chisel:planks-spruce:14, Spruce Wood Planks
+chisel:planks-birch:0, Birch Wood Planks
+chisel:planks-birch:1, Birch Wood Planks
+chisel:planks-birch:2, Birch Wood Planks
+chisel:planks-birch:3, Birch Wood Planks
+chisel:planks-birch:4, Birch Wood Planks
+chisel:planks-birch:5, Birch Wood Planks
+chisel:planks-birch:6, Birch Wood Planks
+chisel:planks-birch:7, Birch Wood Planks
+chisel:planks-birch:8, Birch Wood Planks
+chisel:planks-birch:9, Birch Wood Planks
+chisel:planks-birch:10, Birch Wood Planks
+chisel:planks-birch:11, Birch Wood Planks
+chisel:planks-birch:12, Birch Wood Planks
+chisel:planks-birch:13, Birch Wood Planks
+chisel:planks-birch:14, Birch Wood Planks
+chisel:planks-jungle:0, Jungle Wood Planks
+chisel:planks-jungle:1, Jungle Wood Planks
+chisel:planks-jungle:2, Jungle Wood Planks
+chisel:planks-jungle:3, Jungle Wood Planks
+chisel:planks-jungle:4, Jungle Wood Planks
+chisel:planks-jungle:5, Jungle Wood Planks
+chisel:planks-jungle:6, Jungle Wood Planks
+chisel:planks-jungle:7, Jungle Wood Planks
+chisel:planks-jungle:8, Jungle Wood Planks
+chisel:planks-jungle:9, Jungle Wood Planks
+chisel:planks-jungle:10, Jungle Wood Planks
+chisel:planks-jungle:11, Jungle Wood Planks
+chisel:planks-jungle:12, Jungle Wood Planks
+chisel:planks-jungle:13, Jungle Wood Planks
+chisel:planks-jungle:14, Jungle Wood Planks
+chisel:planks-acacia:0, Acacia Wood Planks
+chisel:planks-acacia:1, Acacia Wood Planks
+chisel:planks-acacia:2, Acacia Wood Planks
+chisel:planks-acacia:3, Acacia Wood Planks
+chisel:planks-acacia:4, Acacia Wood Planks
+chisel:planks-acacia:5, Acacia Wood Planks
+chisel:planks-acacia:6, Acacia Wood Planks
+chisel:planks-acacia:7, Acacia Wood Planks
+chisel:planks-acacia:8, Acacia Wood Planks
+chisel:planks-acacia:9, Acacia Wood Planks
+chisel:planks-acacia:10, Acacia Wood Planks
+chisel:planks-acacia:11, Acacia Wood Planks
+chisel:planks-acacia:12, Acacia Wood Planks
+chisel:planks-acacia:13, Acacia Wood Planks
+chisel:planks-acacia:14, Acacia Wood Planks
+chisel:planks-dark-oak:0, Dark Oak Wood Planks
+chisel:planks-dark-oak:1, Dark Oak Wood Planks
+chisel:planks-dark-oak:2, Dark Oak Wood Planks
+chisel:planks-dark-oak:3, Dark Oak Wood Planks
+chisel:planks-dark-oak:4, Dark Oak Wood Planks
+chisel:planks-dark-oak:5, Dark Oak Wood Planks
+chisel:planks-dark-oak:6, Dark Oak Wood Planks
+chisel:planks-dark-oak:7, Dark Oak Wood Planks
+chisel:planks-dark-oak:8, Dark Oak Wood Planks
+chisel:planks-dark-oak:9, Dark Oak Wood Planks
+chisel:planks-dark-oak:10, Dark Oak Wood Planks
+chisel:planks-dark-oak:11, Dark Oak Wood Planks
+chisel:planks-dark-oak:12, Dark Oak Wood Planks
+chisel:planks-dark-oak:13, Dark Oak Wood Planks
+chisel:planks-dark-oak:14, Dark Oak Wood Planks
 chisel:blockplatinum:0, Block of Platinum
 chisel:blockplatinum:1, Block of Platinum
 chisel:blockplatinum:2, Block of Platinum
@@ -4519,6 +4668,7 @@ chisel:sandstoneyellow2:3, Sandstone
 chisel:sandstoneyellow2:4, Sandstone
 chisel:sandstoneyellow2:5, Sandstone
 chisel:sandstoneyellow2:6, Sandstone
+chisel:sandstoneyellow2:7, Sandstone
 chisel:sandstonered:0, Red Sandstone
 chisel:sandstonered:1, Red Sandstone
 chisel:sandstonered:2, Red Sandstone
@@ -4552,6 +4702,7 @@ chisel:sandstonered2:3, Red Sandstone
 chisel:sandstonered2:4, Red Sandstone
 chisel:sandstonered2:5, Red Sandstone
 chisel:sandstonered2:6, Red Sandstone
+chisel:sandstonered2:7, Red Sandstone
 chisel:sandstone-scribbles:0, Sandstone Scribbles
 chisel:sandstone-scribbles:1, Sandstone Scribbles
 chisel:sandstone-scribbles:2, Sandstone Scribbles
@@ -4568,6 +4719,22 @@ chisel:sandstone-scribbles:12, Sandstone Scribbles
 chisel:sandstone-scribbles:13, Sandstone Scribbles
 chisel:sandstone-scribbles:14, Sandstone Scribbles
 chisel:sandstone-scribbles:15, Sandstone Scribbles
+chisel:sandstonered-scribbles:0, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:1, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:2, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:3, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:4, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:5, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:6, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:7, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:8, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:9, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:10, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:11, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:12, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:13, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:14, Red Sandstone Scribbles
+chisel:sandstonered-scribbles:15, Red Sandstone Scribbles
 chisel:blocksilver:0, Block of Silver
 chisel:blocksilver:1, Block of Silver
 chisel:blocksilver:2, Block of Silver
@@ -4616,6 +4783,8 @@ chisel:stonebrick2:4, Chiseled Stone
 chisel:stonebrick2:5, Chiseled Stone
 chisel:stonebrick2:6, Chiseled Stone
 chisel:stonebrick2:7, Chiseled Stone
+chisel:stonebrick2:8, Chiseled Stone
+chisel:stonebrick2:9, Chiseled Stone
 chisel:technical:0, Factory Block
 chisel:technical:1, Factory Block
 chisel:technical:2, Factory Block
@@ -5450,6 +5619,40 @@ appliedenergistics2:facade:0, Cable Facade - Brownstone
 appliedenergistics2:facade:0, Cable Facade - Brownstone
 appliedenergistics2:facade:0, Cable Facade - Brownstone
 appliedenergistics2:facade:0, Cable Facade - Brownstone
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
+appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
 appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
@@ -5595,39 +5798,39 @@ appliedenergistics2:facade:0, Cable Facade - Block of Coal Coke
 appliedenergistics2:facade:0, Cable Facade - Block of Coal Coke
 appliedenergistics2:facade:0, Cable Facade - Block of Coal Coke
 appliedenergistics2:facade:0, Cable Facade - Block of Coal Coke
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mossy Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
+appliedenergistics2:facade:0, Cable Facade - Moss Stone
 appliedenergistics2:facade:0, Cable Facade - Black Concrete
 appliedenergistics2:facade:0, Cable Facade - Black Concrete
 appliedenergistics2:facade:0, Cable Facade - Black Concrete
@@ -6390,7 +6593,6 @@ appliedenergistics2:facade:0, Cable Facade - Block of Gold
 appliedenergistics2:facade:0, Cable Facade - Block of Gold
 appliedenergistics2:facade:0, Cable Facade - Block of Gold
 appliedenergistics2:facade:0, Cable Facade - Block of Gold
-appliedenergistics2:facade:0, Cable Facade - Block of Gold
 appliedenergistics2:facade:0, Cable Facade - Granite
 appliedenergistics2:facade:0, Cable Facade - Granite
 appliedenergistics2:facade:0, Cable Facade - Granite
@@ -6635,22 +6837,22 @@ appliedenergistics2:facade:0, Cable Facade - Marble Pillar
 appliedenergistics2:facade:0, Cable Facade - Marble Pillar
 appliedenergistics2:facade:0, Cable Facade - Marble Pillar
 appliedenergistics2:facade:0, Cable Facade - Marble Pillar
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Nether Bricks
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
 appliedenergistics2:facade:0, Cable Facade - Netherrack
 appliedenergistics2:facade:0, Cable Facade - Netherrack
 appliedenergistics2:facade:0, Cable Facade - Netherrack
@@ -6696,96 +6898,96 @@ appliedenergistics2:facade:0, Cable Facade - Paper Wall
 appliedenergistics2:facade:0, Cable Facade - Paper Wall
 appliedenergistics2:facade:0, Cable Facade - Paper Wall
 appliedenergistics2:facade:0, Cable Facade - Paper Wall
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Birch Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Jungle Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Acacia Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Dark Oak Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Spruce Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Birch Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Jungle Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Acacia Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Dark Oak Wood Planks
 appliedenergistics2:facade:0, Cable Facade - Block of Platinum
 appliedenergistics2:facade:0, Cable Facade - Block of Platinum
 appliedenergistics2:facade:0, Cable Facade - Block of Platinum
@@ -6918,6 +7120,8 @@ appliedenergistics2:facade:0, Cable Facade - Sandstone
 appliedenergistics2:facade:0, Cable Facade - Sandstone
 appliedenergistics2:facade:0, Cable Facade - Sandstone
 appliedenergistics2:facade:0, Cable Facade - Sandstone
+appliedenergistics2:facade:0, Cable Facade - Sandstone
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone
 appliedenergistics2:facade:0, Cable Facade - Red Sandstone
 appliedenergistics2:facade:0, Cable Facade - Red Sandstone
 appliedenergistics2:facade:0, Cable Facade - Red Sandstone
@@ -6967,6 +7171,22 @@ appliedenergistics2:facade:0, Cable Facade - Sandstone Scribbles
 appliedenergistics2:facade:0, Cable Facade - Sandstone Scribbles
 appliedenergistics2:facade:0, Cable Facade - Sandstone Scribbles
 appliedenergistics2:facade:0, Cable Facade - Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
+appliedenergistics2:facade:0, Cable Facade - Red Sandstone Scribbles
 appliedenergistics2:facade:0, Cable Facade - Block of Silver
 appliedenergistics2:facade:0, Cable Facade - Block of Silver
 appliedenergistics2:facade:0, Cable Facade - Block of Silver
@@ -7015,6 +7235,24 @@ appliedenergistics2:facade:0, Cable Facade - Chiseled Stone
 appliedenergistics2:facade:0, Cable Facade - Chiseled Stone
 appliedenergistics2:facade:0, Cable Facade - Chiseled Stone
 appliedenergistics2:facade:0, Cable Facade - Chiseled Stone
+appliedenergistics2:facade:0, Cable Facade - Chiseled Stone
+appliedenergistics2:facade:0, Cable Facade - Chiseled Stone
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
+appliedenergistics2:facade:0, Cable Facade - Factory Block
 appliedenergistics2:facade:0, Cable Facade - Factory Block
 appliedenergistics2:facade:0, Cable Facade - Factory Block
 appliedenergistics2:facade:0, Cable Facade - Factory Block
@@ -7165,16 +7403,11 @@ appliedenergistics2:facade:0, Cable Facade - Blue Slimy Mud
 appliedenergistics2:facade:0, Cable Facade - Graveyard Soil
 appliedenergistics2:facade:0, Cable Facade - Consecrated Soil
 appliedenergistics2:facade:0, Cable Facade - Slimy Magma Mud
-appliedenergistics2:facade:0, Cable Facade - Green Slime Block
-appliedenergistics2:facade:0, Cable Facade - Blue Slime Block
-appliedenergistics2:facade:0, Cable Facade - Purple Slime Block
-appliedenergistics2:facade:0, Cable Facade - Blood Slime Block
-appliedenergistics2:facade:0, Cable Facade - Magma Slime Block
-appliedenergistics2:facade:0, Cable Facade - Congealed Green Slime Block
-appliedenergistics2:facade:0, Cable Facade - Congealed Blue Slime Block
-appliedenergistics2:facade:0, Cable Facade - Congealed Purple Slime Block
-appliedenergistics2:facade:0, Cable Facade - Congealed Blood Slime Block
-appliedenergistics2:facade:0, Cable Facade - Congealed Magma Slime Block
+appliedenergistics2:facade:0, Cable Facade - Congealed Slime Block
+appliedenergistics2:facade:0, Cable Facade - Congealed Slime Block
+appliedenergistics2:facade:0, Cable Facade - Congealed Slime Block
+appliedenergistics2:facade:0, Cable Facade - Congealed Bloodblock
+appliedenergistics2:facade:0, Cable Facade - Congealed Slime Block
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Ardite Ore
 appliedenergistics2:facade:0, Cable Facade - Lavawood
@@ -7222,6 +7455,24 @@ appliedenergistics2:facade:0, Cable Facade - Brownstone Creeperface
 appliedenergistics2:facade:0, Cable Facade - Triangle Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Small Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Brownstone Tiles
+appliedenergistics2:facade:0, Cable Facade - Slime Block
+appliedenergistics2:facade:0, Cable Facade - Slime Block
+appliedenergistics2:facade:0, Cable Facade - Blood Slime Block
+appliedenergistics2:facade:0, Cable Facade - Slime Block
+appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
+appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
+appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Biotite
+appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
+appliedenergistics2:facade:0, Cable Facade - Jasper
+appliedenergistics2:facade:0, Cable Facade - Slate
+appliedenergistics2:facade:0, Cable Facade - Brimstone
+appliedenergistics2:facade:0, Cable Facade - Brimstone Bricks
+appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
+appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
+appliedenergistics2:facade:0, Cable Facade - Glowcelium
+appliedenergistics2:facade:0, Cable Facade - Glowshroom
 appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
 appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
 appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
@@ -7253,20 +7504,6 @@ appliedenergistics2:facade:0, Cable Facade - Soul Sandstone
 appliedenergistics2:facade:0, Cable Facade - Turf Block
 appliedenergistics2:facade:0, Cable Facade - Netherwrought Stone
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool
-appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
-appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
-appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Biotite
-appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
-appliedenergistics2:facade:0, Cable Facade - Jasper
-appliedenergistics2:facade:0, Cable Facade - Slate
-appliedenergistics2:facade:0, Cable Facade - Brimstone
-appliedenergistics2:facade:0, Cable Facade - Brimstone Bricks
-appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
-appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
-appliedenergistics2:facade:0, Cable Facade - Glowcelium
-appliedenergistics2:facade:0, Cable Facade - Glowshroom
 appliedenergistics2:facade:0, Cable Facade - Sugar Block
 appliedenergistics2:facade:0, Cable Facade - Red Slime Block
 appliedenergistics2:facade:0, Cable Facade - Gravisand
@@ -7919,16 +8156,15 @@ tconstruct:soil:2, Blue Slimy Mud
 tconstruct:soil:3, Graveyard Soil
 tconstruct:soil:4, Consecrated Soil
 tconstruct:soil:5, Slimy Magma Mud
-tconstruct:slime:0, Green Slime Block
-tconstruct:slime:1, Blue Slime Block
-tconstruct:slime:2, Purple Slime Block
+tconstruct:slime:1, Slime Block
+tconstruct:slime:2, Slime Block
 tconstruct:slime:3, Blood Slime Block
-tconstruct:slime:4, Magma Slime Block
-tconstruct:slime_congealed:0, Congealed Green Slime Block
-tconstruct:slime_congealed:1, Congealed Blue Slime Block
-tconstruct:slime_congealed:2, Congealed Purple Slime Block
-tconstruct:slime_congealed:3, Congealed Blood Slime Block
-tconstruct:slime_congealed:4, Congealed Magma Slime Block
+tconstruct:slime:4, Slime Block
+tconstruct:slime_congealed:0, Congealed Slime Block
+tconstruct:slime_congealed:1, Congealed Slime Block
+tconstruct:slime_congealed:2, Congealed Slime Block
+tconstruct:slime_congealed:3, Congealed Bloodblock
+tconstruct:slime_congealed:4, Congealed Slime Block
 tconstruct:ore:0, Cobalt Ore
 tconstruct:ore:1, Ardite Ore
 tconstruct:firewood:0, Lavawood
@@ -7983,10 +8219,11 @@ tconstruct:materials:18, Ball of Moss
 tconstruct:materials:19, Mending Moss
 tconstruct:materials:50, Creative Modifier
 tconstruct:edible:0, Bacon
-tconstruct:edible:1, Slime Ball
-tconstruct:edible:2, Slime Ball
+tconstruct:edible:1, Slimeball
+tconstruct:edible:2, Slimeball
 tconstruct:edible:3, Coagulated Blood
-tconstruct:edible:4, Slime Ball
+tconstruct:edible:4, Slimeball
+tconstruct:edible:5, Slimeball
 tconstruct:edible:10, Monster Jerky
 tconstruct:edible:11, Beef Jerky
 tconstruct:edible:12, Chicken Jerky
@@ -8046,37 +8283,37 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Laser Medium Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Battery Cell Pattern
+tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Pipe Piece Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -10040,11 +10277,11 @@ tconstruct:smeltery_controller:0, Smeltery Controller
 tconstruct:seared_tank:0, Seared Tank
 tconstruct:seared_tank:1, Seared Gauge
 tconstruct:seared_tank:2, Seared Window
-tconstruct:faucet:0, Faucet
+tconstruct:faucet:0, Seared Faucet
 tconstruct:channel:0, Casting Channel
 tconstruct:casting:0, Casting Table
 tconstruct:casting:1, Casting Basin
-tconstruct:smeltery_io:0, Smeltery Drain
+tconstruct:smeltery_io:0, Seared Drain
 tconstruct:seared_glass:0, Seared Glass
 tconstruct:seared_furnace_controller:0, Seared Furnace Controller
 tconstruct:tinker_tank_controller:0, Tinker Tank Controller
@@ -10073,70 +10310,70 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Fletching Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Battery Cell Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Sword Blade Cast
 tconstruct:cast:0, Pipe Piece Cast
+tconstruct:cast:0, Fletching Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Fletching Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Battery Cell Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
 tconstruct:clay_cast:0, Pipe Piece Clay Cast
+tconstruct:clay_cast:0, Fletching Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -10145,11 +10382,11 @@ tconstruct:rack:1, Drying Rack
 tconstruct:wood_rail:0, Wooden Rail
 tconstruct:wood_rail_trapdoor:0, Wooden Rail with a Trapdoor
 tconstruct:wooden_hopper:0, Wooden Hopper
-tconstruct:slime_channel:0, Green Slime Channel
-tconstruct:slime_channel:1, Blue Slime Channel
-tconstruct:slime_channel:2, Purple Slime Channel
+tconstruct:slime_channel:0, Slime Channel
+tconstruct:slime_channel:1, Slime Channel
+tconstruct:slime_channel:2, Slime Channel
 tconstruct:slime_channel:3, Blood Channel
-tconstruct:slime_channel:4, Magma Slime Channel
+tconstruct:slime_channel:4, Slime Channel
 tconstruct:dried_clay:0, Dried Clay
 tconstruct:dried_clay:1, Dried Bricks
 tconstruct:dried_clay_slab:0, Dried Clay Slab
@@ -10216,6 +10453,123 @@ tconstruct:fancy_frame:6, Clear Item Frame
 tconstruct:moms_spaghetti, Mom's Spaghetti
 ae2wtlib:infinity_booster_card, Infinity Booster Card
 ae2wtlib:wut, Wireless Ultimate Terminal
+ae2wtlib:wut_creative, Creative Wireless Ultimate Terminal
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:roots, tile.roots.name
+quark:root, item.root.name
+quark:roots_blue_flower, tile.roots_blue_flower.name
+quark:roots_black_flower, tile.roots_black_flower.name
+quark:roots_white_flower, tile.roots_white_flower.name
+quark:root_flower:0, Blue Sprout
+quark:root_flower:1, Black Sprout
+quark:root_flower:2, White Sprout
+quark:root_dye:0, Blue Dye
+quark:root_dye:1, Black Dye
+quark:root_dye:2, White Dye
+quark:diamond_heart, item.diamond_heart.name
+quark:archaeologist_hat, item.archaeologist_hat.name
+quark:variant_leaves:0, Swamp Oak Leaves
+quark:variant_leaves:1, Blossoming Leaves
+quark:variant_sapling:0, Swamp Oak Sapling
+quark:variant_sapling:1, Blossoming Sapling
+quark:crystal:0, White Cave Crystal
+quark:crystal:1, Red Cave Crystal
+quark:crystal:2, Orange Cave Crystal
+quark:crystal:3, Yellow Cave Crystal
+quark:crystal:4, Green Cave Crystal
+quark:crystal:5, Blue Cave Crystal
+quark:crystal:6, Indigo Cave Crystal
+quark:crystal:7, Violet Cave Crystal
+quark:crystal:8, Black Cave Crystal
+quark:crystal_pane:0, White Cave Crystal Sheet
+quark:crystal_pane:1, Red Cave Crystal Sheet
+quark:crystal_pane:2, Orange Cave Crystal Sheet
+quark:crystal_pane:3, Yellow Cave Crystal Sheet
+quark:crystal_pane:4, Green Cave Crystal Sheet
+quark:crystal_pane:5, Blue Cave Crystal Sheet
+quark:crystal_pane:6, Indigo Cave Crystal Sheet
+quark:crystal_pane:7, Violet Cave Crystal Sheet
+quark:crystal_pane:8, Black Cave Crystal Sheet
+quark:biotite_ore, tile.biotite_ore.name
+quark:biotite_block:0, Block of Biotite
+quark:biotite_block:1, Chiseled Biotite Block
+quark:biotite_block:2, Pillar Biotite Block
+quark:biotite, item.biotite.name
+quark:biotite_slab:0, Biotite Slab
+quark:biotite_stairs, tile.biotite_stairs.name
+quark:biotite_wall, tile.biotite_wall.name
+quark:monster_box, tile.monster_box.name
+quark:frog_leg, item.frog_leg.name
+quark:cooked_frog_leg, item.cooked_frog_leg.name
+quark:golden_frog_leg, item.golden_frog_leg.name
+quark:pirate_hat, item.pirate_hat.name
+quark:crab_leg, item.crab_leg.name
+quark:cooked_crab_leg, item.cooked_crab_leg.name
+quark:crab_shell, item.crab_shell.name
+quark:jasper:0, Jasper
+quark:jasper:1, Polished Jasper
+quark:stone_jasper_slab:0, Jasper Slab
+quark:stone_jasper_stairs, tile.stone_jasper_stairs.name
+quark:jasper_wall, tile.jasper_wall.name
+quark:slate:0, Slate
+quark:slate:1, Polished Slate
+quark:stone_slate_slab:0, Slate Slab
+quark:stone_slate_stairs, tile.stone_slate_stairs.name
+quark:slate_wall, tile.slate_wall.name
+quark:biome_cobblestone:0, Brimstone
+quark:biome_cobblestone:1, Permafrost
+quark:biome_cobblestone:2, Cobbedstone
+quark:biome_brick:0, Brimstone Bricks
+quark:biome_brick:1, Permafrost Bricks
+quark:elder_prismarine:0, Elder Prismarine
+quark:elder_prismarine:1, Elder Prismarine Bricks
+quark:elder_prismarine:2, Dark Elder Prismarine
+quark:elder_sea_lantern, tile.elder_sea_lantern.name
+quark:fire_stone_slab:0, Brimstone Slab
+quark:fire_stone_stairs, tile.fire_stone_stairs.name
+quark:fire_stone_brick_slab:0, Brimstone Bricks Slab
+quark:fire_stone_brick_stairs, tile.fire_stone_brick_stairs.name
+quark:icy_stone_slab:0, Permafrost Slab
+quark:icy_stone_stairs, tile.icy_stone_stairs.name
+quark:icy_stone_brick_slab:0, Permafrost Bricks Slab
+quark:icy_stone_brick_stairs, tile.icy_stone_brick_stairs.name
+quark:cobbed_stone_slab:0, Cobbedstone Slab
+quark:cobbed_stone_stairs, tile.cobbed_stone_stairs.name
+quark:elder_prismarine_slab:0, Elder Prismarine Slab
+quark:elder_prismarine_stairs, tile.elder_prismarine_stairs.name
+quark:elder_prismarine_bricks_slab:0, Elder Prismarine Brick Slab
+quark:elder_prismarine_bricks_stairs, tile.elder_prismarine_bricks_stairs.name
+quark:elder_prismarine_dark_slab:0, Dark Elder Prismarine Slab
+quark:elder_prismarine_dark_stairs, tile.elder_prismarine_dark_stairs.name
+quark:fire_stone_wall, tile.fire_stone_wall.name
+quark:icy_stone_wall, tile.icy_stone_wall.name
+quark:cobbed_stone_wall, tile.cobbed_stone_wall.name
+quark:fire_stone_brick_wall, tile.fire_stone_brick_wall.name
+quark:icy_stone_brick_wall, tile.icy_stone_brick_wall.name
+quark:elder_prismarine_wall, tile.elder_prismarine_wall.name
+quark:elder_prismarine_bricks_wall, tile.elder_prismarine_bricks_wall.name
+quark:elder_prismarine_dark_wall, tile.elder_prismarine_dark_wall.name
+quark:glowcelium, tile.glowcelium.name
+quark:glowshroom, tile.glowshroom.name
+quark:glowshroom_block, tile.glowshroom_block.name
+quark:soul_bead, item.soul_bead.name
+quark:smoker, tile.smoker.name
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -10315,7 +10669,6 @@ quark:acacia_button, tile.acacia_button.name
 quark:dark_oak_button, tile.dark_oak_button.name
 quark:grate, tile.grate.name
 quark:glass_item_frame, item.glass_item_frame.name
-quark:witch_hat, item.witch_hat.name
 quark:pickarang, item.pickarang.name
 quark:arrow_ender, item.arrow_ender.name
 quark:arrow_explosive, item.arrow_explosive.name
@@ -10348,6 +10701,7 @@ quark:parrot_egg:2, Green Parrot Egg
 quark:parrot_egg:3, Cyan Parrot Egg
 quark:parrot_egg:4, Gray Parrot Egg
 quark:enderdragon_scale, item.enderdragon_scale.name
+quark:witch_hat, item.witch_hat.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -10650,122 +11004,6 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
-quark:roots, tile.roots.name
-quark:root, item.root.name
-quark:roots_blue_flower, tile.roots_blue_flower.name
-quark:roots_black_flower, tile.roots_black_flower.name
-quark:roots_white_flower, tile.roots_white_flower.name
-quark:root_flower:0, Blue Sprout
-quark:root_flower:1, Black Sprout
-quark:root_flower:2, White Sprout
-quark:root_dye:0, Blue Dye
-quark:root_dye:1, Black Dye
-quark:root_dye:2, White Dye
-quark:diamond_heart, item.diamond_heart.name
-quark:archaeologist_hat, item.archaeologist_hat.name
-quark:variant_leaves:0, Swamp Oak Leaves
-quark:variant_leaves:1, Blossoming Leaves
-quark:variant_sapling:0, Swamp Oak Sapling
-quark:variant_sapling:1, Blossoming Sapling
-quark:crystal:0, White Cave Crystal
-quark:crystal:1, Red Cave Crystal
-quark:crystal:2, Orange Cave Crystal
-quark:crystal:3, Yellow Cave Crystal
-quark:crystal:4, Green Cave Crystal
-quark:crystal:5, Blue Cave Crystal
-quark:crystal:6, Indigo Cave Crystal
-quark:crystal:7, Violet Cave Crystal
-quark:crystal:8, Black Cave Crystal
-quark:crystal_pane:0, White Cave Crystal Sheet
-quark:crystal_pane:1, Red Cave Crystal Sheet
-quark:crystal_pane:2, Orange Cave Crystal Sheet
-quark:crystal_pane:3, Yellow Cave Crystal Sheet
-quark:crystal_pane:4, Green Cave Crystal Sheet
-quark:crystal_pane:5, Blue Cave Crystal Sheet
-quark:crystal_pane:6, Indigo Cave Crystal Sheet
-quark:crystal_pane:7, Violet Cave Crystal Sheet
-quark:crystal_pane:8, Black Cave Crystal Sheet
-quark:biotite_ore, tile.biotite_ore.name
-quark:biotite_block:0, Block of Biotite
-quark:biotite_block:1, Chiseled Biotite Block
-quark:biotite_block:2, Pillar Biotite Block
-quark:biotite, item.biotite.name
-quark:biotite_slab:0, Biotite Slab
-quark:biotite_stairs, tile.biotite_stairs.name
-quark:biotite_wall, tile.biotite_wall.name
-quark:monster_box, tile.monster_box.name
-quark:frog_leg, item.frog_leg.name
-quark:cooked_frog_leg, item.cooked_frog_leg.name
-quark:golden_frog_leg, item.golden_frog_leg.name
-quark:pirate_hat, item.pirate_hat.name
-quark:crab_leg, item.crab_leg.name
-quark:cooked_crab_leg, item.cooked_crab_leg.name
-quark:crab_shell, item.crab_shell.name
-quark:jasper:0, Jasper
-quark:jasper:1, Polished Jasper
-quark:stone_jasper_slab:0, Jasper Slab
-quark:stone_jasper_stairs, tile.stone_jasper_stairs.name
-quark:jasper_wall, tile.jasper_wall.name
-quark:slate:0, Slate
-quark:slate:1, Polished Slate
-quark:stone_slate_slab:0, Slate Slab
-quark:stone_slate_stairs, tile.stone_slate_stairs.name
-quark:slate_wall, tile.slate_wall.name
-quark:biome_cobblestone:0, Brimstone
-quark:biome_cobblestone:1, Permafrost
-quark:biome_cobblestone:2, Cobbedstone
-quark:biome_brick:0, Brimstone Bricks
-quark:biome_brick:1, Permafrost Bricks
-quark:elder_prismarine:0, Elder Prismarine
-quark:elder_prismarine:1, Elder Prismarine Bricks
-quark:elder_prismarine:2, Dark Elder Prismarine
-quark:elder_sea_lantern, tile.elder_sea_lantern.name
-quark:fire_stone_slab:0, Brimstone Slab
-quark:fire_stone_stairs, tile.fire_stone_stairs.name
-quark:fire_stone_brick_slab:0, Brimstone Bricks Slab
-quark:fire_stone_brick_stairs, tile.fire_stone_brick_stairs.name
-quark:icy_stone_slab:0, Permafrost Slab
-quark:icy_stone_stairs, tile.icy_stone_stairs.name
-quark:icy_stone_brick_slab:0, Permafrost Bricks Slab
-quark:icy_stone_brick_stairs, tile.icy_stone_brick_stairs.name
-quark:cobbed_stone_slab:0, Cobbedstone Slab
-quark:cobbed_stone_stairs, tile.cobbed_stone_stairs.name
-quark:elder_prismarine_slab:0, Elder Prismarine Slab
-quark:elder_prismarine_stairs, tile.elder_prismarine_stairs.name
-quark:elder_prismarine_bricks_slab:0, Elder Prismarine Brick Slab
-quark:elder_prismarine_bricks_stairs, tile.elder_prismarine_bricks_stairs.name
-quark:elder_prismarine_dark_slab:0, Dark Elder Prismarine Slab
-quark:elder_prismarine_dark_stairs, tile.elder_prismarine_dark_stairs.name
-quark:fire_stone_wall, tile.fire_stone_wall.name
-quark:icy_stone_wall, tile.icy_stone_wall.name
-quark:cobbed_stone_wall, tile.cobbed_stone_wall.name
-quark:fire_stone_brick_wall, tile.fire_stone_brick_wall.name
-quark:icy_stone_brick_wall, tile.icy_stone_brick_wall.name
-quark:elder_prismarine_wall, tile.elder_prismarine_wall.name
-quark:elder_prismarine_bricks_wall, tile.elder_prismarine_bricks_wall.name
-quark:elder_prismarine_dark_wall, tile.elder_prismarine_dark_wall.name
-quark:glowcelium, tile.glowcelium.name
-quark:glowshroom, tile.glowshroom.name
-quark:glowshroom_block, tile.glowshroom_block.name
-quark:soul_bead, item.soul_bead.name
-quark:smoker, tile.smoker.name
 quark:chute, tile.chute.name
 quark:sugar_block, tile.sugar_block.name
 quark:redstone_randomizer, tile.redstone_randomizer.name
@@ -12281,6 +12519,20 @@ cookingforblockheads:recipe_book:2, Cooking for Blockheads II
 cookingforblockheads:heating_unit, Heating Unit
 cookingforblockheads:ice_unit, Ice Unit
 cookingforblockheads:preservation_chamber, Preservation Chamber
+itemfilters:filter, Item Filter
+itemfilters:missing, Missing Item
+ftbquests:screen, Task Screen
+ftbquests:progress_detector, Quest Progress Detector
+ftbquests:detector:0, Redstone Detector
+ftbquests:detector:1, Player Detector
+ftbquests:progress_screen, Progress Screen
+ftbquests:chest, Quest Chest
+ftbquests:loot_crate_storage, Loot Crate Storage
+ftbquests:loot_crate_opener, Loot Crate Opener
+ftbquests:barrier, Quest Barrier
+ftbquests:book, Quest Book
+ftbquests:lootcrate, Loot Crate
+ftbquests:custom_icon, Custom Icon
 immersiveengineering:ore:0, Copper Ore
 immersiveengineering:ore:1, Bauxite Ore
 immersiveengineering:ore:2, Lead Ore
@@ -12599,6 +12851,10 @@ immersiveengineering:fluorescent_tube, Fluorescent Tube
 immersiveengineering:powerpack, Capacitor Backpack
 immersiveengineering:shield, Heavy Plated Shield
 immersiveengineering:maintenance_kit, Maintenance Kit
+immersiveengineering:steel_armor_feet, Steel Boots
+immersiveengineering:steel_armor_legs, Steel Leggings
+immersiveengineering:steel_armor_chest, Steel Chestplate
+immersiveengineering:steel_armor_head, Steel Helmet
 immersivetech:stone_multiblock, tile.immersivetech.stone_multiblock.name
 immersivetech:connectors, tile.immersivetech.connectors.name
 immersivetech:metal_device, tile.immersivetech.metal_device.name
@@ -13038,27 +13294,6 @@ rftoolscontrol:craftingstation, Crafting Station
 rftoolscontrol:workbench, Workbench
 rftoolscontrol:tank, Multi Tank
 bq_standard:loot_chest, Loot Chest
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -13109,12 +13344,33 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-torchmaster:frozen_pearl, Frozen Pearl
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
+torchmaster:frozen_pearl, Frozen Pearl
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
 wct:magnet_card, Magnet Card
@@ -14152,38 +14408,72 @@ chiselsandbits:block_bit:0, Chiseled Bit - Brownstone
 chiselsandbits:block_bit:0, Chiseled Bit - Brownstone
 chiselsandbits:block_bit:0, Chiseled Bit - Brownstone
 chiselsandbits:block_bit:0, Chiseled Bit - Brownstone
-chiselsandbits:block_bit:0, Chiseled Bit - Black Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Black Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Red Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Red Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Green Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Green Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Brown Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Brown Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Blue Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Blue Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Purple Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Purple Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Cyan Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Cyan Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Gray Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Gray Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Pink Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Pink Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Lime Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Lime Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Yellow Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Yellow Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Magenta Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Magenta Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Orange Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Orange Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Wool
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Certus Quartz
+chiselsandbits:block_bit:0, Chiseled Bit - Black Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Black Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Red Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Red Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Green Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Green Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Light Gray Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - White Carpet
+chiselsandbits:block_bit:0, Chiseled Bit - White Carpet
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
@@ -14334,39 +14624,39 @@ chiselsandbits:block_bit:0, Chiseled Bit - Block of Coal Coke
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Coal Coke
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Coal Coke
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Coal Coke
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
-chiselsandbits:block_bit:0, Chiseled Bit - Mossy Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Moss Stone
 chiselsandbits:block_bit:0, Chiseled Bit - Black Concrete
 chiselsandbits:block_bit:0, Chiseled Bit - Black Concrete
 chiselsandbits:block_bit:0, Chiseled Bit - Black Concrete
@@ -15091,6 +15381,8 @@ chiselsandbits:block_bit:0, Chiseled Bit - Glass
 chiselsandbits:block_bit:0, Chiseled Bit - Glass
 chiselsandbits:block_bit:0, Chiseled Bit - Glass
 chiselsandbits:block_bit:0, Chiseled Bit - Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Glass
 chiselsandbits:block_bit:0, Chiseled Bit - Black Stained Glass
 chiselsandbits:block_bit:0, Chiseled Bit - Black Stained Glass
 chiselsandbits:block_bit:0, Chiseled Bit - Black Stained Glass
@@ -15241,7 +15533,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Block of Gold
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Gold
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Gold
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Gold
-chiselsandbits:block_bit:0, Chiseled Bit - Block of Gold
 chiselsandbits:block_bit:0, Chiseled Bit - Granite
 chiselsandbits:block_bit:0, Chiseled Bit - Granite
 chiselsandbits:block_bit:0, Chiseled Bit - Granite
@@ -15308,46 +15599,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Terracotta
 chiselsandbits:block_bit:0, Chiseled Bit - Terracotta
 chiselsandbits:block_bit:0, Chiseled Bit - Terracotta
 chiselsandbits:block_bit:0, Chiseled Bit - Terracotta
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice
-chiselsandbits:block_bit:0, Chiseled Bit - Ice Pillar
-chiselsandbits:block_bit:0, Chiseled Bit - Ice Pillar
-chiselsandbits:block_bit:0, Chiseled Bit - Ice Pillar
-chiselsandbits:block_bit:0, Chiseled Bit - Ice Pillar
-chiselsandbits:block_bit:0, Chiseled Bit - Ice Pillar
-chiselsandbits:block_bit:0, Chiseled Bit - Ice Pillar
-chiselsandbits:block_bit:0, Chiseled Bit - Ice Pillar
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Invar
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Invar
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Invar
@@ -15526,22 +15777,22 @@ chiselsandbits:block_bit:0, Chiseled Bit - Marble Pillar
 chiselsandbits:block_bit:0, Chiseled Bit - Marble Pillar
 chiselsandbits:block_bit:0, Chiseled Bit - Marble Pillar
 chiselsandbits:block_bit:0, Chiseled Bit - Marble Pillar
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Nether Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
 chiselsandbits:block_bit:0, Chiseled Bit - Netherrack
 chiselsandbits:block_bit:0, Chiseled Bit - Netherrack
 chiselsandbits:block_bit:0, Chiseled Bit - Netherrack
@@ -15587,96 +15838,96 @@ chiselsandbits:block_bit:0, Chiseled Bit - Paper Wall
 chiselsandbits:block_bit:0, Chiseled Bit - Paper Wall
 chiselsandbits:block_bit:0, Chiseled Bit - Paper Wall
 chiselsandbits:block_bit:0, Chiseled Bit - Paper Wall
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Birch Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Jungle Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Acacia Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Birch Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Jungle Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Acacia Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Oak Wood Planks
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Platinum
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Platinum
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Platinum
@@ -15809,6 +16060,8 @@ chiselsandbits:block_bit:0, Chiseled Bit - Sandstone
 chiselsandbits:block_bit:0, Chiseled Bit - Sandstone
 chiselsandbits:block_bit:0, Chiseled Bit - Sandstone
 chiselsandbits:block_bit:0, Chiseled Bit - Sandstone
+chiselsandbits:block_bit:0, Chiseled Bit - Sandstone
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone
 chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone
 chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone
 chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone
@@ -15858,6 +16111,22 @@ chiselsandbits:block_bit:0, Chiseled Bit - Sandstone Scribbles
 chiselsandbits:block_bit:0, Chiseled Bit - Sandstone Scribbles
 chiselsandbits:block_bit:0, Chiseled Bit - Sandstone Scribbles
 chiselsandbits:block_bit:0, Chiseled Bit - Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandstone Scribbles
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Silver
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Silver
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Silver
@@ -15872,6 +16141,8 @@ chiselsandbits:block_bit:0, Chiseled Bit - Block of Steel
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Steel
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Steel
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Steel
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Stone
 chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Stone
 chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Stone
 chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Stone
@@ -16124,11 +16395,11 @@ chiselsandbits:block_bit:0, Chiseled Bit - Blue Slimy Mud
 chiselsandbits:block_bit:0, Chiseled Bit - Graveyard Soil
 chiselsandbits:block_bit:0, Chiseled Bit - Consecrated Soil
 chiselsandbits:block_bit:0, Chiseled Bit - Slimy Magma Mud
-chiselsandbits:block_bit:0, Chiseled Bit - Congealed Green Slime Block
-chiselsandbits:block_bit:0, Chiseled Bit - Congealed Blue Slime Block
-chiselsandbits:block_bit:0, Chiseled Bit - Congealed Purple Slime Block
-chiselsandbits:block_bit:0, Chiseled Bit - Congealed Blood Slime Block
-chiselsandbits:block_bit:0, Chiseled Bit - Congealed Magma Slime Block
+chiselsandbits:block_bit:0, Chiseled Bit - Congealed Slime Block
+chiselsandbits:block_bit:0, Chiseled Bit - Congealed Slime Block
+chiselsandbits:block_bit:0, Chiseled Bit - Congealed Slime Block
+chiselsandbits:block_bit:0, Chiseled Bit - Congealed Bloodblock
+chiselsandbits:block_bit:0, Chiseled Bit - Congealed Slime Block
 chiselsandbits:block_bit:0, Chiseled Bit - Cobalt Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Ardite Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Lavawood
@@ -16158,6 +16429,23 @@ chiselsandbits:block_bit:0, Chiseled Bit - Brownstone Creeperface
 chiselsandbits:block_bit:0, Chiseled Bit - Triangle Brownstone Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Small Brownstone Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Brownstone Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Ender Biotite Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Biotite
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Biotite Block
+chiselsandbits:block_bit:0, Chiseled Bit - Pillar Biotite Block
+chiselsandbits:block_bit:0, Chiseled Bit - Jasper
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Jasper
+chiselsandbits:block_bit:0, Chiseled Bit - Slate
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Slate
+chiselsandbits:block_bit:0, Chiseled Bit - Brimstone
+chiselsandbits:block_bit:0, Chiseled Bit - Permafrost
+chiselsandbits:block_bit:0, Chiseled Bit - Cobbedstone
+chiselsandbits:block_bit:0, Chiseled Bit - Brimstone Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Permafrost Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Elder Prismarine
+chiselsandbits:block_bit:0, Chiseled Bit - Elder Prismarine Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Elder Prismarine
+chiselsandbits:block_bit:0, Chiseled Bit - Elder Sea Lantern
 chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
 chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
 chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
@@ -16289,23 +16577,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Brown Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Green Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Red Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Black Quilted Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Ender Biotite Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Block of Biotite
-chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Biotite Block
-chiselsandbits:block_bit:0, Chiseled Bit - Pillar Biotite Block
-chiselsandbits:block_bit:0, Chiseled Bit - Jasper
-chiselsandbits:block_bit:0, Chiseled Bit - Polished Jasper
-chiselsandbits:block_bit:0, Chiseled Bit - Slate
-chiselsandbits:block_bit:0, Chiseled Bit - Polished Slate
-chiselsandbits:block_bit:0, Chiseled Bit - Brimstone
-chiselsandbits:block_bit:0, Chiseled Bit - Permafrost
-chiselsandbits:block_bit:0, Chiseled Bit - Cobbedstone
-chiselsandbits:block_bit:0, Chiseled Bit - Brimstone Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Permafrost Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Elder Prismarine
-chiselsandbits:block_bit:0, Chiseled Bit - Elder Prismarine Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Dark Elder Prismarine
-chiselsandbits:block_bit:0, Chiseled Bit - Elder Sea Lantern
 chiselsandbits:block_bit:0, Chiseled Bit - Sugar Block
 chiselsandbits:block_bit:0, Chiseled Bit - Gravisand
 chiselsandbits:block_bit:0, Chiseled Bit - Blank Rune
