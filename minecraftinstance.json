@@ -3258,7 +3258,7 @@
       "dateInstalled": "2019-11-30T16:33:54.928495Z",
       "dateUpdated": "2020-05-10T00:19:16.7880053Z",
       "dateLastUpdateAttempted": "2020-05-10T00:19:16.7880053Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4973,7 +4973,7 @@
       "dateInstalled": "2019-11-30T16:33:54.9274977Z",
       "dateUpdated": "2020-05-10T00:21:10.0401492Z",
       "dateLastUpdateAttempted": "2020-05-10T00:21:10.0401492Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6419,74 +6419,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 376903,
-      "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
-      "installedFile": {
-        "id": 2934706,
-        "displayName": "plustic-8.0.1.0.jar",
-        "fileName": "plustic-8.0.1.0.jar",
-        "fileDate": "2020-04-19T15:36:05.387Z",
-        "fileLength": 546262,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2934/706/plustic-8.0.1.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2791779010,
-            "type": 0
-          },
-          {
-            "foldername": "landmaster",
-            "fingerprint": 4289946003,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1408774979,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1186124255,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 521032312,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "plustic-8.0.1.0.jar"
-      },
-      "dateInstalled": "2020-05-10T00:21:16.5716831Z",
-      "dateUpdated": "2020-05-10T00:21:16.5726804Z",
-      "dateLastUpdateAttempted": "2020-05-10T00:21:16.5726804Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 238403,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
@@ -6571,6 +6503,74 @@
       "dateInstalled": "2019-11-30T16:33:54.9205164Z",
       "dateUpdated": "2018-11-30T16:33:54.9205164Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 376903,
+      "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
+      "installedFile": {
+        "id": 2934706,
+        "displayName": "plustic-8.0.1.0.jar",
+        "fileName": "plustic-8.0.1.0.jar",
+        "fileDate": "2020-04-19T15:36:05.387Z",
+        "fileLength": 546262,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2934/706/plustic-8.0.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2791779010,
+            "type": 0
+          },
+          {
+            "foldername": "landmaster",
+            "fingerprint": 4289946003,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1408774979,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1186124255,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 521032312,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "plustic-8.0.1.0.jar"
+      },
+      "dateInstalled": "2020-05-10T00:21:16.5716831Z",
+      "dateUpdated": "2020-05-10T00:21:16.5726804Z",
+      "dateLastUpdateAttempted": "2020-05-10T00:21:16.5726804Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -9946,7 +9946,7 @@
       "dateInstalled": "2019-11-30T16:33:54.9324842Z",
       "dateUpdated": "2020-05-10T00:19:14.1789819Z",
       "dateLastUpdateAttempted": "2020-05-10T00:19:14.1789819Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
