@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-05-10T00:23:11.7237467Z",
+  "lastPlayed": "2020-05-21T18:12:18.4891984Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -55,7 +55,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.4841856Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:54.9931086Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5338966Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1548513Z",
       "fileCount": 1,
       "fileSize": 243622
     },
@@ -70,7 +70,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.5101164Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:58.9276973Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5338966Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1548513Z",
       "fileCount": 1,
       "fileSize": 77866
     },
@@ -85,7 +85,7 @@
       "status": 1,
       "timestamp": "2018-12-20T20:43:15.2198092Z",
       "lastWriteTimeUtc": "2018-12-20T00:35:00.6198346Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0142127Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1548513Z",
       "fileCount": 1,
       "fileSize": 476507
     },
@@ -100,7 +100,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.2764638Z",
       "lastWriteTimeUtc": "2019-02-16T21:54:23.870403Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1548513Z",
       "fileCount": 1,
       "fileSize": 262970
     },
@@ -115,9 +115,24 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8781339Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:08.2549753Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5338966Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1548513Z",
       "fileCount": 1,
       "fileSize": 496307
+    },
+    {
+      "folderName": "FTBLib-5.4.7.0.jar",
+      "fingerprint": 2660314712,
+      "fileDateHash": 1684570407,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2660314712
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.1166717Z",
+      "lastWriteTimeUtc": "2020-03-15T23:32:16.4570966Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1558482Z",
+      "fileCount": 1,
+      "fileSize": 934566
     },
     {
       "folderName": "Placebo-1.12.2-1.6.0.jar",
@@ -130,7 +145,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8003407Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:11.568688Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1558482Z",
       "fileCount": 1,
       "fileSize": 76902
     },
@@ -145,7 +160,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8162981Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:49.5410591Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5338966Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1558482Z",
       "fileCount": 1,
       "fileSize": 7074
     },
@@ -160,7 +175,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.3761974Z",
       "lastWriteTimeUtc": "2019-02-16T21:54:37.3236334Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1558482Z",
       "fileCount": 1,
       "fileSize": 2305489
     },
@@ -175,7 +190,7 @@
       "status": 1,
       "timestamp": "2018-11-03T20:35:56.2541533Z",
       "lastWriteTimeUtc": "2018-11-03T20:32:59.0260728Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1558482Z",
       "fileCount": 1,
       "fileSize": 531831
     },
@@ -190,24 +205,9 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8771356Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:49.6128751Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1558482Z",
       "fileCount": 1,
       "fileSize": 25417
-    },
-    {
-      "folderName": "UniDict-1.12.2-2.9.3.jar",
-      "fingerprint": 2421688368,
-      "fileDateHash": 734703324,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2421688368
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8731464Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:03.6032714Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
-      "fileCount": 1,
-      "fileSize": 185166
     },
     {
       "folderName": "AutoRegLib-1.3-32.jar",
@@ -220,7 +220,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.509119Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:05.5247048Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1558482Z",
       "fileCount": 1,
       "fileSize": 108306
     },
@@ -235,7 +235,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.1886978Z",
       "lastWriteTimeUtc": "2019-02-16T21:54:00.9912432Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1558482Z",
       "fileCount": 1,
       "fileSize": 952833
     },
@@ -250,7 +250,7 @@
       "status": 1,
       "timestamp": "2019-01-13T18:16:03.4295759Z",
       "lastWriteTimeUtc": "2019-01-05T03:13:51.6001914Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1558482Z",
       "fileCount": 1,
       "fileSize": 1001846
     },
@@ -265,24 +265,9 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7484791Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:45.2778636Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1558482Z",
       "fileCount": 1,
       "fileSize": 22714
-    },
-    {
-      "folderName": "Pam's HarvestCraft 1.12.2zf.jar",
-      "fingerprint": 2362245166,
-      "fileDateHash": 3450389652,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2362245166
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:40:53.7096896Z",
-      "lastWriteTimeUtc": "2019-11-30T16:34:39.7287376Z",
-      "queryTimestamp": "2019-11-30T16:40:54.0477859Z",
-      "fileCount": 1,
-      "fileSize": 4907780
     },
     {
       "folderName": "CoFHCore-1.12.2-4.6.2.25-universal.jar",
@@ -295,7 +280,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.1637643Z",
       "lastWriteTimeUtc": "2019-02-16T21:53:45.0426832Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.156846Z",
       "fileCount": 1,
       "fileSize": 844166
     },
@@ -310,7 +295,7 @@
       "status": 1,
       "timestamp": "2019-01-31T03:05:56.1090822Z",
       "lastWriteTimeUtc": "2019-01-20T04:38:14.5336356Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.156846Z",
       "fileCount": 1,
       "fileSize": 493473
     },
@@ -325,24 +310,9 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.6198237Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:48.427998Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "queryTimestamp": "2020-05-21T18:07:15.156846Z",
       "fileCount": 1,
       "fileSize": 737407
-    },
-    {
-      "folderName": "Aroma1997Core-1.12.2-2.0.0.2.b165.jar",
-      "fingerprint": 2632828997,
-      "fileDateHash": 1353793421,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2632828997
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.5081216Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:02.4623047Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
-      "fileCount": 1,
-      "fileSize": 398657
     },
     {
       "folderName": "valkyrielib-1.12.2-2.0.20.1.jar",
@@ -355,7 +325,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8731464Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:51.4913816Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "queryTimestamp": "2020-05-21T18:07:15.156846Z",
       "fileCount": 1,
       "fileSize": 733580
     },
@@ -370,54 +340,54 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7016045Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:54.1937453Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "queryTimestamp": "2020-05-21T18:07:15.156846Z",
       "fileCount": 1,
       "fileSize": 6802153
     },
     {
-      "folderName": "IntegrationForegoing-1.12.2-1.9.jar",
-      "fingerprint": 3416241667,
-      "fileDateHash": 3380606135,
+      "folderName": "UniDict-1.12.2-2.9.6.jar",
+      "fingerprint": 2633447900,
+      "fileDateHash": 2775424476,
       "sectionID": 8,
       "individualFingerprints": [
-        3416241667
+        2633447900
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.7315243Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:51.2171145Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "timestamp": "2020-05-21T18:07:08.7180642Z",
+      "lastWriteTimeUtc": "2020-02-24T00:53:58.2271975Z",
+      "queryTimestamp": "2020-05-21T18:07:15.156846Z",
       "fileCount": 1,
-      "fileSize": 172247
+      "fileSize": 184842
     },
     {
-      "folderName": "ActuallyAdditions-1.12.2-r151.jar",
-      "fingerprint": 3517506134,
-      "fileDateHash": 2410489459,
+      "folderName": "journeymap-1.12.2-5.7.1.jar",
+      "fingerprint": 1076064603,
+      "fileDateHash": 3292159421,
       "sectionID": 8,
       "individualFingerprints": [
-        3517506134
+        1076064603
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.4752094Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:59.1366501Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "timestamp": "2020-05-21T18:07:08.2034399Z",
+      "lastWriteTimeUtc": "2020-04-18T22:48:08.6971389Z",
+      "queryTimestamp": "2020-05-21T18:07:15.156846Z",
       "fileCount": 1,
-      "fileSize": 2703552
+      "fileSize": 6990968
     },
     {
-      "folderName": "ThermalDynamics-1.12.2-2.5.5.21-universal.jar",
-      "fingerprint": 4045651351,
-      "fileDateHash": 2967251422,
+      "folderName": "tesla-core-lib-1.12.2-1.0.17.jar",
+      "fingerprint": 2382821517,
+      "fileDateHash": 3747893258,
       "sectionID": 8,
       "individualFingerprints": [
-        4045651351
+        2382821517
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8522022Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:46.9464392Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "timestamp": "2020-05-21T18:07:08.6023733Z",
+      "lastWriteTimeUtc": "2020-03-15T23:32:53.5469695Z",
+      "queryTimestamp": "2020-05-21T18:07:15.156846Z",
       "fileCount": 1,
-      "fileSize": 762980
+      "fileSize": 1138988
     },
     {
       "folderName": "foamfix-0.10.3-1.12.2.jar",
@@ -430,7 +400,7 @@
       "status": 1,
       "timestamp": "2018-11-29T22:09:03.0490486Z",
       "lastWriteTimeUtc": "2018-11-29T00:54:23.02824Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.156846Z",
       "fileCount": 1,
       "fileSize": 216000
     },
@@ -445,7 +415,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.6327888Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:22.7659975Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "queryTimestamp": "2020-05-21T18:07:15.156846Z",
       "fileCount": 1,
       "fileSize": 9792671
     },
@@ -460,7 +430,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7544631Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:06.92697Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1578437Z",
       "fileCount": 1,
       "fileSize": 75170
     },
@@ -475,7 +445,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.2585111Z",
       "lastWriteTimeUtc": "2019-02-16T21:54:16.4227003Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1578437Z",
       "fileCount": 1,
       "fileSize": 180172
     },
@@ -490,9 +460,39 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.2076478Z",
       "lastWriteTimeUtc": "2019-02-16T21:54:14.1826646Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1578437Z",
       "fileCount": 1,
       "fileSize": 6882649
+    },
+    {
+      "folderName": "RedstoneArsenal-1.12.2-2.6.6.1-universal.jar",
+      "fingerprint": 1856421527,
+      "fileDateHash": 3780379338,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1856421527
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.4797006Z",
+      "lastWriteTimeUtc": "2020-05-10T00:19:14.159035Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1578437Z",
+      "fileCount": 1,
+      "fileSize": 243859
+    },
+    {
+      "folderName": "Quark-r1.6-179.jar",
+      "fingerprint": 2910837341,
+      "fileDateHash": 3542358221,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2910837341
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.4457915Z",
+      "lastWriteTimeUtc": "2020-04-18T22:48:27.6862035Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1578437Z",
+      "fileCount": 1,
+      "fileSize": 3877577
     },
     {
       "folderName": "AE2WTLib-1.12.2-1.0.6.jar",
@@ -505,39 +505,9 @@
       "status": 1,
       "timestamp": "2019-01-05T03:12:38.4215753Z",
       "lastWriteTimeUtc": "2018-12-31T04:21:26.0990545Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1578437Z",
       "fileCount": 1,
       "fileSize": 165113
-    },
-    {
-      "folderName": "ThermalFoundation-1.12.2-2.6.3.27-universal.jar",
-      "fingerprint": 3994542571,
-      "fileDateHash": 3826447352,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3994542571
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8631728Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:03.8680968Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
-      "fileCount": 1,
-      "fileSize": 2312713
-    },
-    {
-      "folderName": "Chisel-MC1.12.2-1.0.1.44.jar",
-      "fingerprint": 4061449822,
-      "fileDateHash": 393706094,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4061449822
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.603867Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:01.0106552Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
-      "fileCount": 1,
-      "fileSize": 4754821
     },
     {
       "folderName": "ThermalDynamics-1.12.2-2.5.4.18-universal.jar",
@@ -550,7 +520,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.3373013Z",
       "lastWriteTimeUtc": "2019-02-16T21:54:32.3942398Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1578437Z",
       "fileCount": 1,
       "fileSize": 761920
     },
@@ -565,7 +535,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7006071Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:46.0523027Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5348936Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1578437Z",
       "fileCount": 1,
       "fileSize": 169528
     },
@@ -580,9 +550,24 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7983462Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:54.5617556Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1578437Z",
       "fileCount": 1,
       "fileSize": 328793
+    },
+    {
+      "folderName": "IntegrationForegoing-1.12.2-1.10.jar",
+      "fingerprint": 4237926773,
+      "fileDateHash": 1915001040,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4237926773
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.1685329Z",
+      "lastWriteTimeUtc": "2020-03-24T00:49:05.6619505Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1588406Z",
+      "fileCount": 1,
+      "fileSize": 181197
     },
     {
       "folderName": "EnderStorage-1.12.2-2.4.6.137-universal.jar",
@@ -595,7 +580,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.6657004Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:45.7241814Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1588406Z",
       "fileCount": 1,
       "fileSize": 223250
     },
@@ -610,24 +595,24 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8711513Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:45.3107751Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1588406Z",
       "fileCount": 1,
       "fileSize": 21668
     },
     {
-      "folderName": "TConstruct-1.12.2-2.13.0.171.jar",
-      "fingerprint": 972669051,
-      "fileDateHash": 2511301845,
+      "folderName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+      "fingerprint": 1893256567,
+      "fileDateHash": 3885733555,
       "sectionID": 8,
       "individualFingerprints": [
-        972669051
+        1893256567
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8332532Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:02.6867065Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "timestamp": "2020-05-21T18:07:08.4926661Z",
+      "lastWriteTimeUtc": "2020-04-18T22:49:55.4539232Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1588406Z",
       "fileCount": 1,
-      "fileSize": 4022370
+      "fileSize": 31802
     },
     {
       "folderName": "reauth-3.6.0.jar",
@@ -640,24 +625,24 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8162981Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:45.8907345Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1588406Z",
       "fileCount": 1,
       "fileSize": 30446
     },
     {
-      "folderName": "ThermalExpansion-1.12.2-5.5.4.43-universal.jar",
-      "fingerprint": 2656535456,
-      "fileDateHash": 2376746446,
+      "folderName": "FTBUtilities-5.4.0.124.jar",
+      "fingerprint": 1650828278,
+      "fileDateHash": 3780535111,
       "sectionID": 8,
       "individualFingerprints": [
-        2656535456
+        1650828278
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8551944Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:04.077537Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "timestamp": "2020-05-21T18:07:08.1316317Z",
+      "lastWriteTimeUtc": "2019-12-07T19:37:45.8020772Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1588406Z",
       "fileCount": 1,
-      "fileSize": 2426151
+      "fileSize": 424109
     },
     {
       "folderName": "Forgelin-1.8.2.jar",
@@ -670,7 +655,7 @@
       "status": 1,
       "timestamp": "2018-11-29T22:09:03.116867Z",
       "lastWriteTimeUtc": "2018-11-29T00:54:53.3611527Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1588406Z",
       "fileCount": 1,
       "fileSize": 5124663
     },
@@ -685,7 +670,7 @@
       "status": 1,
       "timestamp": "2018-11-03T20:35:56.1414542Z",
       "lastWriteTimeUtc": "2018-11-03T20:32:18.9941211Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1588406Z",
       "fileCount": 1,
       "fileSize": 910239
     },
@@ -700,7 +685,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7385057Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:08.7551492Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1588406Z",
       "fileCount": 1,
       "fileSize": 78422
     },
@@ -715,7 +700,7 @@
       "status": 1,
       "timestamp": "2019-03-01T20:10:22.4305785Z",
       "lastWriteTimeUtc": "2019-03-01T20:05:38.1975993Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1598374Z",
       "fileCount": 1,
       "fileSize": 13801152
     },
@@ -730,7 +715,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.4911671Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:15.6987033Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1598374Z",
       "fileCount": 1,
       "fileSize": 4062630
     },
@@ -745,7 +730,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.2036582Z",
       "lastWriteTimeUtc": "2019-02-16T21:54:05.2204986Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1598374Z",
       "fileCount": 1,
       "fileSize": 838980
     },
@@ -760,7 +745,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7245432Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:04.7208179Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1598374Z",
       "fileCount": 1,
       "fileSize": 522502
     },
@@ -775,24 +760,24 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8711513Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:04.8380088Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1598374Z",
       "fileCount": 1,
       "fileSize": 150657
     },
     {
-      "folderName": "CookingForBlockheads_1.12.2-6.4.71.jar",
-      "fingerprint": 1108835506,
-      "fileDateHash": 1444209292,
+      "folderName": "StorageDrawers-1.12.2-5.4.2.jar",
+      "fingerprint": 880280580,
+      "fileDateHash": 3905677100,
       "sectionID": 8,
       "individualFingerprints": [
-        1108835506
+        880280580
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.629797Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:00.7323995Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "timestamp": "2020-05-21T18:07:08.5385435Z",
+      "lastWriteTimeUtc": "2020-05-10T00:19:16.7710503Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1598374Z",
       "fileCount": 1,
-      "fileSize": 591592
+      "fileSize": 605947
     },
     {
       "folderName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
@@ -805,7 +790,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.6228156Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:00.4461645Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1598374Z",
       "fileCount": 1,
       "fileSize": 704330
     },
@@ -820,7 +805,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.6956206Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:07.2695913Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1598374Z",
       "fileCount": 1,
       "fileSize": 1060002
     },
@@ -835,9 +820,24 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8721489Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:08.3347607Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1598374Z",
       "fileCount": 1,
       "fileSize": 167213
+    },
+    {
+      "folderName": "Botania r1.10-363.jar",
+      "fingerprint": 3763127432,
+      "fileDateHash": 2050902812,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3763127432
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:07.7346929Z",
+      "lastWriteTimeUtc": "2019-12-28T23:06:18.6933373Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1598374Z",
+      "fileCount": 1,
+      "fileSize": 13814617
     },
     {
       "folderName": "Quark-r1.5-146.jar",
@@ -850,7 +850,7 @@
       "status": 1,
       "timestamp": "2019-03-01T20:10:23.0234978Z",
       "lastWriteTimeUtc": "2019-03-01T20:05:49.3557402Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1598374Z",
       "fileCount": 1,
       "fileSize": 2055235
     },
@@ -865,7 +865,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.0061859Z",
       "lastWriteTimeUtc": "2019-02-16T21:53:27.8533922Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.160835Z",
       "fileCount": 1,
       "fileSize": 7130808
     },
@@ -880,7 +880,7 @@
       "status": 1,
       "timestamp": "2019-01-05T03:12:38.5492348Z",
       "lastWriteTimeUtc": "2018-12-31T04:22:47.3398986Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.160835Z",
       "fileCount": 1,
       "fileSize": 243080
     },
@@ -895,7 +895,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.2595089Z",
       "lastWriteTimeUtc": "2019-02-16T21:54:18.4957079Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.160835Z",
       "fileCount": 1,
       "fileSize": 463184
     },
@@ -910,7 +910,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.5330548Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:12.8044075Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5358914Z",
+      "queryTimestamp": "2020-05-21T18:07:15.160835Z",
       "fileCount": 1,
       "fileSize": 7208594
     },
@@ -925,39 +925,39 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.5041322Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:51.0799736Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "queryTimestamp": "2020-05-21T18:07:15.160835Z",
       "fileCount": 1,
       "fileSize": 921733
     },
     {
-      "folderName": "CoFHCore-1.12.2-4.6.3.27-universal.jar",
-      "fingerprint": 3521813500,
-      "fileDateHash": 3445483724,
+      "folderName": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+      "fingerprint": 2287283150,
+      "fileDateHash": 3773389372,
       "sectionID": 8,
       "individualFingerprints": [
-        3521813500
+        2287283150
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.6248102Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:02.7106413Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "timestamp": "2020-05-21T18:07:08.6711888Z",
+      "lastWriteTimeUtc": "2020-04-18T22:50:41.9354194Z",
+      "queryTimestamp": "2020-05-21T18:07:15.160835Z",
       "fileCount": 1,
-      "fileSize": 847938
+      "fileSize": 2345139
     },
     {
-      "folderName": "CoFHWorld-1.12.2-1.3.1.7-universal.jar",
-      "fingerprint": 288882860,
-      "fileDateHash": 1188200880,
+      "folderName": "plustic-8.0.1.0.jar",
+      "fingerprint": 521032312,
+      "fileDateHash": 3902008618,
       "sectionID": 8,
       "individualFingerprints": [
-        288882860
+        521032312
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.6278029Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:04.113441Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "timestamp": "2020-05-21T18:07:08.4368156Z",
+      "lastWriteTimeUtc": "2020-05-10T00:21:16.5706856Z",
+      "queryTimestamp": "2020-05-21T18:07:15.160835Z",
       "fileCount": 1,
-      "fileSize": 532040
+      "fileSize": 546262
     },
     {
       "folderName": "mcjtylib-1.12-3.5.4.jar",
@@ -970,24 +970,24 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7524685Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:56.5833881Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "queryTimestamp": "2020-05-21T18:07:15.160835Z",
       "fileCount": 1,
       "fileSize": 544856
     },
     {
-      "folderName": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
-      "fingerprint": 1941774686,
-      "fileDateHash": 316793942,
+      "folderName": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "fingerprint": 3315557568,
+      "fileDateHash": 1350610559,
       "sectionID": 8,
       "individualFingerprints": [
-        1941774686
+        3315557568
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8172957Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:55.3955501Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "timestamp": "2020-05-21T18:07:07.9850239Z",
+      "lastWriteTimeUtc": "2020-04-18T22:49:47.1719261Z",
+      "queryTimestamp": "2020-05-21T18:07:15.160835Z",
       "fileCount": 1,
-      "fileSize": 36278
+      "fileSize": 848187
     },
     {
       "folderName": "AppleSkin-mc1.12-1.0.9.jar",
@@ -1000,7 +1000,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.4891721Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:46.1949214Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1618323Z",
       "fileCount": 1,
       "fileSize": 32317
     },
@@ -1015,7 +1015,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7325219Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:52.7301164Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1618323Z",
       "fileCount": 1,
       "fileSize": 263258
     },
@@ -1030,7 +1030,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.5151028Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:02.5211475Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1618323Z",
       "fileCount": 1,
       "fileSize": 5122856
     },
@@ -1045,9 +1045,24 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.666698Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:47.6894705Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1618323Z",
       "fileCount": 1,
       "fileSize": 1001848
+    },
+    {
+      "folderName": "Aroma1997Core-1.12.2-2.0.0.2.b167.jar",
+      "fingerprint": 1380001109,
+      "fileDateHash": 3005622697,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1380001109
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:07.7197331Z",
+      "lastWriteTimeUtc": "2020-04-18T22:46:42.0394045Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1618323Z",
+      "fileCount": 1,
+      "fileSize": 399634
     },
     {
       "folderName": "xnet-1.12-1.7.6.jar",
@@ -1060,32 +1075,30 @@
       "status": 1,
       "timestamp": "2019-01-31T03:05:56.3484425Z",
       "lastWriteTimeUtc": "2019-01-20T04:39:22.7242162Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1618323Z",
       "fileCount": 1,
       "fileSize": 490136
     },
     {
       "folderName": "New World",
-      "fingerprint": 3823866165,
-      "fileDateHash": 370153438,
+      "fingerprint": 2865030213,
+      "fileDateHash": 820278856,
       "sectionID": 10,
       "individualFingerprints": [
-        4135075,
-        11384962,
-        24725990,
-        63727675,
-        275208109,
-        275336407,
-        350640925,
+        266824352,
+        409685864,
         489458212,
         489458212,
         489458212,
         489458212,
         493877642,
-        554283190,
-        618251777,
+        555083539,
+        556756349,
+        640120894,
         658802131,
-        728352676,
+        664305042,
+        709962316,
+        709962316,
         758054953,
         758054953,
         758054953,
@@ -1093,44 +1106,106 @@
         758054953,
         758054953,
         774884474,
+        809828619,
+        896783310,
+        927643416,
         1022640163,
+        1025651930,
+        1040507506,
+        1102381333,
         1254400901,
         1254400901,
-        1337383618,
+        1270875880,
         1355555975,
         1355555975,
         1355555975,
         1355555975,
         1355555975,
-        1361858849,
         1382367155,
-        1390044525,
-        1460535290,
-        1460535290,
-        1749151936,
+        1394943524,
+        1427252085,
+        1428372368,
+        1447789100,
+        1465411356,
+        1524273536,
+        1550975299,
+        1598548658,
+        1808182404,
+        1872583852,
+        1883732608,
+        1897926824,
+        1995704794,
+        2126097080,
+        2132603641,
         2146486460,
         2146486460,
+        2149879292,
+        2154525393,
+        2167495524,
+        2193582066,
         2205603756,
+        2555377555,
         2643933950,
-        2645649995,
+        2665369337,
+        2683876061,
+        2696770514,
+        2832644914,
+        2846177880,
+        2869207444,
         2935239075,
-        3396849585,
-        3453564775,
-        3587006192,
+        3032186368,
+        3151709055,
+        3194080707,
+        3197841113,
+        3218961034,
+        3308911684,
+        3398550675,
+        3464253249,
+        3600486579,
+        3745276128,
         3749669239,
+        3767562966,
+        3775014069,
+        3810855698,
         3820414998,
         3820414998,
-        3863526752,
+        3832197996,
+        3891404025,
+        3951193601,
+        3980504750,
+        4020179862,
+        4056498563,
+        4102448603,
+        4111648666,
         4133809039,
         4133809039,
-        4213863462
+        4146385748,
+        4180545224,
+        4213863462,
+        4252183311,
+        4253407160
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:40:53.7455933Z",
-      "lastWriteTimeUtc": "2019-11-25T02:29:25.8798004Z",
-      "queryTimestamp": "2019-11-30T16:40:54.0507787Z",
+      "timestamp": "2020-05-21T18:07:08.7320266Z",
+      "lastWriteTimeUtc": "2020-05-10T00:29:44.6763887Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1618323Z",
       "fileCount": 20,
       "fileSize": 0
+    },
+    {
+      "folderName": "NuclearCraft-2.18r-1.12.2.jar",
+      "fingerprint": 3237632947,
+      "fileDateHash": 1791917249,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3237632947
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.315141Z",
+      "lastWriteTimeUtc": "2020-04-18T22:48:11.8253234Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1618323Z",
+      "fileCount": 1,
+      "fileSize": 6867980
     },
     {
       "folderName": "modnametooltip_1.12.2-1.10.0.jar",
@@ -1143,39 +1218,24 @@
       "status": 1,
       "timestamp": "2018-07-25T00:41:15.3292681Z",
       "lastWriteTimeUtc": "2018-06-07T02:03:52Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1618323Z",
       "fileCount": 1,
       "fileSize": 9698
     },
     {
-      "folderName": "Botania r1.10-362.jar",
-      "fingerprint": 1308299976,
-      "fileDateHash": 3177263798,
+      "folderName": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+      "fingerprint": 2554678431,
+      "fileDateHash": 209121274,
       "sectionID": 8,
       "individualFingerprints": [
-        1308299976
+        2554678431
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.5569909Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:24.1224145Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "timestamp": "2020-05-21T18:07:08.6592211Z",
+      "lastWriteTimeUtc": "2020-04-18T22:50:38.3644006Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1628294Z",
       "fileCount": 1,
-      "fileSize": 13811689
-    },
-    {
-      "folderName": "tesla-core-lib-1.12.2-1.0.15.jar",
-      "fingerprint": 3720775035,
-      "fileDateHash": 1262993212,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3720775035
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8472153Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:49.188004Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
-      "fileCount": 1,
-      "fileSize": 1140374
+      "fileSize": 728082
     },
     {
       "folderName": "WirelessCraftingTerminal-1.12.2-3.12.97.jar",
@@ -1188,7 +1248,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.876138Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:06.2542619Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1628294Z",
       "fileCount": 1,
       "fileSize": 242030
     },
@@ -1203,39 +1263,9 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.6706871Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:21.8250034Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1628294Z",
       "fileCount": 1,
       "fileSize": 6278399
-    },
-    {
-      "folderName": "Quark-r1.6-177.jar",
-      "fingerprint": 225919850,
-      "fileDateHash": 1807699253,
-      "sectionID": 8,
-      "individualFingerprints": [
-        225919850
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8023352Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:12.8393146Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
-      "fileCount": 1,
-      "fileSize": 3875942
-    },
-    {
-      "folderName": "FTBUtilities-5.4.0.123.jar",
-      "fingerprint": 3679770707,
-      "fileDateHash": 1689238039,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3679770707
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:40:53.6987192Z",
-      "lastWriteTimeUtc": "2019-11-30T16:36:57.835553Z",
-      "queryTimestamp": "2019-11-30T16:40:54.0577595Z",
-      "fileCount": 1,
-      "fileSize": 424055
     },
     {
       "folderName": "OpenBlocks-1.12.2-1.8.jar",
@@ -1248,9 +1278,24 @@
       "status": 1,
       "timestamp": "2018-11-03T20:35:56.410734Z",
       "lastWriteTimeUtc": "2018-11-03T20:34:34.8907247Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1628294Z",
       "fileCount": 1,
       "fileSize": 3217313
+    },
+    {
+      "folderName": "Chisel-MC1.12.2-1.0.2.45.jar",
+      "fingerprint": 2429064344,
+      "fileDateHash": 2486565953,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2429064344
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:07.9162084Z",
+      "lastWriteTimeUtc": "2020-04-18T22:47:55.7021166Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1628294Z",
+      "fileCount": 1,
+      "fileSize": 4755282
     },
     {
       "folderName": "Placebo-1.12.2-1.5.1.jar",
@@ -1263,39 +1308,9 @@
       "status": 1,
       "timestamp": "2019-01-31T03:05:56.1848792Z",
       "lastWriteTimeUtc": "2019-01-20T04:38:30.471002Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1628294Z",
       "fileCount": 1,
       "fileSize": 73345
-    },
-    {
-      "folderName": "OreExcavation-1.4.143.jar",
-      "fingerprint": 4088544199,
-      "fileDateHash": 2022009281,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4088544199
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.7983462Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:03.458154Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
-      "fileCount": 1,
-      "fileSize": 183484
-    },
-    {
-      "folderName": "jei_1.12.2-4.15.0.292.jar",
-      "fingerprint": 1543061976,
-      "fileDateHash": 1203726678,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1543061976
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.7405004Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:46.9235008Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
-      "fileCount": 1,
-      "fileSize": 651472
     },
     {
       "folderName": "chiselsandbits-14.30.jar",
@@ -1308,7 +1323,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.1517963Z",
       "lastWriteTimeUtc": "2019-02-16T21:53:38.3280286Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1628294Z",
       "fileCount": 1,
       "fileSize": 730687
     },
@@ -1323,7 +1338,7 @@
       "status": 1,
       "timestamp": "2019-01-31T03:05:55.9824203Z",
       "lastWriteTimeUtc": "2019-01-20T04:37:35.6471568Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1628294Z",
       "fileCount": 1,
       "fileSize": 586812
     },
@@ -1338,69 +1353,39 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7484791Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:01.9411791Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5368883Z",
+      "queryTimestamp": "2020-05-21T18:07:15.163827Z",
       "fileCount": 1,
       "fileSize": 222270
     },
     {
-      "folderName": "rftools-1.12-7.72.jar",
-      "fingerprint": 682615946,
-      "fileDateHash": 3238406734,
+      "folderName": "jei_1.12.2-4.15.0.293.jar",
+      "fingerprint": 3097301870,
+      "fileDateHash": 2068859821,
       "sectionID": 8,
       "individualFingerprints": [
-        682615946
+        3097301870
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8172957Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:16.5035492Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
+      "timestamp": "2020-05-21T18:07:08.1775092Z",
+      "lastWriteTimeUtc": "2019-12-28T23:06:51.7429843Z",
+      "queryTimestamp": "2020-05-21T18:07:15.163827Z",
       "fileCount": 1,
-      "fileSize": 2895812
+      "fileSize": 653044
     },
     {
-      "folderName": "CTM-MC1.12.2-1.0.1.30.jar",
-      "fingerprint": 151427549,
-      "fileDateHash": 2250610696,
+      "folderName": "CTM-MC1.12.2-1.0.2.31.jar",
+      "fingerprint": 1477774991,
+      "fileDateHash": 203512212,
       "sectionID": 8,
       "individualFingerprints": [
-        151427549
+        1477774991
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:40:53.5391464Z",
-      "lastWriteTimeUtc": "2019-11-30T16:36:44.4333778Z",
-      "queryTimestamp": "2019-11-30T16:40:54.0527744Z",
+      "timestamp": "2020-05-21T18:07:08.0528428Z",
+      "lastWriteTimeUtc": "2020-04-18T22:47:57.7267425Z",
+      "queryTimestamp": "2020-05-21T18:07:15.163827Z",
       "fileCount": 1,
-      "fileSize": 199047
-    },
-    {
-      "folderName": "StorageDrawers-1.12.2-5.4.0.jar",
-      "fingerprint": 3899192495,
-      "fileDateHash": 2750716176,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3899192495
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8312584Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:46.9958125Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
-      "fileCount": 1,
-      "fileSize": 604797
-    },
-    {
-      "folderName": "rftoolsctrl-1.12-2.0.2.jar",
-      "fingerprint": 1940565279,
-      "fileDateHash": 1755942625,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1940565279
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8272689Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:49.4323516Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
-      "fileCount": 1,
-      "fileSize": 600728
+      "fileSize": 199045
     },
     {
       "folderName": "CodeChickenLib-1.12.2-3.2.2.353-universal.jar",
@@ -1413,9 +1398,24 @@
       "status": 1,
       "timestamp": "2018-11-03T20:35:56.2471717Z",
       "lastWriteTimeUtc": "2018-11-03T20:32:55.8056852Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.163827Z",
       "fileCount": 1,
       "fileSize": 700785
+    },
+    {
+      "folderName": "rftoolsctrl-1.12-2.0.2.jar",
+      "fingerprint": 1940565279,
+      "fileDateHash": 1755942625,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1940565279
+      ],
+      "status": 1,
+      "timestamp": "2019-11-30T16:33:28.8272689Z",
+      "lastWriteTimeUtc": "2019-11-25T02:30:49.4323516Z",
+      "queryTimestamp": "2020-05-21T18:07:15.163827Z",
+      "fileCount": 1,
+      "fileSize": 600728
     },
     {
       "folderName": "rftools-1.12-7.61.jar",
@@ -1428,7 +1428,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.2904263Z",
       "lastWriteTimeUtc": "2019-02-16T21:54:27.0519541Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.163827Z",
       "fileCount": 1,
       "fileSize": 2901691
     },
@@ -1443,7 +1443,7 @@
       "status": 1,
       "timestamp": "2018-12-28T23:48:09.6799854Z",
       "lastWriteTimeUtc": "2018-12-27T14:20:00.6568898Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.163827Z",
       "fileCount": 1,
       "fileSize": 4062132
     },
@@ -1458,24 +1458,9 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7544631Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:05.9570551Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1648243Z",
       "fileCount": 1,
       "fileSize": 12732
-    },
-    {
-      "folderName": "foamfix-0.10.9-1.12.2.jar",
-      "fingerprint": 2271483576,
-      "fileDateHash": 905389427,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2271483576
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:40:53.5391464Z",
-      "lastWriteTimeUtc": "2019-11-30T16:36:41.6378514Z",
-      "queryTimestamp": "2019-11-30T16:40:54.0557646Z",
-      "fileCount": 1,
-      "fileSize": 201719
     },
     {
       "folderName": "theoneprobe-1.12-1.4.28.jar",
@@ -1488,7 +1473,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8512046Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:47.8241097Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1648243Z",
       "fileCount": 1,
       "fileSize": 301893
     },
@@ -1503,39 +1488,9 @@
       "status": 1,
       "timestamp": "2019-01-31T03:05:56.3225124Z",
       "lastWriteTimeUtc": "2019-01-20T04:39:16.3103741Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1648243Z",
       "fileCount": 1,
       "fileSize": 21748
-    },
-    {
-      "folderName": "journeymap-1.12.2-5.5.5.jar",
-      "fingerprint": 2552236716,
-      "fileDateHash": 2356854245,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2552236716
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.742495Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:58.5741153Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
-      "fileCount": 1,
-      "fileSize": 1920463
-    },
-    {
-      "folderName": "Mantle-1.12-1.3.3.55.jar",
-      "fingerprint": 2810798110,
-      "fileDateHash": 3088540477,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2810798110
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.7494765Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:56.7499426Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
-      "fileCount": 1,
-      "fileSize": 843486
     },
     {
       "folderName": "EmbersRekindled-1.12.jar",
@@ -1548,24 +1503,84 @@
       "status": 1,
       "timestamp": "2019-01-31T03:05:55.9973799Z",
       "lastWriteTimeUtc": "2019-01-20T04:37:39.8773467Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1648243Z",
       "fileCount": 1,
       "fileSize": 9583063
     },
     {
-      "folderName": "NuclearCraft-2.18k-1.12.2.jar",
-      "fingerprint": 2629019113,
-      "fileDateHash": 1563807561,
+      "folderName": "Mantle-1.12-1.3.3.55.jar",
+      "fingerprint": 2810798110,
+      "fileDateHash": 3088540477,
       "sectionID": 8,
       "individualFingerprints": [
-        2629019113
+        2810798110
       ],
       "status": 1,
-      "timestamp": "2019-11-30T16:33:28.7544631Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:21.1288131Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
+      "timestamp": "2019-11-30T16:33:28.7494765Z",
+      "lastWriteTimeUtc": "2019-11-25T02:30:56.7499426Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1648243Z",
       "fileCount": 1,
-      "fileSize": 6860033
+      "fileSize": 843486
+    },
+    {
+      "folderName": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+      "fingerprint": 928719472,
+      "fileDateHash": 1129232193,
+      "sectionID": 8,
+      "individualFingerprints": [
+        928719472
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.0219254Z",
+      "lastWriteTimeUtc": "2020-04-18T22:49:49.2179855Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1648243Z",
+      "fileCount": 1,
+      "fileSize": 505987
+    },
+    {
+      "folderName": "rftools-1.12-7.73.jar",
+      "fingerprint": 2954177313,
+      "fileDateHash": 4105680698,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2954177313
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.5096206Z",
+      "lastWriteTimeUtc": "2020-02-03T00:42:04.2339463Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1648243Z",
+      "fileCount": 1,
+      "fileSize": 2895803
+    },
+    {
+      "folderName": "Pam's HarvestCraft 1.12.2zg.jar",
+      "fingerprint": 1735713960,
+      "fileDateHash": 432311572,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1735713960
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.394928Z",
+      "lastWriteTimeUtc": "2020-03-24T00:49:23.4773121Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1648243Z",
+      "fileCount": 1,
+      "fileSize": 4912890
+    },
+    {
+      "folderName": "ActuallyAdditions-1.12.2-r151-2.jar",
+      "fingerprint": 1671041874,
+      "fileDateHash": 2113145660,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1671041874
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:07.6738566Z",
+      "lastWriteTimeUtc": "2019-12-22T04:51:50.1259203Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1648243Z",
+      "fileCount": 1,
+      "fileSize": 2703860
     },
     {
       "folderName": "AutoRegLib-1.3-26.jar",
@@ -1578,7 +1593,7 @@
       "status": 1,
       "timestamp": "2019-03-01T20:10:22.429582Z",
       "lastWriteTimeUtc": "2019-03-01T20:05:23.1927517Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0152101Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1658214Z",
       "fileCount": 1,
       "fileSize": 105356
     },
@@ -1593,7 +1608,7 @@
       "status": 1,
       "timestamp": "2019-03-01T20:10:22.388691Z",
       "lastWriteTimeUtc": "2019-03-01T20:05:21.1492191Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1658214Z",
       "fileCount": 1,
       "fileSize": 398640
     },
@@ -1608,9 +1623,24 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:40.3522609Z",
       "lastWriteTimeUtc": "2019-02-16T21:54:34.9035877Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1658214Z",
       "fileCount": 1,
       "fileSize": 2415692
+    },
+    {
+      "folderName": "GunpowderLib-1.12.2-1.0.jar",
+      "fingerprint": 4031748870,
+      "fileDateHash": 2633396666,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4031748870
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.1575623Z",
+      "lastWriteTimeUtc": "2020-03-24T00:48:46.7086322Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1658214Z",
+      "fileCount": 1,
+      "fileSize": 24639
     },
     {
       "folderName": "tombmanygraves2api-1.12.2-1.0.0.jar",
@@ -1623,7 +1653,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8721489Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:45.2454451Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1658214Z",
       "fileCount": 1,
       "fileSize": 10891
     },
@@ -1638,24 +1668,9 @@
       "status": 1,
       "timestamp": "2018-11-03T20:35:56.3848038Z",
       "lastWriteTimeUtc": "2018-11-03T20:33:34.7455565Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1658214Z",
       "fileCount": 1,
       "fileSize": 39764
-    },
-    {
-      "folderName": "JAOPCA-1.12.2-2.2.8.103.jar",
-      "fingerprint": 1126104228,
-      "fileDateHash": 2918318587,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1126104228
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.7385057Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:59.9026017Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
-      "fileCount": 1,
-      "fileSize": 457539
     },
     {
       "folderName": "valkyrielib-1.12.2-2.0.19.1.jar",
@@ -1668,9 +1683,24 @@
       "status": 1,
       "timestamp": "2019-01-13T18:16:03.5677152Z",
       "lastWriteTimeUtc": "2019-01-05T03:14:31.1062427Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1658214Z",
       "fileCount": 1,
       "fileSize": 725317
+    },
+    {
+      "folderName": "JAOPCA-1.12.2-2.2.8.103.jar",
+      "fingerprint": 1126104228,
+      "fileDateHash": 2918318587,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1126104228
+      ],
+      "status": 1,
+      "timestamp": "2019-11-30T16:33:28.7385057Z",
+      "lastWriteTimeUtc": "2019-11-25T02:30:59.9026017Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1658214Z",
+      "fileCount": 1,
+      "fileSize": 457539
     },
     {
       "folderName": "BetterAdvancements-1.12.2-0.1.0.77.jar",
@@ -1683,7 +1713,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.5101164Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:04.4086525Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1658214Z",
       "fileCount": 1,
       "fileSize": 62668
     },
@@ -1698,7 +1728,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.509119Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:08.0679633Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1668192Z",
       "fileCount": 1,
       "fileSize": 80721
     },
@@ -1713,9 +1743,24 @@
       "status": 1,
       "timestamp": "2018-11-03T20:35:56.2930488Z",
       "lastWriteTimeUtc": "2018-11-03T20:33:03.4502417Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1668192Z",
       "fileCount": 1,
       "fileSize": 223227
+    },
+    {
+      "folderName": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+      "fingerprint": 3785001149,
+      "fileDateHash": 3309714638,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3785001149
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.700112Z",
+      "lastWriteTimeUtc": "2020-04-18T22:50:44.239789Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1668192Z",
+      "fileCount": 1,
+      "fileSize": 2219736
     },
     {
       "folderName": "Chameleon-1.12-4.1.3.jar",
@@ -1728,7 +1773,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.6028696Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:46.0293639Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1668192Z",
       "fileCount": 1,
       "fileSize": 96859
     },
@@ -1743,7 +1788,7 @@
       "status": 1,
       "timestamp": "2018-12-22T04:01:46.5541822Z",
       "lastWriteTimeUtc": "2018-12-22T03:11:58.0231672Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1668192Z",
       "fileCount": 1,
       "fileSize": 4738662
     },
@@ -1758,9 +1803,24 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7265382Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:52.9440532Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1668192Z",
       "fileCount": 1,
       "fileSize": 1603134
+    },
+    {
+      "folderName": "TConstruct-1.12.2-2.13.0.183.jar",
+      "fingerprint": 3094578446,
+      "fileDateHash": 140562700,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3094578446
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.5525062Z",
+      "lastWriteTimeUtc": "2020-03-15T23:32:56.0712233Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1668192Z",
+      "fileCount": 1,
+      "fileSize": 4023372
     },
     {
       "folderName": "OpenModsLib-1.12.2-0.12.2.jar",
@@ -1773,7 +1833,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7893702Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:54.9123245Z",
-      "queryTimestamp": "2019-11-30T16:33:52.537886Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1668192Z",
       "fileCount": 1,
       "fileSize": 2639587
     },
@@ -1788,7 +1848,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7544631Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:09.6383224Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5388831Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1668192Z",
       "fileCount": 1,
       "fileSize": 51284
     },
@@ -1803,39 +1863,9 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.5101164Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:03.3863459Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5388831Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1668192Z",
       "fileCount": 1,
       "fileSize": 108450
-    },
-    {
-      "folderName": "CustomMainMenu-MC1.12.2-2.0.9.jar",
-      "fingerprint": 3309587501,
-      "fileDateHash": 3584992472,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3309587501
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.6317916Z",
-      "lastWriteTimeUtc": "2019-11-25T02:30:49.7774303Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5388831Z",
-      "fileCount": 1,
-      "fileSize": 177791
-    },
-    {
-      "folderName": "FTBLib-5.4.4.5.jar",
-      "fingerprint": 3921299937,
-      "fileDateHash": 2799396836,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3921299937
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:40:53.5411419Z",
-      "lastWriteTimeUtc": "2019-11-30T16:36:56.0253901Z",
-      "queryTimestamp": "2019-11-30T16:40:54.0477859Z",
-      "fileCount": 1,
-      "fileSize": 934358
     },
     {
       "folderName": "BetterBuildersWands-1.12.2-0.13.0.267+dc89c58.jar",
@@ -1848,7 +1878,7 @@
       "status": 1,
       "timestamp": "2019-02-16T21:56:39.9872368Z",
       "lastWriteTimeUtc": "2019-02-16T21:53:12.5186753Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1678163Z",
       "fileCount": 1,
       "fileSize": 77716
     },
@@ -1863,9 +1893,24 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.8172957Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:53.3798863Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5388831Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1678163Z",
       "fileCount": 1,
       "fileSize": 16612
+    },
+    {
+      "folderName": "CookingForBlockheads_1.12.2-6.5.0.jar",
+      "fingerprint": 1328269960,
+      "fileDateHash": 1979313623,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1328269960
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.0348912Z",
+      "lastWriteTimeUtc": "2020-02-03T00:41:33.1490874Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1678163Z",
+      "fileCount": 1,
+      "fileSize": 595301
     },
     {
       "folderName": "WanionLib-1.12.2-2.4.jar",
@@ -1878,9 +1923,24 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.876138Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:54.5537765Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5388831Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1678163Z",
       "fileCount": 1,
       "fileSize": 134537
+    },
+    {
+      "folderName": "foamfix-0.10.10-1.12.2.jar",
+      "fingerprint": 3326311587,
+      "fileDateHash": 29847488,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3326311587
+      ],
+      "status": 1,
+      "timestamp": "2020-05-21T18:07:08.0937331Z",
+      "lastWriteTimeUtc": "2020-05-10T00:21:09.982304Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1678163Z",
+      "fileCount": 1,
+      "fileSize": 201683
     },
     {
       "folderName": "OpenModsLib-1.12.2-0.12.1.jar",
@@ -1893,7 +1953,7 @@
       "status": 1,
       "timestamp": "2018-11-03T20:35:56.4227023Z",
       "lastWriteTimeUtc": "2018-11-03T20:34:37.4658377Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1678163Z",
       "fileCount": 1,
       "fileSize": 2639564
     },
@@ -1908,7 +1968,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7783997Z",
       "lastWriteTimeUtc": "2019-11-25T02:30:58.1332945Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5388831Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1678163Z",
       "fileCount": 1,
       "fileSize": 3217616
     },
@@ -1923,7 +1983,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7355138Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:07.6430996Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5388831Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1678163Z",
       "fileCount": 1,
       "fileSize": 956692
     },
@@ -1938,7 +1998,7 @@
       "status": 1,
       "timestamp": "2019-03-01T20:10:22.8898561Z",
       "lastWriteTimeUtc": "2019-03-01T20:05:43.1952264Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1678163Z",
       "fileCount": 1,
       "fileSize": 1580485
     },
@@ -1953,7 +2013,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.691631Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:05.029497Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5388831Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1678163Z",
       "fileCount": 1,
       "fileSize": 43764
     },
@@ -1968,7 +2028,7 @@
       "status": 1,
       "timestamp": "2019-01-31T03:05:56.2477109Z",
       "lastWriteTimeUtc": "2019-01-20T04:38:53.385701Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1688137Z",
       "fileCount": 1,
       "fileSize": 590686
     },
@@ -1983,7 +2043,7 @@
       "status": 1,
       "timestamp": "2019-11-30T16:33:28.7335192Z",
       "lastWriteTimeUtc": "2019-11-25T02:31:00.5089967Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5388831Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1688137Z",
       "fileCount": 1,
       "fileSize": 465363
     },
@@ -1998,7 +2058,7 @@
       "status": 1,
       "timestamp": "2019-01-31T03:05:56.2696527Z",
       "lastWriteTimeUtc": "2019-01-20T04:39:14.8283395Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1688137Z",
       "fileCount": 1,
       "fileSize": 3945715
     },
@@ -2013,28 +2073,13 @@
       "status": 1,
       "timestamp": "2018-12-25T17:41:40.6141702Z",
       "lastWriteTimeUtc": "2018-12-25T00:06:50.9438431Z",
-      "queryTimestamp": "2019-11-30T16:33:12.0162073Z",
+      "queryTimestamp": "2020-05-21T18:07:15.1688137Z",
       "fileCount": 1,
       "fileSize": 305888
-    },
-    {
-      "folderName": "RedstoneArsenal-1.12.2-2.6.3.18-universal.jar",
-      "fingerprint": 3705285424,
-      "fileDateHash": 3329662657,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3705285424
-      ],
-      "status": 1,
-      "timestamp": "2019-11-30T16:33:28.8162981Z",
-      "lastWriteTimeUtc": "2019-11-25T02:31:11.3472784Z",
-      "queryTimestamp": "2019-11-30T16:33:52.5388831Z",
-      "fileCount": 1,
-      "fileSize": 262973
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-11-30T16:33:12.3084262Z",
+  "lastPreviousMatchUpdate": "2020-05-21T18:07:15.8021203Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -4371,78 +4416,6 @@
       "dateInstalled": "2019-11-30T16:33:54.9215136Z",
       "dateUpdated": "2018-11-30T16:33:54.9215136Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 226406,
-      "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
-      "installedFile": {
-        "id": 2857869,
-        "displayName": "CustomMainMenu-MC1.12.2-2.0.9.1.jar",
-        "fileName": "CustomMainMenu-MC1.12.2-2.0.9.1.jar",
-        "fileDate": "2020-01-10T17:57:03.183Z",
-        "fileLength": 91121,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2857/869/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 611081551,
-            "type": 0
-          },
-          {
-            "foldername": "lumien",
-            "fingerprint": 3904034323,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1659821724,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2769122793,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 622526263,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3526146934,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "CustomMainMenu-MC1.12.2-2.0.9.1.jar"
-      },
-      "dateInstalled": "2019-11-30T16:33:54.9304896Z",
-      "dateUpdated": "2020-02-03T00:41:35.1178219Z",
-      "dateLastUpdateAttempted": "2020-02-03T00:41:35.1178219Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -7252,133 +7225,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 263624,
-      "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
-      "installedFile": {
-        "id": 2579934,
-        "displayName": "moartinkers-0.6.0.jar",
-        "fileName": "moartinkers-0.6.0.jar",
-        "fileDate": "2018-07-06T01:04:05.2Z",
-        "fileLength": 70754,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2579/934/moartinkers-0.6.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 233564,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 223794,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 225643,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 250277,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 64578,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 243076,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 223565,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 74072,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 241665,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 851917931,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2106159469,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1431551676,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4152209712,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 883535324,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "moartinkers-0.6.0.jar"
-      },
-      "dateInstalled": "2020-04-18T22:51:22.5495115Z",
-      "dateUpdated": "2020-04-18T22:51:22.5505086Z",
-      "dateLastUpdateAttempted": "2020-04-18T22:51:22.5505086Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 271384,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
@@ -7513,78 +7359,6 @@
       "dateInstalled": "2019-11-30T16:33:54.9245056Z",
       "dateUpdated": "2018-11-30T16:33:54.9245056Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 250898,
-      "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
-      "installedFile": {
-        "id": 2897369,
-        "displayName": "OreExcavation-1.4.150.jar",
-        "fileName": "OreExcavation-1.4.150.jar",
-        "fileDate": "2020-03-09T07:28:53.517Z",
-        "fileLength": 184743,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2897/369/OreExcavation-1.4.150.jar",
-        "isAlternate": false,
-        "alternateFileId": 2897370,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2666491994,
-            "type": 0
-          },
-          {
-            "foldername": "oreexcavation",
-            "fingerprint": 1006360500,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3988517817,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 766829297,
-            "type": 0
-          },
-          {
-            "foldername": "title.png",
-            "fingerprint": 1280081937,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 424401967,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "OreExcavation-1.4.150.jar"
-      },
-      "dateInstalled": "2019-11-30T16:33:54.9274977Z",
-      "dateUpdated": "2020-03-15T23:32:39.0716568Z",
-      "dateLastUpdateAttempted": "2020-03-15T23:32:39.0716568Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -7785,44 +7559,20 @@
       "addonID": 226254,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
-        "id": 2921192,
-        "displayName": "NuclearCraft-2.18r-1.12.2",
-        "fileName": "NuclearCraft-2.18r-1.12.2.jar",
-        "fileDate": "2020-04-04T20:20:45.413Z",
-        "fileLength": 6867980,
+        "id": 2959599,
+        "displayName": "NuclearCraft-2.18t-1.12.2",
+        "fileName": "NuclearCraft-2.18t-1.12.2.jar",
+        "fileDate": "2020-05-18T03:11:10.917Z",
+        "fileLength": 6869074,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2921/192/NuclearCraft-2.18r-1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2959/599/NuclearCraft-2.18t-1.12.2.jar",
         "isAlternate": false,
-        "alternateFileId": 2921193,
+        "alternateFileId": 2959600,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 287683,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 226410,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 293327,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 242638,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 227083,
+            "addonId": 239197,
             "type": 2,
             "fileId": 0
           },
@@ -7834,25 +7584,7 @@
           },
           {
             "id": 0,
-            "addonId": 268655,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 223008,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 69162,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 74072,
+            "addonId": 226410,
             "type": 2,
             "fileId": 0
           },
@@ -7864,13 +7596,55 @@
           },
           {
             "id": 0,
-            "addonId": 238222,
+            "addonId": 268655,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 239197,
+            "addonId": 69162,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 242638,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 223008,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 287683,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 293327,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 74072,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
             "type": 2,
             "fileId": 0
           }
@@ -7879,17 +7653,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2432837530,
+            "fingerprint": 2914924233,
             "type": 0
           },
           {
             "foldername": "nc",
-            "fingerprint": 4146388670,
+            "fingerprint": 1001551306,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 844940535,
+            "fingerprint": 2648460435,
             "type": 0
           },
           {
@@ -7899,7 +7673,7 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 467174615,
+            "fingerprint": 2534967171,
             "type": 0
           },
           {
@@ -7908,7 +7682,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 3237632947,
+        "packageFingerprint": 4217231338,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -7922,12 +7696,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "NuclearCraft-2.18r-1.12.2.jar"
+        "FileNameOnDisk": "NuclearCraft-2.18t-1.12.2.jar"
       },
       "dateInstalled": "2019-11-30T16:33:54.9294925Z",
-      "dateUpdated": "2020-04-18T22:48:11.8303102Z",
-      "dateLastUpdateAttempted": "2020-04-18T22:48:11.8303102Z",
-      "status": 5,
+      "dateUpdated": "2020-05-21T18:11:08.1448039Z",
+      "dateLastUpdateAttempted": "2020-05-21T18:11:08.1448039Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7942,155 +7716,144 @@
       "addonID": 289412,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
-        "id": 2827655,
-        "displayName": "FTBQuests-1.8.0.237.jar",
-        "fileName": "FTBQuests-1.8.0.237.jar",
-        "fileDate": "2019-11-15T16:28:09.187Z",
-        "fileLength": 1060002,
+        "id": 2961486,
+        "displayName": "FTBQuests-1.8.1.239.jar",
+        "fileName": "FTBQuests-1.8.1.239.jar",
+        "fileDate": "2020-05-20T12:42:10.13Z",
+        "fileLength": 1060728,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2827/655/FTBQuests-1.8.0.237.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2961/486/FTBQuests-1.8.1.239.jar",
         "isAlternate": false,
-        "alternateFileId": 2827656,
+        "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 33263964,
-            "addonId": 226410,
-            "type": 2,
-            "fileId": 2827655
-          },
-          {
-            "id": 33263966,
-            "addonId": 278398,
-            "type": 2,
-            "fileId": 2827655
-          },
-          {
-            "id": 33263965,
-            "addonId": 242638,
-            "type": 2,
-            "fileId": 2827655
-          },
-          {
-            "id": 33263956,
-            "addonId": 238086,
-            "type": 2,
-            "fileId": 2827655
-          },
-          {
-            "id": 33263962,
-            "addonId": 225643,
-            "type": 2,
-            "fileId": 2827655
-          },
-          {
-            "id": 33263961,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 2827655
-          },
-          {
-            "id": 33263958,
-            "addonId": 221826,
-            "type": 2,
-            "fileId": 2827655
-          },
-          {
-            "id": 33263967,
-            "addonId": 237102,
-            "type": 2,
-            "fileId": 2827655
-          },
-          {
-            "id": 33263959,
-            "addonId": 227083,
-            "type": 2,
-            "fileId": 2827655
-          },
-          {
-            "id": 33263960,
+            "id": 0,
             "addonId": 237167,
             "type": 3,
-            "fileId": 2827655
+            "fileId": 0
           },
           {
-            "id": 33263957,
-            "addonId": 268655,
+            "id": 0,
+            "addonId": 225643,
             "type": 2,
-            "fileId": 2827655
+            "fileId": 0
           },
           {
-            "id": 33263955,
+            "id": 0,
             "addonId": 309674,
             "type": 3,
-            "fileId": 2827655
+            "fileId": 0
           },
           {
-            "id": 33263963,
+            "id": 0,
+            "addonId": 268655,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 226410,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 221826,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
             "addonId": 231305,
             "type": 2,
-            "fileId": 2827655
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 237102,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238086,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 278398,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 242638,
+            "type": 2,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3323442794,
-            "type": 3
+            "fingerprint": 4289623063,
+            "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 3625354511,
-            "type": 3
+            "fingerprint": 2647340275,
+            "type": 0
           },
           {
             "foldername": "assets",
             "fingerprint": 4045210460,
-            "type": 3
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1002279356,
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 2381346384,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1755120733,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 3620275040,
+        "packageFingerprint": 3981002488,
         "gameVersion": [
+          "Forge",
           "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1702987,
-        "projectId": 289412,
-        "packageFingerprintId": 378515996,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 2002351,
-        "gameVersionId": 4458,
-        "gameId": 432,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBQuests-1.8.0.237.jar"
+        "FileNameOnDisk": "FTBQuests-1.8.1.239.jar"
       },
       "dateInstalled": "2019-11-30T16:33:54.9245056Z",
-      "dateUpdated": "2018-11-30T16:33:54.9245056Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2020-05-21T18:11:01.5663959Z",
+      "dateLastUpdateAttempted": "2020-05-21T18:11:01.5663959Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9884,80 +9647,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 70631,
-      "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
-      "installedFile": {
-        "id": 2939416,
-        "displayName": "RedstoneArsenal-1.12.2-2.6.6.1-universal.jar",
-        "fileName": "RedstoneArsenal-1.12.2-2.6.6.1-universal.jar",
-        "fileDate": "2020-04-24T16:51:36.35Z",
-        "fileLength": 243859,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2939/416/RedstoneArsenal-1.12.2-2.6.6.1-universal.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 69162,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2589186744,
-            "type": 0
-          },
-          {
-            "foldername": "cofh",
-            "fingerprint": 741953919,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 66382857,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2760048822,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1856421527,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "RedstoneArsenal-1.12.2-2.6.6.1-universal.jar"
-      },
-      "dateInstalled": "2019-11-30T16:33:54.9324842Z",
-      "dateUpdated": "2020-05-10T00:19:14.1789819Z",
-      "dateLastUpdateAttempted": "2020-05-10T00:19:14.1789819Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 283644,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
@@ -10020,6 +9709,80 @@
       "dateInstalled": "2019-11-30T16:33:54.9215136Z",
       "dateUpdated": "2018-11-30T16:33:54.9215136Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 70631,
+      "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
+      "installedFile": {
+        "id": 2939416,
+        "displayName": "RedstoneArsenal-1.12.2-2.6.6.1-universal.jar",
+        "fileName": "RedstoneArsenal-1.12.2-2.6.6.1-universal.jar",
+        "fileDate": "2020-04-24T16:51:36.35Z",
+        "fileLength": 243859,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2939/416/RedstoneArsenal-1.12.2-2.6.6.1-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 69162,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2589186744,
+            "type": 0
+          },
+          {
+            "foldername": "cofh",
+            "fingerprint": 741953919,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 66382857,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2760048822,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1856421527,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "RedstoneArsenal-1.12.2-2.6.6.1-universal.jar"
+      },
+      "dateInstalled": "2019-11-30T16:33:54.9324842Z",
+      "dateUpdated": "2020-05-10T00:19:14.1789819Z",
+      "dateLastUpdateAttempted": "2020-05-10T00:19:14.1789819Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
