@@ -1,35 +1,36 @@
 {
   "baseModLoader": {
-    "id": 4240,
-    "gameVersionId": 7560,
+    "id": 4448,
+    "gameVersionId": 7806,
     "minecraftGameVersionId": 52,
-    "forgeVersion": "14.23.5.2847",
-    "name": "forge-14.23.5.2847",
+    "forgeVersion": "14.23.5.2854",
+    "name": "forge-14.23.5.2854",
     "type": 1,
-    "downloadUrl": "https://modloaders.forgecdn.net/647622546/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847.jar",
-    "filename": "forge-1.12.2-14.23.5.2847.jar",
-    "installMethod": 1,
+    "downloadUrl": "https://modloaders.forgecdn.net/647622546/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
+    "filename": "forge-1.12.2-14.23.5.2854.jar",
+    "installMethod": 3,
     "latest": true,
-    "recommended": false,
+    "recommended": true,
     "approved": false,
-    "dateModified": "2019-09-10T01:22:54Z",
-    "mavenVersionString": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
-    "versionJson": "{\r\n  \"id\": \"forge-14.23.5.2847\",\r\n  \"time\": \"2019-09-10T01:22:54Z\",\r\n  \"releaseTime\": \"1960-01-01T07:00:00Z\",\r\n  \"type\": \"release\",\r\n  \"minecraftArguments\": \"--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge\",\r\n  \"minimumLauncherVersion\": 0,\r\n  \"inheritsFrom\": \"1.12.2\",\r\n  \"jar\": \"forge-14.23.5.2847\",\r\n  \"libraries\": [\r\n    {\r\n      \"name\": \"net.minecraftforge:forge:1.12.2-14.23.5.2847\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\"\r\n    },\r\n    {\r\n      \"name\": \"net.minecraft:launchwrapper:1.12\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.ow2.asm:asm-all:5.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.jline:jline:3.5.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": false\r\n    },\r\n    {\r\n      \"name\": \"net.java.dev.jna:jna:4.4.0\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": false\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe.akka:akka-actor_2.11:2.3.3\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe:config:1.2.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-actors-migration_2.11:1.1.0\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-compiler:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-library:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-parser-combinators_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-reflect:2.11.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-swing_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-xml_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"lzma:lzma:0.0.1\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.jopt-simple:jopt-simple:5.0.3\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"java3d:vecmath:1.5.2\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.trove4j:trove4j:3.0.3\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.apache.maven:maven-artifact:3.5.3\",\r\n      \"url\": \"https://modloaders.forgecdn.net/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    }\r\n  ],\r\n  \"mainClass\": \"net.minecraft.launchwrapper.Launch\"\r\n}",
-    "librariesInstallLocation": "{0}\\libraries\\net\\minecraftforge\\forge\\1.12.2-14.23.5.2847",
+    "dateModified": "2020-04-12T17:57:42Z",
+    "mavenVersionString": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
+    "versionJson": "{\r\n  \"id\": \"forge-14.23.5.2854\",\r\n  \"time\": \"2020-04-12T17:57:42Z\",\r\n  \"releaseTime\": \"2020-04-12T17:57:42Z\",\r\n  \"type\": \"release\",\r\n  \"minecraftArguments\": \"--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge\",\r\n  \"minimumLauncherVersion\": 0,\r\n  \"inheritsFrom\": \"1.12.2\",\r\n  \"jar\": \"forge-14.23.5.2854\",\r\n  \"libraries\": [\r\n    {\r\n      \"name\": \"net.minecraftforge:forge:1.12.2-14.23.5.2854\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar\",\r\n          \"sha1\": \"762f5cb227a8dd88cfd3949033c78f24030b36aa\",\r\n          \"size\": 4464068\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.ow2.asm:asm-debug-all:5.2\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar\",\r\n          \"sha1\": \"3354e11e2b34215f06dab629ab88e06aca477c19\",\r\n          \"size\": 387903\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"net.minecraft:launchwrapper:1.12\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar\",\r\n          \"sha1\": \"111e7bea9c968cdb3d06ef4632bf7ff0824d0f36\",\r\n          \"size\": 32999\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.jline:jline:3.5.1\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/jline/jline/3.5.1/jline-3.5.1.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/jline/jline/3.5.1/jline-3.5.1.jar\",\r\n          \"sha1\": \"51800e9d7a13608894a5a28eed0f5c7fa2f300fb\",\r\n          \"size\": 614590\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe.akka:akka-actor_2.11:2.3.3\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar\",\r\n          \"sha1\": \"ed62e9fc709ca0f2ff1a3220daa8b70a2870078e\",\r\n          \"size\": 2514991\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe:config:1.2.1\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"com/typesafe/config/1.2.1/config-1.2.1.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/com/typesafe/config/1.2.1/config-1.2.1.jar\",\r\n          \"sha1\": \"f771f71fdae3df231bcd54d5ca2d57f0bf93f467\",\r\n          \"size\": 219554\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-actors-migration_2.11:1.1.0\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar\",\r\n          \"sha1\": \"dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f\",\r\n          \"size\": 58018\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-compiler:2.11.1\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar\",\r\n          \"sha1\": \"56ea2e6c025e0821f28d73ca271218b8dd04926a\",\r\n          \"size\": 13449765\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar\",\r\n          \"sha1\": \"0e517c53a7e9acd6b1668c5a35eccbaa3bab9aac\",\r\n          \"size\": 25365\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar\",\r\n          \"sha1\": \"f361a3283452c57fa30c1ee69448995de23c60f7\",\r\n          \"size\": 206575\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-library:2.11.1\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar\",\r\n          \"sha1\": \"0e11da23da3eabab9f4777b9220e60d44c1aab6a\",\r\n          \"size\": 5538130\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-parser-combinators_2.11:1.0.1\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar\",\r\n          \"sha1\": \"f05d7345bf5a58924f2837c6c1f4d73a938e1ff0\",\r\n          \"size\": 419701\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-reflect:2.11.1\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar\",\r\n          \"sha1\": \"6580347e61cc7f8e802941e7fde40fa83b8badeb\",\r\n          \"size\": 4372892\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-swing_2.11:1.0.1\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar\",\r\n          \"sha1\": \"b1cdd92bd47b1e1837139c1c53020e86bb9112ae\",\r\n          \"size\": 726500\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-xml_2.11:1.0.2\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar\",\r\n          \"sha1\": \"7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0\",\r\n          \"size\": 648679\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"lzma:lzma:0.0.1\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"lzma/lzma/0.0.1/lzma-0.0.1.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/lzma/lzma/0.0.1/lzma-0.0.1.jar\",\r\n          \"sha1\": \"521616dc7487b42bef0e803bd2fa3faf668101d7\",\r\n          \"size\": 5762\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"java3d:vecmath:1.5.2\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"java3d/vecmath/1.5.2/vecmath-1.5.2.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/java3d/vecmath/1.5.2/vecmath-1.5.2.jar\",\r\n          \"sha1\": \"79846ba34cbd89e2422d74d53752f993dcc2ccaf\",\r\n          \"size\": 318956\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"net.sf.trove4j:trove4j:3.0.3\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar\",\r\n          \"sha1\": \"42ccaf4761f0dfdfa805c9e340d99a755907e2dd\",\r\n          \"size\": 2523218\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"org.apache.maven:maven-artifact:3.5.3\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar\",\r\n          \"sha1\": \"7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\",\r\n          \"size\": 54961\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"net.sf.jopt-simple:jopt-simple:5.0.3\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar\",\r\n          \"sha1\": \"cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a\",\r\n          \"size\": 78175\r\n        }\r\n      }\r\n    }\r\n  ],\r\n  \"mainClass\": \"net.minecraft.launchwrapper.Launch\"\r\n}",
+    "librariesInstallLocation": "{0}\\libraries\\net\\minecraftforge\\forge\\1.12.2-14.23.5.2854",
     "minecraftVersion": "1.12.2",
-    "modLoaderGameVersionId": 7560,
+    "modLoaderGameVersionId": 7806,
     "modLoaderGameVersionTypeId": 3,
     "modLoaderGameVersionStatus": 1,
     "modLoaderGameVersionTypeStatus": 1,
     "mcGameVersionId": 6756,
     "mcGameVersionTypeId": 628,
     "mcGameVersionStatus": 1,
-    "mcGameVersionTypeStatus": 1
+    "mcGameVersionTypeStatus": 1,
+    "installProfileJson": "{\r\n  \"_comment_\": [\r\n    \"Please do not automate the download and installation of Forge.\",\r\n    \"Our efforts are supported by ads from the download page.\",\r\n    \"If you MUST automate this, please consider supporting the project through https://www.patreon.com/LexManos/\"\r\n  ],\r\n  \"profile\": \"forge\",\r\n  \"version\": \"1.12.2-forge-14.23.5.2854\",\r\n  \"json\": \"/version.json\",\r\n  \"path\": \"net.minecraftforge:forge:1.12.2-14.23.5.2854\",\r\n  \"logo\": \"/big_logo.png\",\r\n  \"minecraft\": \"1.12.2\",\r\n  \"welcome\": \"Welcome to the simple Forge installer.\",\r\n  \"data\": {},\r\n  \"processors\": [],\r\n  \"libraries\": [\r\n    {\r\n      \"name\": \"de.oceanlabs.mcp:mcp_config:1.12.2-20200226.224830@zip\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"de/oceanlabs/mcp/mcp_config/1.12.2-20200226.224830/mcp_config-1.12.2-20200226.224830.zip\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/de/oceanlabs/mcp/mcp_config/1.12.2-20200226.224830/mcp_config-1.12.2-20200226.224830.zip\",\r\n          \"sha1\": \"72e1b936f56e0dd394c64caf9c86af01f64dc979\",\r\n          \"size\": 421086\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"net.minecraftforge:forge:1.12.2-14.23.5.2854\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar\",\r\n          \"url\": \"\",\r\n          \"sha1\": \"762f5cb227a8dd88cfd3949033c78f24030b36aa\",\r\n          \"size\": 4464068\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"name\": \"net.minecraftforge:forge:1.12.2-14.23.5.2854:universal\",\r\n      \"downloads\": {\r\n        \"artifact\": {\r\n          \"path\": \"net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar\",\r\n          \"url\": \"https://modloaders.forgecdn.net/647622546/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar\",\r\n          \"size\": 0\r\n        }\r\n      }\r\n    }\r\n  ]\r\n}"
   },
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-06-20T21:59:47.1962901Z",
+  "lastPlayed": "2020-06-28T00:47:31.5841765Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2215,14 +2216,14 @@
       "addonID": 238222,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
-        "id": 2983969,
-        "displayName": "jei_1.12.2-4.15.0.294.jar",
-        "fileName": "jei_1.12.2-4.15.0.294.jar",
-        "fileDate": "2020-06-19T21:27:38.77Z",
-        "fileLength": 653066,
-        "releaseType": 2,
+        "id": 2988828,
+        "displayName": "jei_1.12.2-4.15.0.296.jar",
+        "fileName": "jei_1.12.2-4.15.0.296.jar",
+        "fileDate": "2020-06-25T23:02:35.42Z",
+        "fileLength": 653115,
+        "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2983/969/jei_1.12.2-4.15.0.294.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2988/828/jei_1.12.2-4.15.0.296.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -2230,12 +2231,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 659925903,
+            "fingerprint": 563183461,
             "type": 0
           },
           {
             "foldername": "mezz",
-            "fingerprint": 674526096,
+            "fingerprint": 4148417974,
             "type": 0
           },
           {
@@ -2245,16 +2246,16 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3624301222,
+            "fingerprint": 1738225156,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2967893668,
+            "fingerprint": 3724754525,
             "type": 0
           }
         ],
-        "packageFingerprint": 3496463558,
+        "packageFingerprint": 2316325014,
         "gameVersion": [
           "1.12.2"
         ],
@@ -2267,11 +2268,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "jei_1.12.2-4.15.0.294.jar"
+        "FileNameOnDisk": "jei_1.12.2-4.15.0.296.jar"
       },
       "dateInstalled": "2019-11-30T16:33:54.9274977Z",
-      "dateUpdated": "2020-06-20T21:59:29.5359825Z",
-      "dateLastUpdateAttempted": "2020-06-20T21:59:29.5359825Z",
+      "dateUpdated": "2020-06-28T00:47:13.1863752Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:47:13.1863752Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3676,14 +3677,14 @@
       "addonID": 248787,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
-        "id": 2496585,
-        "displayName": "AppleSkin-mc1.12-1.0.9.jar",
-        "fileName": "AppleSkin-mc1.12-1.0.9.jar",
-        "fileDate": "2017-11-03T00:07:53.083Z",
-        "fileLength": 32317,
+        "id": 2987247,
+        "displayName": "AppleSkin-mc1.12-1.0.14.jar",
+        "fileName": "AppleSkin-mc1.12-1.0.14.jar",
+        "fileDate": "2020-06-24T05:27:04.913Z",
+        "fileLength": 33683,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2496/585/AppleSkin-mc1.12-1.0.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -3691,80 +3692,57 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 3
+            "fingerprint": 244667653,
+            "type": 0
           },
           {
             "foldername": "betterwithmods",
             "fingerprint": 1637584094,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "squeek",
-            "fingerprint": 1048292493,
-            "type": 3
+            "fingerprint": 4026390983,
+            "type": 0
           },
           {
             "foldername": "assets",
             "fingerprint": 3447702788,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 4000864019,
-            "type": 3
+            "fingerprint": 1531494517,
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 2520837536,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 1708065614,
+        "packageFingerprint": 1189087403,
         "gameVersion": [
           "1.12",
           "1.12.1",
+          "Forge",
           "1.12.2"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012",
-            "gameVersion": "1.12",
-            "gameVersionReleaseDate": "2017-06-07T05:00:00Z",
-            "gameVersionName": "1.12"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000001",
-            "gameVersion": "1.12.1",
-            "gameVersionReleaseDate": "2017-08-03T05:00:00Z",
-            "gameVersionName": "1.12.1"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
         "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 692731,
-        "projectId": 248787,
-        "packageFingerprintId": 208266674,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2017-06-07T05:00:00Z",
-        "gameVersionMappingId": 1467779,
-        "gameVersionId": 6580,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "AppleSkin-mc1.12-1.0.9.jar"
+        "FileNameOnDisk": "AppleSkin-mc1.12-1.0.14.jar"
       },
       "dateInstalled": "2019-11-30T16:33:54.9255029Z",
-      "dateUpdated": "2018-11-30T16:33:54.9255029Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2020-06-28T00:45:29.3217193Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:45:29.3217193Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3865,27 +3843,27 @@
       "addonID": 237167,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
-        "id": 2891572,
-        "displayName": "FTBLib-5.4.7.0.jar",
-        "fileName": "FTBLib-5.4.7.0.jar",
-        "fileDate": "2020-02-28T23:29:29.903Z",
-        "fileLength": 934566,
+        "id": 2985811,
+        "displayName": "FTBLib-5.4.7.2.jar",
+        "fileName": "FTBLib-5.4.7.2.jar",
+        "fileDate": "2020-06-22T13:44:34.15Z",
+        "fileLength": 934370,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2891/572/FTBLib-5.4.7.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2985/811/FTBLib-5.4.7.2.jar",
         "isAlternate": false,
-        "alternateFileId": 0,
+        "alternateFileId": 2985812,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2712236318,
+            "fingerprint": 2287248055,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 1845115150,
+            "fingerprint": 296098662,
             "type": 0
           },
           {
@@ -3894,19 +3872,18 @@
             "type": 0
           },
           {
-            "foldername": "mcmod.info",
-            "fingerprint": 4118649540,
-            "type": 0
-          },
-          {
             "foldername": "pack.mcmeta",
             "fingerprint": 1468686229,
             "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1147509493,
+            "type": 0
           }
         ],
-        "packageFingerprint": 2660314712,
+        "packageFingerprint": 957833589,
         "gameVersion": [
-          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -3915,15 +3892,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBLib-5.4.7.0.jar"
+        "FileNameOnDisk": "FTBLib-5.4.7.2.jar"
       },
       "dateInstalled": "2019-11-30T16:33:54.9255029Z",
-      "dateUpdated": "2020-03-15T23:32:16.4590924Z",
-      "dateLastUpdateAttempted": "2020-03-15T23:32:16.4590924Z",
-      "status": 5,
+      "dateUpdated": "2020-06-28T00:46:11.935264Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:46:11.935264Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8231,7 +8208,7 @@
       "dateInstalled": "2019-11-30T16:33:54.9294925Z",
       "dateUpdated": "2020-06-20T21:59:32.853104Z",
       "dateLastUpdateAttempted": "2020-06-20T21:59:32.853104Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8342,21 +8319,33 @@
       "addonID": 289412,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
-        "id": 2961486,
-        "displayName": "FTBQuests-1.8.1.239.jar",
-        "fileName": "FTBQuests-1.8.1.239.jar",
-        "fileDate": "2020-05-20T12:42:10.13Z",
-        "fileLength": 1060728,
+        "id": 2985834,
+        "displayName": "FTBQuests-1.8.1.1.jar",
+        "fileName": "FTBQuests-1.8.1.1.jar",
+        "fileDate": "2020-06-22T14:42:39.777Z",
+        "fileLength": 1059828,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2961/486/FTBQuests-1.8.1.239.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2985/834/FTBQuests-1.8.1.1.jar",
         "isAlternate": false,
-        "alternateFileId": 0,
+        "alternateFileId": 2985835,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 237167,
-            "type": 3,
+            "addonId": 238086,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 278398,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 237102,
+            "type": 2,
             "fileId": 0
           },
           {
@@ -8373,19 +8362,19 @@
           },
           {
             "id": 0,
+            "addonId": 237167,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
             "addonId": 268655,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 226410,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 221826,
+            "addonId": 238222,
             "type": 2,
             "fileId": 0
           },
@@ -8403,31 +8392,19 @@
           },
           {
             "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 237102,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 238086,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 278398,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
             "addonId": 242638,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 226410,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 221826,
             "type": 2,
             "fileId": 0
           }
@@ -8436,33 +8413,32 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4289623063,
+            "fingerprint": 1701398750,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 2647340275,
+            "fingerprint": 2923723066,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 4045210460,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1002279356,
+            "fingerprint": 511158836,
             "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 2381346384,
             "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 143246476,
+            "type": 0
           }
         ],
-        "packageFingerprint": 3981002488,
+        "packageFingerprint": 1270545534,
         "gameVersion": [
-          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -8471,15 +8447,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBQuests-1.8.1.239.jar"
+        "FileNameOnDisk": "FTBQuests-1.8.1.1.jar"
       },
       "dateInstalled": "2019-11-30T16:33:54.9245056Z",
-      "dateUpdated": "2020-05-21T18:11:01.5663959Z",
-      "dateLastUpdateAttempted": "2020-05-21T18:11:01.5663959Z",
-      "status": 5,
+      "dateUpdated": "2020-06-28T00:46:14.9811127Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:46:14.9811127Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10100,17 +10076,23 @@
       "addonID": 237102,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
-        "id": 2835289,
-        "displayName": "FTBUtilities-5.4.0.124.jar",
-        "fileName": "FTBUtilities-5.4.0.124.jar",
-        "fileDate": "2019-12-01T13:00:13Z",
-        "fileLength": 424109,
+        "id": 2990099,
+        "displayName": "FTBUtilities-5.4.1.129.jar",
+        "fileName": "FTBUtilities-5.4.1.129.jar",
+        "fileDate": "2020-06-27T07:51:54.337Z",
+        "fileLength": 425243,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2835/289/FTBUtilities-5.4.0.124.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2990/99/FTBUtilities-5.4.1.129.jar",
         "isAlternate": false,
-        "alternateFileId": 2835290,
+        "alternateFileId": 2990100,
         "dependencies": [
+          {
+            "id": 0,
+            "addonId": 314904,
+            "type": 2,
+            "fileId": 0
+          },
           {
             "id": 0,
             "addonId": 32274,
@@ -10122,24 +10104,18 @@
             "addonId": 237167,
             "type": 3,
             "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 314904,
-            "type": 3,
-            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1909782853,
+            "fingerprint": 453366007,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 1918873826,
+            "fingerprint": 3816820484,
             "type": 0
           },
           {
@@ -10154,11 +10130,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1865709965,
+            "fingerprint": 263980156,
             "type": 0
           }
         ],
-        "packageFingerprint": 1650828278,
+        "packageFingerprint": 69649077,
         "gameVersion": [
           "1.12.2"
         ],
@@ -10171,12 +10147,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBUtilities-5.4.0.124.jar"
+        "FileNameOnDisk": "FTBUtilities-5.4.1.129.jar"
       },
       "dateInstalled": "2019-11-30T16:33:54.9304896Z",
-      "dateUpdated": "2019-12-07T19:37:45.8290052Z",
-      "dateLastUpdateAttempted": "2019-12-07T19:37:45.8290052Z",
-      "status": 5,
+      "dateUpdated": "2020-06-28T00:47:00.7476658Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:47:00.7476658Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10522,14 +10498,14 @@
       "addonID": 386134,
       "gameInstanceID": "c0785b6c-9810-4c44-9fd7-07aeaa516ca2",
       "installedFile": {
-        "id": 2978660,
-        "displayName": "FTBUltimine-1.12-1.3.2.jar",
-        "fileName": "FTBUltimine-1.12-1.3.2.jar",
-        "fileDate": "2020-06-12T17:32:39.443Z",
-        "fileLength": 46636,
+        "id": 2986060,
+        "displayName": "FTBUltimine-1.3.3.jar",
+        "fileName": "FTBUltimine-1.3.3.jar",
+        "fileDate": "2020-06-22T21:32:00.213Z",
+        "fileLength": 46663,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2978/660/FTBUltimine-1.12-1.3.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2986/60/FTBUltimine-1.3.3.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -10537,12 +10513,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3763769141,
+            "fingerprint": 3502195935,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 3700179802,
+            "fingerprint": 3030716636,
             "type": 0
           },
           {
@@ -10552,11 +10528,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 706162755,
+            "fingerprint": 4171280685,
             "type": 0
           }
         ],
-        "packageFingerprint": 3592159247,
+        "packageFingerprint": 1930796196,
         "gameVersion": [
           "1.10.2",
           "1.11.2",
@@ -10571,11 +10547,11 @@
         "gameVersionDateReleased": "2016-06-23T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBUltimine-1.12-1.3.2.jar"
+        "FileNameOnDisk": "FTBUltimine-1.3.3.jar"
       },
       "dateInstalled": "2020-06-11T02:34:25.8478389Z",
-      "dateUpdated": "2020-06-20T21:59:27.2550862Z",
-      "dateLastUpdateAttempted": "2020-06-20T21:59:27.2550862Z",
+      "dateUpdated": "2020-06-28T00:46:57.636991Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:46:57.636991Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
