@@ -1,0 +1,21 @@
+{
+	title: "Petrified Fuel Generator",
+	icon: "industrialforegoing:petrified_fuel_generator",
+	x: -2.75d,
+	y: 4.75d,
+	text: [
+		"This generator is almost identical to Actually Additions' Coal Generator, but rather than lasting a longer or shorter time with different fuels, it merely alters the power production rate.",
+		"",
+		"See the Industrial Foregoing Manual for more Information."
+	],
+	dependencies: [
+		"e29c0529"
+	],
+	tasks: [{
+		uid: "813c8c6b",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:petrified_fuel_generator"
+		}]
+	}]
+}

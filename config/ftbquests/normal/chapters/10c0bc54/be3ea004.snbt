@@ -1,0 +1,29 @@
+{
+	title: "Embers",
+	icon: "embers:codex",
+	x: -12.75d,
+	y: 0.5d,
+	text: [
+		"Embers is a magitech-themed mod focused around harnessing the natural energy known as Ember, which is extracted from deep underground. To get started, you will need to craft the Ancient Codex, the manual for Embers. To craft this you will need an Ancient Motive Core, which drops from the Ancient Golem."
+	],
+	tasks: [{
+		uid: "65bfb645",
+		type: "kill",
+		entity: "embers:ancient_golem",
+		value: 1L
+	},
+	{
+		uid: "d0549974",
+		type: "item",
+		items: [{
+			item: "embers:codex"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7aae5129",
+		type: "item",
+		item: "embers:tinker_hammer"
+	}]
+}

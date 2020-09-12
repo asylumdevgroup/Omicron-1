@@ -1,0 +1,22 @@
+{
+	title: "Ender Tank",
+	icon: "enderstorage:ender_storage 1 1",
+	x: 0.0d,
+	y: 3.75d,
+	text: [
+		"This tank is perfect for liquid transportation. It acts like an ender chest for fluids. It also can have different color combinations on the top, so �cred-red-red �rcould be for molten iron and �9blue-blue-blue �rcould be water.",
+		"",
+		"�r�rUse any dye and right-click the top buttons to change the color (it consumes the dye)."
+	],
+	dependencies: [
+		"106b50a6"
+	],
+	tasks: [{
+		uid: "bddfd462",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage 2 1"
+		}],
+		count: 2L
+	}]
+}

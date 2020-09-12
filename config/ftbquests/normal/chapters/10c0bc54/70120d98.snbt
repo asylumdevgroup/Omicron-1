@@ -1,0 +1,21 @@
+{
+	title: "Pestle and Mortar",
+	icon: "botania:pestleandmortar",
+	x: -1.25d,
+	y: 1.75d,
+	text: [
+		"Don't look here for help, go look at your brand-spanking-new book!"
+	],
+	dependencies: [
+		"ba4c8847"
+	],
+	tasks: [{
+		uid: "346479dd",
+		type: "item",
+		items: [{
+			item: "botania:pestleandmortar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,37 @@
+{
+	title: "Petty Tartanic Gem",
+	icon: {
+		id: "bloodmagic:soul_gem",
+		tag: {}
+	},
+	x: -6.25d,
+	y: 3.25d,
+	text: [
+		"To start, put a will (of at least 1.0 point value) into your Hellfire forge in the far right slot. In the corner slots, you'll need lapis, redstone, gold ingots, and glass.",
+		"",
+		"",
+		"",
+		"",
+		"�r�oI hear they taste like Tartar! Mmm!"
+	],
+	dependencies: [
+		"cf6b7e29"
+	],
+	tasks: [{
+		uid: "da6140fc",
+		type: "item",
+		items: [{
+			id: "bloodmagic:soul_gem",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c50aa26a",
+		type: "item",
+		item: {
+			id: "bloodmagic:soul_gem",
+			tag: {}
+		}
+	}]
+}

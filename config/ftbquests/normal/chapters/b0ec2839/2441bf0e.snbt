@@ -1,0 +1,22 @@
+{
+	title: "Blast Furnace",
+	icon: "immersiveengineering:stone_decoration 1 1",
+	x: 7.25d,
+	y: 4.0d,
+	text: [
+		"When Supplied with Coal Coke and Iron Ingots or Blocks, this Multiblock Structure produces, albeit slowly, Steel Ingots/Blocks, with a byproduct of Slag, which can be used to make concrete.",
+		"",
+		"This Structure is built and activated in the same fashion as the Coke Oven in the Previous Quest."
+	],
+	dependencies: [
+		"a27f09b6"
+	],
+	tasks: [{
+		uid: "b3d03f0e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 27 1"
+		}],
+		count: 27L
+	}]
+}

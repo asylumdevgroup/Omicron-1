@@ -1,0 +1,16 @@
+{
+	title: "Info: Melting down Metals",
+	icon: "tconstruct:smeltery_controller",
+	x: -0.5d,
+	y: 5.25d,
+	text: [
+		"One bonus of using the Tinker's smeltery is the increased metal amount per ore. If you put an iron ore in a furnace, it produces 1 ingot. With the smeltery, it will create 2 ingots worth of molten iron. Then you can put it into an ingot mold, or 9 ingots worth into a basin for a block of iron."
+	],
+	dependencies: [
+		"d3c46808"
+	],
+	tasks: [{
+		uid: "1b19e726",
+		type: "checkmark"
+	}]
+}

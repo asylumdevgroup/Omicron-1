@@ -1,0 +1,27 @@
+{
+	title: "Livingwood",
+	icon: "botania:livingwood",
+	x: -1.0d,
+	y: 5.5d,
+	text: [
+		"�o�oThis is the stuff Groot is made of",
+		"",
+		"�rJust like livingrock, livingwood is another Botania item that is used for crafting magical items. Much like wood, it can be turned into planks and sticks as well."
+	],
+	dependencies: [
+		"6d6b8a2e"
+	],
+	tasks: [{
+		uid: "725bdd06",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "livingwood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

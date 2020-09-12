@@ -1,0 +1,35 @@
+{
+	title: "Grout",
+	icon: "tconstruct:soil",
+	x: -0.5d,
+	y: 3.5d,
+	text: [
+		"The basis of a Tinkers' Smeltery, Groot is a tree-like creature from Guardians . . .",
+		"",
+		"Rather, grout is crafted with sand and gravel. When it is baked it forms seared bricks.",
+		"",
+		"Alternatively, you can smelt cobblestone in a smeltery and pour it an ingot cast to get seared bricks. This helps a lot when you're short on clay, sand, or gravel!"
+	],
+	dependencies: [
+		"7d65a21b"
+	],
+	tasks: [{
+		uid: "320c5463",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil 64"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "52441bc0",
+		type: "item",
+		item: "tconstruct:materials",
+		count: 64
+	},
+	{
+		uid: "b2b40031",
+		type: "item",
+		item: "tconstruct:cast_custom"
+	}]
+}

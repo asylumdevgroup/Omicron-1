@@ -1,0 +1,36 @@
+{
+	title: "Tool Forge",
+	icon: {
+		id: "tconstruct:toolforge",
+		tag: {
+			textureBlock: {
+				id: "minecraft:iron_block",
+				Count: 1,
+				Damage: 0
+			}
+		}
+	},
+	x: -3.75d,
+	y: 6.75d,
+	text: [
+		"It does everything a tool station does, but it can create even more tools. Need mob heads? There's a tool for that! Want to farm and attack with the same tool? There's a another tool for that!"
+	],
+	dependencies: [
+		"4b005e74"
+	],
+	tasks: [{
+		uid: "d1cfc1b2",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1,
+					Damage: 0
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Mana Pool",
+	icon: "botania:pool",
+	x: 2.75d,
+	y: 6.75d,
+	text: [
+		"It will hold a large amount of your mana for you. It is also used for other things, like the creation of mana pearls and manasteel ingots.",
+		"",
+		"It's kind of like a battery, but with mana instead of electricity."
+	],
+	dependencies: [
+		"7324e11f"
+	],
+	tasks: [{
+		uid: "6aa4b27e",
+		type: "item",
+		items: [{
+			item: "botania:pool"
+		}]
+	}]
+}

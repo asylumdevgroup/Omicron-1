@@ -1,0 +1,23 @@
+{
+	title: "Ender Pouch",
+	icon: "enderstorage:ender_pouch",
+	x: 1.5d,
+	y: 3.75d,
+	text: [
+		"Just like the ender chest you just finished completing, this has different channels too! But this is a backpack, which means you don't have to place it, open it, and break it. Just right click while it's in your hand and it opens!",
+		"",
+		"To set the colors of the pouch, first dye your ender chest. Then Shift+right click with the pouch on your chest and it will change to that color combo. . . that's what their wiki says anyways."
+	],
+	dependencies: [
+		"106b50a6"
+	],
+	tasks: [{
+		uid: "7b24a54a",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_pouch"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Gold Chest",
+	icon: "ironchest:iron_chest 1 1",
+	x: -1.75d,
+	y: 3.75d,
+	text: [
+		"This chest has 81 slots, 1.5 times more than that of a double chest. It is crafted with 8 gold ingots and an iron chest."
+	],
+	dependencies: [
+		"fe62a6e1"
+	],
+	tasks: [{
+		uid: "910fb4f6",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 1"
+		}]
+	}]
+}

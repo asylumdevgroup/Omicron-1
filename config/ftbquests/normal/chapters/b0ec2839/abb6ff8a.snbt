@@ -1,0 +1,79 @@
+{
+	title: "Empowerer",
+	icon: "actuallyadditions:block_empowerer",
+	x: 4.25d,
+	y: 8.5d,
+	text: [
+		"The Empowerer is a multiblock structure used to craft higher-tier reconstructed materials (Actually Additions components). To set up this machine, place the Empowerer block somewhere (this will be the center of the structure). Then, in each cardinal direction (North/South/East/West) place a Display Stand two blocks away. Then use wires or fluxducts to connect each Display Stand to power. Use JEI to see how to craft each individual item.",
+		"",
+		"You can further upgrade your Actually Additions Power Production using the Empowerer. Simply craft some Empowered Canola Seeds (See JEI) then toss them into placed Crystallized Oil (see the previous quest) to craft Empowered Oil, which generates more power per tick."
+	],
+	dependencies: [
+		"bacc0980"
+	],
+	tasks: [{
+		uid: "a9480ed5",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_empowerer"
+		}]
+	},
+	{
+		uid: "3606762d",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_display_stand 4"
+		}],
+		count: 4L
+	},
+	{
+		uid: "292e0ef5",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered"
+		}]
+	},
+	{
+		uid: "70b8d257",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 1"
+		}]
+	},
+	{
+		uid: "2c6616da",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 2"
+		}]
+	},
+	{
+		uid: "75589b1a",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 3"
+		}]
+	},
+	{
+		uid: "d2feb7c4",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 4"
+		}]
+	},
+	{
+		uid: "ac05c331",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 5"
+		}]
+	},
+	{
+		uid: "da9f439d",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 4 24"
+		}],
+		count: 4L
+	}]
+}

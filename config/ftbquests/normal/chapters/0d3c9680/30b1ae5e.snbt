@@ -1,0 +1,14 @@
+{
+	title: "The Decorative Branch",
+	icon: "minecraft:stonebrick",
+	x: -8.75d,
+	y: -0.5d,
+	text: [
+		"This series of quests focuses on aesthetics, so if you like building massive, beautiful creations, do these!"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "5fe1e40b",
+		type: "checkmark"
+	}]
+}

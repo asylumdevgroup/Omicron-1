@@ -1,0 +1,34 @@
+{
+	title: "Just Cowing around",
+	icon: "cookingforblockheads:cow_jar",
+	x: 8.25d,
+	y: 5.25d,
+	text: [
+		"So you have an anvil, a milk jar, and your cow ready to go... now what?",
+		"",
+		"Get your cow on top of your milk jar (and lock it in!) Place your anvil so that it smashes that poor cow into your jar. ",
+		"",
+		"",
+		"�oViola! Cow in a jar!"
+	],
+	dependencies: [
+		"08477f6b"
+	],
+	tasks: [{
+		uid: "94f911a9",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:cow_jar"
+		}]
+	}],
+	rewards: [{
+		uid: "e3d29ee9",
+		type: "item",
+		item: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:cow"
+			}
+		}
+	}]
+}

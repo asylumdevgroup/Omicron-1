@@ -1,0 +1,26 @@
+{
+	title: "Patterns",
+	icon: "tconstruct:pattern",
+	x: -3.0d,
+	y: 3.5d,
+	text: [
+		"These are used to create all sorts of tools in Tinkers' Smeltery. For now, make a few to get started. It's just planks and sticks, nbd."
+	],
+	dependencies: [
+		"7d65a21b"
+	],
+	tasks: [{
+		uid: "0c5769f9",
+		type: "item",
+		items: [{
+			item: "tconstruct:pattern 16"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "f2ca922e",
+		type: "item",
+		item: "harvestcraft:hotdogitem",
+		count: 16
+	}]
+}

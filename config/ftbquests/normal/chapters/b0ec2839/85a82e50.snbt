@@ -1,0 +1,27 @@
+{
+	title: "Water Power!",
+	icon: "immersiveengineering:wooden_device1",
+	x: 8.75d,
+	y: 2.5d,
+	text: [
+		"This structure generates power passively when water flows over water wheels, which must be attached to a Kinetic Dynamo.",
+		"",
+		"See the Engineer's Manual for more information."
+	],
+	dependencies: [
+		"a27f09b6"
+	],
+	tasks: [{
+		uid: "b4bf1666",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device1 3"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "34029cec",
+		type: "item",
+		item: "immersiveengineering:metal_device1 1 2"
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	title: "The Vanilla Journey",
+	icon: "minecraft:crafting_table",
+	description: [
+		"Welcome to ADG Omicron XII!! This quest book is meant to serve as a tutorial for those who may be new to Modded Minecraft. This chapter covers things you may already know, but also introduces the utility mods JEI and The One Probe, and the content mod Quark."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

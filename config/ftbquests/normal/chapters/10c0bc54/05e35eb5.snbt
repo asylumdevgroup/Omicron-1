@@ -1,0 +1,28 @@
+{
+	title: "A Bit Less Will",
+	icon: {
+		id: "bloodmagic:soul_gem",
+		tag: {},
+		Damage: 1s
+	},
+	x: -5.5d,
+	y: 5.0d,
+	text: [
+		"�oOr a bit more, the name is confusing me.",
+		"",
+		"�rSometimes a petty thing just isn't enough. This is like a bigger will wallet. (Mine's for bills, but whatever floats your boat)"
+	],
+	dependencies: [
+		"bfb5a595"
+	],
+	tasks: [{
+		uid: "75deaec2",
+		type: "item",
+		items: [{
+			id: "bloodmagic:soul_gem",
+			tag: {},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}]
+}

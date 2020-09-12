@@ -1,0 +1,30 @@
+{
+	title: "AE2: The Gathering",
+	icon: "appliedenergistics2:quartz_ore",
+	x: -4.5d,
+	y: 0.0d,
+	text: [
+		"Like a lot of other mods, this has its own resources that need to be collected. Certus quartz has three forms: regular, charged, and pure. Regular and charged are found naturally in the world, while pure has to be grown.",
+		"",
+		"Charged certus quartz ore is found semi-rarely in the world, but it's visible in the dark.",
+		"",
+		"",
+		"�nNote�r: Charged certus quartz's primary purpose in life is the creation of fluix. Please help it fulfill it's destiny. Regular certus quartz can be substituted in every other recipie."
+	],
+	tasks: [{
+		uid: "ff54ca82",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "654b913a",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 5 1"
+		}],
+		count: 5L
+	}]
+}

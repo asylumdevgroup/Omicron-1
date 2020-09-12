@@ -1,0 +1,13 @@
+{
+	title: "The Magical Journey",
+	icon: {
+		id: "botania:lexicon",
+		tag: {}
+	},
+	description: [
+		"You may think that after the last three chapters modded Minecraft is all technology. However, this is simply not the case. Magic exists too, in mods such as Blood Magic, and it combines with tech in mods like Embers and Botania. So get out there, and become a Master Archmage!!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

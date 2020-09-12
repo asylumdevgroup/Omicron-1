@@ -1,0 +1,59 @@
+{
+	title: "We Need to Go Deeper!",
+	icon: "minecraft:netherrack",
+	x: -6.5d,
+	y: 0.25d,
+	text: [
+		"The Nether holds some items that aren't available anywhere else, just like Vanilla. Get yourself a portal and jump in! While you're there, pick up some blaze rods. (You'll need them later!)"
+	],
+	dependencies: [
+		"54af6c78"
+	],
+	tasks: [{
+		uid: "c43f5263",
+		type: "dimension",
+		dim: -1
+	},
+	{
+		uid: "5d062df0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "obsidian",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "3731874d",
+		type: "item",
+		items: [{
+			item: "minecraft:flint_and_steel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "eed7edc6",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_rod 8"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "a819b75e",
+		type: "item",
+		item: "harvestcraft:deluxecheeseburgeritem",
+		count: 6
+	},
+	{
+		uid: "ca9ffc26",
+		type: "item",
+		item: "minecraft:nether_brick",
+		count: 16
+	}]
+}

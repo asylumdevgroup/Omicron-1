@@ -1,0 +1,29 @@
+{
+	title: "Pure Daisy",
+	icon: {
+		id: "botania:specialflower",
+		tag: {
+			type: "puredaisy"
+		}
+	},
+	x: 0.25d,
+	y: 4.25d,
+	text: [
+		"A magical flower that turns adjacent (including diagonal) stone and wood into their living varieties.",
+		"",
+		"Craft it with 4 white petals and water in the apothecary."
+	],
+	dependencies: [
+		"31947654"
+	],
+	tasks: [{
+		uid: "3955d302",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "puredaisy"
+			}
+		}]
+	}]
+}

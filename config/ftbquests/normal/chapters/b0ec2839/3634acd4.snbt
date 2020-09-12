@@ -1,0 +1,104 @@
+{
+	title: "Metal Press",
+	icon: "immersiveengineering:metal_multiblock",
+	x: 10.25d,
+	y: 5.5d,
+	text: [
+		"Need an easier way to make plates, gears, wires, and rods? Introducing the Metal Press! This multiblock structure, when given a Metal Press Mold for one of those four components, will produce them more efficiently, not wasting tool durabilities on your Hammer or Cutters!",
+		"",
+		"See the Engineer's Manual for more information and how to construct this Multiblock."
+	],
+	dependencies: [
+		"800d3f84"
+	],
+	tasks: [{
+		uid: "a2b6549b",
+		type: "item",
+		items: [{
+			item: "minecraft:piston"
+		}]
+	},
+	{
+		uid: "7dda29dd",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}]
+	},
+	{
+		uid: "d79e3dc2",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "a1d3b088",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "5855bb9d",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			Count: 2b,
+			tag: {
+				conveyorType: "immersiveengineering:conveyor"
+			}
+		}],
+		count: 2L
+	},
+	{
+		uid: "3fa37bf8",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "molds"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3d596d50",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:mold"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "eb1e54b7",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:mold 1 1"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cfb162e6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:mold 1 2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cc669ce6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:mold 1 4"
+		}],
+		ignore_nbt: 1b
+	}]
+}

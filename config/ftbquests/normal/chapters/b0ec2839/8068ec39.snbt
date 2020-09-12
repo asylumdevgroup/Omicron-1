@@ -1,0 +1,40 @@
+{
+	title: "Stencil Table",
+	icon: {
+		id: "tconstruct:tooltables",
+		tag: {
+			textureBlock: {
+				id: "minecraft:planks",
+				Count: 1,
+				Damage: 0
+			}
+		},
+		Damage: 1s
+	},
+	x: -3.0d,
+	y: 2.0d,
+	text: [
+		"Sorry, you can't draw here.",
+		"",
+		"This special table lets you change the stencils into different tool part stencils. Take these stencils and put them in the part builder to make parts of tools. It takes between 2 to 4 parts to create a tool (in the tool station)."
+	],
+	dependencies: [
+		"1f49ef8e"
+	],
+	tasks: [{
+		uid: "822908d5",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1,
+					Damage: 0
+				}
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}]
+}

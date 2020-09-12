@@ -1,0 +1,77 @@
+{
+	title: "Wires and Connectors",
+	icon: "immersiveengineering:wirecoil",
+	x: 10.25d,
+	y: 4.0d,
+	text: [
+		"Want to transfer power using something more realistic than fluxducts? Simply place down some connectors on your power inputs and outputs, then place a relay somewhere in between to connect them all together. Then, right click on a connector, then the relay. Repeat, and voila! Awesome wire-based power transfer! Just don't get too close to the wires though...",
+		"",
+		"See the Engineer's Manual for more information."
+	],
+	dependencies: [
+		"85a82e50"
+	],
+	tasks: [{
+		uid: "47b4cec4",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil"
+		}]
+	},
+	{
+		uid: "194b231d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 1"
+		}]
+	},
+	{
+		uid: "36d35dd9",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 2"
+		}]
+	},
+	{
+		uid: "7cc5ac43",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector"
+		}]
+	},
+	{
+		uid: "32b578c5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 2"
+		}]
+	},
+	{
+		uid: "43c7aa17",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 4"
+		}]
+	},
+	{
+		uid: "0f28a39e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 1"
+		}]
+	},
+	{
+		uid: "c33df173",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 3"
+		}]
+	},
+	{
+		uid: "4f8fe33b",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 5"
+		}]
+	}]
+}

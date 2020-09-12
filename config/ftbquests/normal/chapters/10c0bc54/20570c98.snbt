@@ -1,0 +1,34 @@
+{
+	title: "Terrasteel",
+	icon: "botania:manaresource 1 4",
+	x: 2.75d,
+	y: 10.5d,
+	text: [
+		"Now that you have the setup, just toss a mana pearl, mana diamond, and manasteel ingot onto the plate and wait...",
+		"",
+		"...",
+		"",
+		"",
+		"",
+		"...",
+		"",
+		"",
+		"Just a few more minutes and you should have this cooked up... Really."
+	],
+	dependencies: [
+		"46f445ed"
+	],
+	tasks: [{
+		uid: "52ea8eda",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 16 4"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "65a4fdd4",
+		type: "item",
+		item: "betterbuilderswands:wandunbreakable"
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Hemp",
+	icon: "immersiveengineering:seed",
+	x: 11.75d,
+	y: 0.75d,
+	text: [
+		"Hemp is a resource from Immersive Engineering used primarily to insulate wires, though can also be crafted into string. Hemp seeds can be found by breaking grass, just like regular wheat seeds."
+	],
+	dependencies: [
+		"e9480eed"
+	],
+	tasks: [{
+		uid: "5597721e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:seed"
+		}]
+	},
+	{
+		uid: "1bad6a74",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 4 4"
+		}],
+		count: 4L
+	}]
+}

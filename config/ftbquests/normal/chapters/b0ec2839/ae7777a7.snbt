@@ -1,0 +1,38 @@
+{
+	title: "Part Table",
+	icon: {
+		id: "tconstruct:tooltables",
+		tag: {
+			textureBlock: {
+				id: "minecraft:log",
+				Count: 1,
+				Damage: 0
+			}
+		},
+		Damage: 2s
+	},
+	x: -4.5d,
+	y: 3.0d,
+	text: [
+		"The part builder allows you to use your stencils and some material to create a part of a tool. See �oMaterials and You�r for a full list of part materials."
+	],
+	dependencies: [
+		"1f49ef8e"
+	],
+	tasks: [{
+		uid: "5752cf03",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1,
+					Damage: 0
+				}
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

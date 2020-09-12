@@ -1,0 +1,51 @@
+{
+	title: "Sawmill",
+	icon: {
+		id: "thermalexpansion:machine",
+		tag: {
+			RSControl: 0,
+			Facing: 3,
+			Energy: 0,
+			SideCache: [
+				3,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			Level: 0
+		},
+		Damage: 2s
+	},
+	x: -9.5d,
+	y: 1.75d,
+	text: [
+		"This machine gives extra wood products when it takes them apart. 1 log = 6 planks!?!?"
+	],
+	dependencies: [
+		"3d94882f"
+	],
+	tasks: [{
+		uid: "279dc6ab",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0,
+				Facing: 3,
+				Energy: 0,
+				SideCache: [
+					3,
+					1,
+					2,
+					2,
+					2,
+					2
+				],
+				Level: 0
+			},
+			Damage: 2s
+		}]
+	}]
+}

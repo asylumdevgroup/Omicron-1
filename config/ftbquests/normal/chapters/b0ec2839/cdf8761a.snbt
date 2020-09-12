@@ -1,0 +1,36 @@
+{
+	title: "A Faster Blast Furnace",
+	icon: "immersiveengineering:stone_decoration 1 2",
+	x: 8.75d,
+	y: 4.0d,
+	text: [
+		"Ever think your Blast Furnace is way too slow? Do you want to speed it up? Then use 27 Steel Plates (Crafted from Steel Ingots using the Engineer's Hammer) to upgrade it! However, there are a few more steps. The Blast Furnace Preheaters attached to the Multiblock must be powered. See the Engineer's Manual for how to construct the full structure."
+	],
+	dependencies: [
+		"85a82e50",
+		"2441bf0e"
+	],
+	tasks: [{
+		uid: "691900f2",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 27 2"
+		}],
+		count: 27L
+	},
+	{
+		uid: "3f7799f2",
+		type: "item",
+		items: [{
+			item: "minecraft:hopper"
+		}]
+	},
+	{
+		uid: "8c56e545",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 2"
+		}],
+		count: 2L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Get more wills",
+	icon: "bloodmagic:soul_forge",
+	x: -6.25d,
+	y: 1.75d,
+	text: [
+		"Those wills weren't enough. You feel the need for more. There must be a better way.",
+		"",
+		"Let's get a hellfire forge, and ramp up some production of wills."
+	],
+	dependencies: [
+		"8607a62e"
+	],
+	tasks: [{
+		uid: "2b8e29cd",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_forge"
+		}]
+	}]
+}

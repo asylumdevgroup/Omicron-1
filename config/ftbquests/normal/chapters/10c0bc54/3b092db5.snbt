@@ -1,0 +1,37 @@
+{
+	title: "Ember Storage and Transfer",
+	icon: "embers:ember_emitter",
+	x: -12.0d,
+	y: 4.25d,
+	text: [
+		"See the Ancient Codex for more information."
+	],
+	dependencies: [
+		"c04bcf42"
+	],
+	tasks: [{
+		uid: "2c13ced5",
+		type: "item",
+		items: [{
+			item: "embers:ember_emitter"
+		}]
+	},
+	{
+		uid: "025f34b7",
+		type: "item",
+		items: [{
+			item: "embers:ember_receiver"
+		}]
+	},
+	{
+		uid: "f14b7912",
+		type: "item",
+		items: [{
+			id: "embers:copper_cell",
+			tag: {
+				emberCapacity: 24000.0d,
+				ember: 0.0d
+			}
+		}]
+	}]
+}

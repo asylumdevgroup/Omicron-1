@@ -1,0 +1,20 @@
+{
+	title: "Melting Metals",
+	icon: "embers:block_furnace",
+	x: -12.75d,
+	y: 5.5d,
+	text: [
+		"See the Ancient Codex for more information."
+	],
+	dependencies: [
+		"3b092db5",
+		"600854a9"
+	],
+	tasks: [{
+		uid: "6cf642a7",
+		type: "item",
+		items: [{
+			item: "embers:block_furnace"
+		}]
+	}]
+}

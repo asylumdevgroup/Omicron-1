@@ -1,0 +1,28 @@
+{
+	title: "A Better Power",
+	icon: "actuallyadditions:block_wild",
+	x: 4.25d,
+	y: 4.0d,
+	text: [
+		"Canola you say?",
+		"",
+		"Yup, that oil that your mom cooks comes from a plant. Gather some of it, but we won't be using it for cooking."
+	],
+	dependencies: [
+		"3ec98359"
+	],
+	tasks: [{
+		uid: "d98b33fd",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 16 13"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "9615adb1",
+		type: "item",
+		item: "actuallyadditions:item_misc 1 13",
+		count: 16
+	}]
+}

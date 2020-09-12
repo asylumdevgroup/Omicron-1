@@ -1,0 +1,58 @@
+{
+	title: "Crusher",
+	icon: "immersiveengineering:material 1 17",
+	x: 11.75d,
+	y: 5.5d,
+	text: [
+		"This multiblock structure can grind materials into dusts. Be careful, for it also can grind players, and destroy their non-grindable items while grinding their grindable ones. Some Items, such as coke dust, require this machine.",
+		"",
+		"See the Engineer's Manual for more information and how to construct this Multiblock."
+	],
+	dependencies: [
+		"a0d95e76"
+	],
+	tasks: [{
+		uid: "1d09fd27",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "92fd8ef4",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "527ab45f",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 10 4"
+		}],
+		count: 10L
+	},
+	{
+		uid: "702536d9",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 8"
+		}],
+		count: 8L
+	},
+	{
+		uid: "285aaf87",
+		type: "item",
+		items: [{
+			item: "minecraft:hopper 9"
+		}],
+		count: 9L
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	title: "The Technological Journey I",
+	icon: "tconstruct:smeltery_controller",
+	description: [
+		"This chapter is based on technological and industrial mods. We will introduce \"Low-Tech\" mods such as Immersive Engineering and Tinkers' Construct, as well as Actually Additions as a gateway to higher-tech items. See Part II for \"High-Tech\" mods."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

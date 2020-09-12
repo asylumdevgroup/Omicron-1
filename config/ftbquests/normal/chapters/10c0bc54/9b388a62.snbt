@@ -1,0 +1,19 @@
+{
+	title: "Mana Pearl",
+	icon: "botania:manaresource 1 1",
+	x: 2.75d,
+	y: 8.0d,
+	text: [
+		"No Description"
+	],
+	dependencies: [
+		"27064ca7"
+	],
+	tasks: [{
+		uid: "521ea9e4",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 1"
+		}]
+	}]
+}

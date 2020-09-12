@@ -1,0 +1,35 @@
+{
+	title: "Processing Latex",
+	icon: "industrialforegoing:latex_processing_unit",
+	x: -2.0d,
+	y: 3.25d,
+	text: [
+		"Pipe the fluid latex into this machine, supply it with power, and it will solidify the latex into Tiny Dry Rubber. Craft 9 Tiny Dry Rubber into one Dry Rubber, and smelt it into Plastic.",
+		"",
+		"See the Industrial Foregoing Manual for more Information."
+	],
+	dependencies: [
+		"d992d98f"
+	],
+	tasks: [{
+		uid: "ebbe7769",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:latex_processing_unit"
+		}]
+	},
+	{
+		uid: "46f1f533",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:dryrubber"
+		}]
+	},
+	{
+		uid: "eab5835a",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:plastic"
+		}]
+	}]
+}

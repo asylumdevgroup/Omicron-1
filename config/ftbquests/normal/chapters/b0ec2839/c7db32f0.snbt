@@ -1,0 +1,19 @@
+{
+	title: "Energy Transfer",
+	icon: "thermaldynamics:duct_0",
+	x: 2.75d,
+	y: 2.5d,
+	text: [
+		"Power transfer in this pack is mainly through fluxducts. Early game, the easiest of these to create is the leadstone fluxduct. You need redstone, glass, and lead ingots. They don't transfer power very quickly, but they'll let you get to the next level."
+	],
+	dependencies: [
+		"f2b9d805"
+	],
+	tasks: [{
+		uid: "9a7c1cbe",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0"
+		}]
+	}]
+}

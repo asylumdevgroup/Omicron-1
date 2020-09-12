@@ -1,0 +1,36 @@
+{
+	title: "You're Gonna Need this",
+	icon: {
+		id: "botania:lexicon",
+		tag: {
+			knowledge.minecraft: 1,
+			knowledge.alfheim: 1,
+			knowledge.relic: 1
+		}
+	},
+	x: 0.25d,
+	y: 0.5d,
+	text: [
+		"Botania is a floral mod, but don't be tricked, these flowers can be nastly little buggers. With explosions, food, and magic, there's something for everyone!",
+		"",
+		"",
+		"For some mods, the authors will create an in-game explanation, often contained in a book. For Botania, this is incredibly helpful.",
+		"",
+		"",
+		"",
+		"�a�o�r�oPick up your copy of Lexica Botania today!"
+	],
+	tasks: [{
+		uid: "1d033d74",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "lexicaBotania",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

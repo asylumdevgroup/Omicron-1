@@ -1,0 +1,21 @@
+{
+	title: "JEI and The One Probe",
+	icon: "minecraft:crafting_table",
+	x: -11.0d,
+	y: 0.25d,
+	text: [
+		"In this modpack, we have two very important quality of life mods: Just Enough Items and The One Probe.",
+		"Just Enough Items is an item and recipe viewing mod. It is responsible for the item menu on the right side of your inventory. JEI�s features are achieved with keybinds. ",
+		"Pressing R will allow you to see all recipes for a specific item. Many items have multiple recipes, but some only have one. In the top right corner of some recipes you may see a small shuffle icon, this means the recipe is Shapeless and the items can be placed anywhere in the Crafting Grid. In the bottom right side of the recipe, you will see a + icon. Clicking it will, if you have the items in your inventory, move the items into the crafting grid for you for one recipe. Shift-clicking it will do the same but move the most items it can to make the most crafting recipes it can. If you don�t have the items in your inventory, it will tell what items you are currently missing.",
+		"Pressing U will allow you to find all uses for a specific item, as an example, if you hit U on an iron ingot, you will see the recipe for an Iron sword, chestplate, etc.",
+		"",
+		"The One Probe is a UI improvement mod that adds block information directly into the game for you, with an unobtrusive tooltip on the top of your screen. TOP will display information about what a block contains as well, if it is a chest or storage block, it will display that knowledge. If it is an RF-based machine, it will display the items inside, RF Storage, and the RF/t usage. If it a liquid storage block, known as a tank, it will display how many buckets of that liquid you have in the block."
+	],
+	dependencies: [
+		"c93eeeca"
+	],
+	tasks: [{
+		uid: "ecdb417c",
+		type: "checkmark"
+	}]
+}

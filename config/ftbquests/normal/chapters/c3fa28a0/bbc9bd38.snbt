@@ -1,0 +1,26 @@
+{
+	title: "Old MacDonald",
+	icon: "minecraft:stone_hoe",
+	x: -9.5d,
+	y: 1.75d,
+	text: [
+		"Sometimes when we give you a reward for completing a quest, you'll see that there is a 'Choice Reward'. This means that you need to click one of the items to receive before clicking 'Claim'. Then you'll get your item that you selected."
+	],
+	dependencies: [
+		"6ee9f609"
+	],
+	tasks: [{
+		uid: "4a6c42bb",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "775e78a1",
+		type: "choice",
+		table: 1
+	}]
+}

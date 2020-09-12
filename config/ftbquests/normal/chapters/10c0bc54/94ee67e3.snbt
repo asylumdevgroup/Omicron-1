@@ -1,0 +1,29 @@
+{
+	title: "One Sword to Kill them All",
+	icon: {
+		id: "bloodmagic:sentient_sword",
+		tag: {}
+	},
+	x: -7.0d,
+	y: 5.0d,
+	text: [
+		"The whole will collecting process is becoming quite bothersome. Let's ramp things up a bit.",
+		"",
+		"Put a Petty Tartaric Gem and an iron sword into a Hellfire Furnace to get a Sentient sword. It's so sentient that this sword will convice the other wills to join forces with it in a spectacular bout of wit.",
+		"",
+		"Or more simply, it always gets wills from mobs you kill with it, and stores them for you."
+	],
+	dependencies: [
+		"bfb5a595"
+	],
+	tasks: [{
+		uid: "157c0a15",
+		type: "item",
+		items: [{
+			id: "bloodmagic:sentient_sword",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

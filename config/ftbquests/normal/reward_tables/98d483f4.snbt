@@ -1,0 +1,12 @@
+{
+	title: "Iron and Diamonds",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:cooked_porkchop",
+		count: 8
+	},
+	{
+		item: "minecraft:cooked_beef",
+		count: 8
+	}]
+}

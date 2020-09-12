@@ -1,0 +1,19 @@
+{
+	title: "Pattern Chest",
+	icon: "tconstruct:tooltables 1 4",
+	x: -2.25d,
+	y: 5.0d,
+	text: [
+		"All those pesky patterns are going to get annoying quickly. This handy chest will hold them for you and be seen if it touches the other tables. Just don't try put anything else in there."
+	],
+	dependencies: [
+		"1f49ef8e"
+	],
+	tasks: [{
+		uid: "ea4eff6e",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 4"
+		}]
+	}]
+}

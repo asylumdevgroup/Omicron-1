@@ -1,0 +1,29 @@
+{
+	title: "Mana Diamond",
+	icon: "botania:manaresource 1 2",
+	x: 1.5d,
+	y: 8.0d,
+	text: [
+		"Yup, you'll need to toss some diamonds (into a �mlava�r�r�r �r�rmana pool).",
+		"",
+		"It's kinda fun isn't it? Oh, just fun for me? ",
+		"",
+		"",
+		"                     >:)"
+	],
+	dependencies: [
+		"27064ca7"
+	],
+	tasks: [{
+		uid: "ba0df757",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "93580542",
+		type: "item",
+		item: "botania:manaresource 1 2"
+	}]
+}

@@ -1,0 +1,58 @@
+{
+	title: "The Gathering: Nether",
+	icon: "minecraft:soul_sand",
+	x: -6.5d,
+	y: 1.75d,
+	text: [
+		"The Nether Provides a vast array of resources that are not available in the overworld. How about you go gather some of them?"
+	],
+	dependencies: [
+		"409ff985"
+	],
+	tasks: [{
+		uid: "a3460510",
+		type: "item",
+		items: [{
+			item: "minecraft:netherrack"
+		}],
+		count: 128L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2cc90fdb",
+		type: "item",
+		items: [{
+			item: "minecraft:soul_sand 64"
+		}],
+		count: 64L
+	},
+	{
+		uid: "43e9c12d",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone_dust 64"
+		}],
+		count: 64L
+	},
+	{
+		uid: "c8d42beb",
+		type: "item",
+		items: [{
+			item: "minecraft:quartz 64"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "5700da76",
+		type: "item",
+		item: "harvestcraft:pbandjitem",
+		count: 8
+	},
+	{
+		uid: "cb84ffef",
+		type: "item",
+		item: "minecraft:nether_brick",
+		count: 32
+	}]
+}

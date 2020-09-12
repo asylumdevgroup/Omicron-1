@@ -1,0 +1,74 @@
+{
+	title: "Stone Age",
+	icon: "minecraft:cobblestone",
+	x: -9.5d,
+	y: 0.25d,
+	text: [
+		"Collect some cobble and make some tools. Tools to make tools that make tools . . ."
+	],
+	dependencies: [
+		"06c030dd"
+	],
+	tasks: [{
+		uid: "5aa5b643",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone 32"
+		}],
+		count: 32L
+	},
+	{
+		uid: "4da20309",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8e429ca5",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "efc9dbd7",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7f3b7d86",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e65d5809",
+		type: "item",
+		item: "minecraft:planks",
+		count: 32
+	},
+	{
+		uid: "0d1cb078",
+		type: "item",
+		item: "minecraft:torch",
+		count: 16
+	},
+	{
+		uid: "544a41fc",
+		type: "item",
+		item: "minecraft:cooked_chicken",
+		count: 8
+	}]
+}

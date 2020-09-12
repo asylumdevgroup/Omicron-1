@@ -1,0 +1,19 @@
+{
+	title: "Manufactory",
+	icon: "nuclearcraft:manufactory_idle",
+	x: 3.0d,
+	y: 1.75d,
+	text: [
+		"This machine is used to create crushed Coal and Quartz, as well as Graphite Dust, all of which are important components in this mod."
+	],
+	dependencies: [
+		"c0ff101a"
+	],
+	tasks: [{
+		uid: "6333e8c1",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:manufactory_idle"
+		}]
+	}]
+}

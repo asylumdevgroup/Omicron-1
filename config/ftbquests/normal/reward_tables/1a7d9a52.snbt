@@ -1,0 +1,12 @@
+{
+	title: "Old MacDonald",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:carrot",
+		count: 16
+	},
+	{
+		item: "minecraft:potato",
+		count: 16
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Creepers Be Gone!",
+	icon: "ironchest:iron_chest 1 6",
+	x: -2.5d,
+	y: 6.75d,
+	text: [
+		"This chest can hold just as much as the Diamond Chest, but also has the advantage of being Blast-Resistant, so those pesky creepers cannot damage it at all."
+	],
+	dependencies: [
+		"834c2312"
+	],
+	tasks: [{
+		uid: "589081a5",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 6"
+		}]
+	}]
+}

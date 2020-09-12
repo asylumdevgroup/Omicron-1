@@ -1,0 +1,55 @@
+{
+	title: "Pulverizer",
+	icon: {
+		id: "thermalexpansion:machine",
+		tag: {
+			RSControl: 0,
+			Facing: 3,
+			Energy: 0,
+			SideCache: [
+				3,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			Level: 0
+		},
+		Damage: 1s
+	},
+	x: -8.0d,
+	y: 1.75d,
+	text: [
+		"It does exactly what you might expect: pulverizes things.",
+		"",
+		"The pulverizer can be used an ore doubler in combination with a furnace. For example, pulverizing iron ore will give you 2 pulverized iron. Smelting the pulverized iron will give you an ingot.",
+		"",
+		"Pulverized items can be used for other thing too, though. Like hardened glass. Pulverizing wool gives you string back, concrete turns back into powder, the list goes on and on and on."
+	],
+	dependencies: [
+		"3d94882f"
+	],
+	tasks: [{
+		uid: "68149595",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0,
+				Facing: 3,
+				Energy: 0,
+				SideCache: [
+					3,
+					1,
+					2,
+					2,
+					2,
+					2
+				],
+				Level: 0
+			},
+			Damage: 1s
+		}]
+	}]
+}

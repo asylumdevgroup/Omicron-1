@@ -1,0 +1,19 @@
+{
+	title: "Oooh, Transparent!",
+	icon: "ironchest:iron_chest 1 5",
+	x: -1.0d,
+	y: 6.75d,
+	text: [
+		"This chest, which holds 108 slots just like the diamond chest, allows you to view what is contained inside, without even opening it! Pretty cool, huh?"
+	],
+	dependencies: [
+		"834c2312"
+	],
+	tasks: [{
+		uid: "d3268408",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 5"
+		}]
+	}]
+}

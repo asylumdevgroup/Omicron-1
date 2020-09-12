@@ -1,0 +1,21 @@
+{
+	title: "Chisel",
+	icon: "chisel:chisel_iron",
+	x: -8.25d,
+	y: 2.25d,
+	text: [
+		"This chisel, from the mod Chisel, not to be confused with Chisel and Bits, changes the texture of over 125 blocks to variants of itself. It can make stone look like stone bricks, magma turn blue, and so much more. Either right click the air to open a menu or right click a block in-game to see what variants there are."
+	],
+	dependencies: [
+		"30b1ae5e"
+	],
+	tasks: [{
+		uid: "389b2735",
+		type: "item",
+		items: [{
+			item: "chisel:chisel_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

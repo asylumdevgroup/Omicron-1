@@ -1,0 +1,21 @@
+{
+	title: "Extracting Latex",
+	icon: "industrialforegoing:tree_fluid_extractor",
+	x: -2.0d,
+	y: 1.75d,
+	text: [
+		"Place this block facing a wood log, and it will slowly break the log, collecting latex in the process. It is recommended to make four of these, one for each side of the log.",
+		"",
+		"See the Industrial Foregoing Manual for more Information."
+	],
+	dependencies: [
+		"e86a4e94"
+	],
+	tasks: [{
+		uid: "47076921",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:tree_fluid_extractor"
+		}]
+	}]
+}

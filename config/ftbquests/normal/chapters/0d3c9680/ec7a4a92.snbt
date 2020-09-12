@@ -1,0 +1,107 @@
+{
+	title: "Decoration",
+	icon: "chisel:factory 1 6",
+	x: -7.5d,
+	y: 3.75d,
+	text: [
+		"�rThese are some interesting variants of Chisel's blocks. See if you chisel them!"
+	],
+	dependencies: [
+		"e71223e9"
+	],
+	tasks: [{
+		uid: "883d4962",
+		type: "item",
+		items: [{
+			item: "chisel:antiblock 16 15"
+		}],
+		count: 16L
+	},
+	{
+		uid: "d394742f",
+		type: "item",
+		items: [{
+			item: "chisel:factory 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "8be073f7",
+		type: "item",
+		items: [{
+			item: "chisel:futura 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "c20544d8",
+		type: "item",
+		items: [{
+			item: "chisel:laboratory 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "d832442c",
+		type: "item",
+		items: [{
+			item: "chisel:lavastone 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "768d7acd",
+		type: "item",
+		items: [{
+			item: "chisel:temple 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "ddfbae50",
+		type: "item",
+		items: [{
+			item: "chisel:templemossy 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "a03f1228",
+		type: "item",
+		items: [{
+			item: "chisel:tyrian 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "1d74af3f",
+		type: "item",
+		items: [{
+			item: "chisel:valentines 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "cefe4e3e",
+		type: "item",
+		items: [{
+			item: "chisel:voidstone"
+		}]
+	},
+	{
+		uid: "02dccdb1",
+		type: "item",
+		items: [{
+			item: "chisel:energizedvoidstone 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "3a88abd2",
+		type: "item",
+		items: [{
+			item: "chisel:voidstonerunic 16"
+		}],
+		count: 16L
+	}]
+}

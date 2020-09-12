@@ -1,0 +1,21 @@
+{
+	title: "Resonant Fluxduct",
+	icon: "thermaldynamics:duct_0 1 4",
+	x: 2.75d,
+	y: 8.5d,
+	text: [
+		"Super powered!",
+		"",
+		"Upgrade you signalum fluxducts with more redstone and some enderium, or upgrade you empty ones and then fill these."
+	],
+	dependencies: [
+		"eed9ba09"
+	],
+	tasks: [{
+		uid: "72a4474f",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0 1 4"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Collecting Ember",
+	icon: "embers:ember_bore",
+	x: -12.75d,
+	y: 1.75d,
+	text: [
+		"See the Ancient Codex for more information. (Hey, I'm still fairly new to this mod, so it'll probably do a better job of explaning things than I will)"
+	],
+	dependencies: [
+		"be3ea004"
+	],
+	tasks: [{
+		uid: "627f5092",
+		type: "item",
+		items: [{
+			item: "embers:ember_bore"
+		}]
+	},
+	{
+		uid: "2a631871",
+		type: "item",
+		items: [{
+			item: "embers:mech_core"
+		}]
+	}]
+}

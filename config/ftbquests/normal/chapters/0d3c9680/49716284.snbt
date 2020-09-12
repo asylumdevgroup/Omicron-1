@@ -1,0 +1,42 @@
+{
+	title: "The Gathering: Chisel",
+	icon: "chisel:marble2 1 7",
+	x: -9.0d,
+	y: 3.75d,
+	text: [
+		"These blocks from Chisel are great for building and chiseling with."
+	],
+	dependencies: [
+		"e71223e9"
+	],
+	tasks: [{
+		uid: "1659a90f",
+		type: "item",
+		items: [{
+			item: "chisel:marble2 1 7"
+		}],
+		count: 128L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "be126ec9",
+		type: "item",
+		items: [{
+			item: "chisel:limestone2 1 7"
+		}],
+		count: 128L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4e7c7e83",
+		type: "item",
+		items: [{
+			item: "chisel:basalt2 1 7"
+		}],
+		count: 128L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

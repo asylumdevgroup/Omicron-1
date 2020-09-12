@@ -1,0 +1,22 @@
+{
+	title: "Immersive Engineering",
+	icon: "immersiveengineering:tool",
+	x: 7.25d,
+	y: 0.75d,
+	text: [
+		"Immersive Engineering is a tech mod focused around multiblock machines, complex automation, and more! First you will need to craft an engineer's hammer, which is used to form completed multiblock machines and craft plates."
+	],
+	tasks: [{
+		uid: "46e21cff",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:tool"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9558676d",
+		type: "item",
+		item: "immersiveengineering:tool 1 3"
+	}]
+}

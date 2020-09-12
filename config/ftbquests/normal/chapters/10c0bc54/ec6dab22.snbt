@@ -1,0 +1,28 @@
+{
+	title: "Gotta Hold them All!",
+	icon: {
+		id: "bloodmagic:soul_gem",
+		tag: {},
+		Damage: 4s
+	},
+	x: -5.5d,
+	y: 9.5d,
+	text: [
+		"�oFinally, I can have them! All of them! They all belong to me!",
+		"",
+		"�rI don't even know what you want this for. Can you seriously get this many?"
+	],
+	dependencies: [
+		"8829332f"
+	],
+	tasks: [{
+		uid: "0e82c604",
+		type: "item",
+		items: [{
+			id: "bloodmagic:soul_gem",
+			tag: {},
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}]
+}

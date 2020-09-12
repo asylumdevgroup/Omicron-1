@@ -1,0 +1,54 @@
+{
+	title: "Phytogenic Insolator",
+	icon: {
+		id: "thermalexpansion:machine",
+		tag: {
+			RSControl: 0,
+			Facing: 3,
+			Energy: 0,
+			SideCache: [
+				3,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			Level: 0
+		},
+		Damage: 4s
+	},
+	x: -11.0d,
+	y: 1.75d,
+	text: [
+		"Isn't farming boring? Do you wish a machine would do it for you?",
+		"",
+		"Now it does. This machine takes Phyto-gro, your favorite plant, sunlight, and RF."
+	],
+	dependencies: [
+		"409ff985",
+		"3d94882f"
+	],
+	tasks: [{
+		uid: "1c23c9dc",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0,
+				Facing: 3,
+				Energy: 0,
+				SideCache: [
+					3,
+					1,
+					2,
+					2,
+					2,
+					2
+				],
+				Level: 0
+			},
+			Damage: 4s
+		}]
+	}]
+}

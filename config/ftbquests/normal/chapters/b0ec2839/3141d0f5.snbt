@@ -1,0 +1,79 @@
+{
+	title: "Squeezer",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "seed_oil",
+			Amount: 1000
+		}
+	},
+	x: 10.25d,
+	y: 7.0d,
+	text: [
+		"This Multiblock can be used both to produce seed oil from seeds (A Step in Biodiesel Power), and to compress Coke Dust into HOP Graphite (Used in the Arc Furnace).",
+		"",
+		"See the Engineer's Manual for more information and how to construct this Multiblock."
+	],
+	dependencies: [
+		"a0d95e76"
+	],
+	tasks: [{
+		uid: "7582841a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "033c2cb3",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 2 6"
+		}],
+		count: 2L
+	},
+	{
+		uid: "ddd27ee9",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "0603ff21",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 2 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "a192025e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 4 1"
+		}],
+		count: 4L
+	},
+	{
+		uid: "44a3076a",
+		type: "item",
+		items: [{
+			item: "minecraft:piston"
+		}]
+	},
+	{
+		uid: "8827ba70",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 3"
+		}],
+		count: 3L
+	}]
+}

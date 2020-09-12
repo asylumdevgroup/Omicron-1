@@ -1,0 +1,54 @@
+{
+	title: "Stamping",
+	icon: "embers:stamper",
+	x: -12.75d,
+	y: 8.0d,
+	text: [
+		"See the Ancient Codex for more information."
+	],
+	dependencies: [
+		"5130baac"
+	],
+	tasks: [{
+		uid: "d1d1aa09",
+		type: "item",
+		items: [{
+			item: "embers:stamper"
+		}]
+	},
+	{
+		uid: "7a645841",
+		type: "item",
+		items: [{
+			item: "embers:stamper_base"
+		}]
+	},
+	{
+		uid: "9164c438",
+		type: "item",
+		items: [{
+			item: "embers:stamp_bar"
+		}]
+	},
+	{
+		uid: "a0e084e8",
+		type: "item",
+		items: [{
+			item: "embers:stamp_plate"
+		}]
+	},
+	{
+		uid: "6b893bdb",
+		type: "item",
+		items: [{
+			item: "embers:stamp_flat"
+		}]
+	},
+	{
+		uid: "a634f33c",
+		type: "item",
+		items: [{
+			item: "embers:stamp_gear"
+		}]
+	}]
+}

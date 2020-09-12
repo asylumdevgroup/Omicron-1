@@ -1,0 +1,52 @@
+{
+	title: "Inscription",
+	icon: "appliedenergistics2:inscriber",
+	x: -4.5d,
+	y: 3.25d,
+	text: [
+		"The inscriber is the basis of AE2. To use it, however, you'll need to go hunting. You need to find the 4 presses. These allow the inscriber to press gold, silicon, diamonds, and certus quartz crystals into different mechanical parts.",
+		"",
+		"To get these presses, you need to wander the surface and look for large areas of earth that have been blown away by large astroids of Sky Stone. To break the sky stone, you'll need at least a diamond pickaxe. (I hope you made a decent pick from Tinkers'!)",
+		"",
+		"",
+		"���rA note from your friend: �r�oYou should make the slime sling and slime boots. Trust me, they help in long distance travel!"
+	],
+	dependencies: [
+		"88967d2f"
+	],
+	tasks: [{
+		uid: "3d19c12b",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:inscriber"
+		}]
+	},
+	{
+		uid: "d120add4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 19"
+		}]
+	},
+	{
+		uid: "67398335",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 15"
+		}]
+	},
+	{
+		uid: "6e3fa2de",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 14"
+		}]
+	},
+	{
+		uid: "dc2e8d05",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 13"
+		}]
+	}]
+}

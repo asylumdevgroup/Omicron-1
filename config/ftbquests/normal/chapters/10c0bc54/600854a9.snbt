@@ -1,0 +1,19 @@
+{
+	title: "Ember Activation",
+	icon: "embers:ember_activator",
+	x: -13.5d,
+	y: 4.25d,
+	text: [
+		"See the Ancient Codex for more information."
+	],
+	dependencies: [
+		"c04bcf42"
+	],
+	tasks: [{
+		uid: "c961f477",
+		type: "item",
+		items: [{
+			item: "embers:ember_activator"
+		}]
+	}]
+}

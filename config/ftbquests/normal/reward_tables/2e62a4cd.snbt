@@ -1,0 +1,12 @@
+{
+	title: "A Little Tinkering",
+	loot_size: 1,
+	rewards: [{
+		item: "harvestcraft:pumpkinbreaditem",
+		count: 16
+	},
+	{
+		item: "harvestcraft:banananutbreaditem",
+		count: 16
+	}]
+}

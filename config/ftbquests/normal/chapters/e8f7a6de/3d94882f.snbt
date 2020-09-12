@@ -1,0 +1,29 @@
+{
+	title: "Frames",
+	icon: "thermalexpansion:frame",
+	x: -9.5d,
+	y: 0.0d,
+	text: [
+		"Machine and device frames are the basis of Thermal Expansion.",
+		"",
+		"Machines are made with a machine frame and use energy (called RF) to manipulate items and fluids.",
+		"",
+		"Devices are made with device frames and manipulate items and fluids without energy."
+	],
+	tasks: [{
+		uid: "756df160",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bacd3631",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame 1 64"
+		}],
+		ignore_nbt: 1b
+	}]
+}

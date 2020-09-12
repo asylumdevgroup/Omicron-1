@@ -1,0 +1,19 @@
+{
+	title: "Tool Station",
+	icon: "tconstruct:tooltables 1 3",
+	x: -3.75d,
+	y: 5.0d,
+	text: [
+		"Build this to be able to put your tools together!"
+	],
+	dependencies: [
+		"1f49ef8e"
+	],
+	tasks: [{
+		uid: "222f1b22",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 3"
+		}]
+	}]
+}

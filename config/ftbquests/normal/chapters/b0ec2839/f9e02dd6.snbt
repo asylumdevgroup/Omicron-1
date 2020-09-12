@@ -1,0 +1,41 @@
+{
+	title: "HOP Graphite",
+	icon: "immersiveengineering:material 1 19",
+	x: 11.75d,
+	y: 7.0d,
+	text: [
+		"HOP Graphite, made from squeezed Coke Dust (Coal Coke in the Crusher), is used in the Engineer's Workbench to Craft Graphite Electrodes, which are used to heat the Arc Furnace.",
+		"",
+		"See the Engineer's Manual for more information."
+	],
+	dependencies: [
+		"3141d0f5",
+		"97458a6c"
+	],
+	tasks: [{
+		uid: "99dffbee",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 4 18"
+		}],
+		count: 4L
+	},
+	{
+		uid: "483428d5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 4 19"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "0f3b6fb8",
+		type: "item",
+		item: {
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "electrode"
+			}
+		}
+	}]
+}

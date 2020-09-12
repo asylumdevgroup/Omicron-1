@@ -1,0 +1,27 @@
+{
+	title: "The End O Flame",
+	icon: {
+		id: "botania:specialflower",
+		tag: {
+			type: "endoflame"
+		}
+	},
+	x: -1.25d,
+	y: 3.0d,
+	text: [
+		"A great starter to mana production, the endoflame burns dropped fuel that is within its reach. A block of coal will last longer than a piece, but be wary because each item only lasts so long. After the equivelent of 288 items being smelted in a furnace, the fuel is consumed."
+	],
+	dependencies: [
+		"31947654"
+	],
+	tasks: [{
+		uid: "c58a7879",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "endoflame"
+			}
+		}]
+	}]
+}

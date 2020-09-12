@@ -1,0 +1,19 @@
+{
+	title: "Snare that will",
+	icon: "bloodmagic:soul_snare",
+	x: -7.0d,
+	y: 0.25d,
+	text: [
+		"You have a dark feeling. You need someone's will.",
+		"",
+		"",
+		"Throw this item at a dying monster. When you see white particles, finish them off to gain their will."
+	],
+	tasks: [{
+		uid: "bb82bde3",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_snare"
+		}]
+	}]
+}

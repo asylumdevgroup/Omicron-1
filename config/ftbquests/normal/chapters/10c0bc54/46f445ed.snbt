@@ -1,0 +1,46 @@
+{
+	title: "It's an Agglomeration!",
+	icon: "botania:terraplate",
+	x: 2.75d,
+	y: 9.25d,
+	text: [
+		"�o�l�o�o�r�l�nThe Ultimate Botanic Metal: Terrasteel",
+		"",
+		"�r�oIt's so difficult, it takes two quests!",
+		"",
+		"�rSo to set this up, you'll need to arrange these blocks in a 3x3 checker board pattern with the Agglomeration plate on top of the central block of living stone. Then collect all the mana you can, cause this takes a ton of mana (about half a pool per ingot)."
+	],
+	dependencies: [
+		"9b388a62",
+		"41a038d3",
+		"2ef3c788"
+	],
+	tasks: [{
+		uid: "cdc693b3",
+		type: "item",
+		items: [{
+			item: "botania:terraplate"
+		}]
+	},
+	{
+		uid: "2078d895",
+		type: "item",
+		items: [{
+			item: "minecraft:lapis_block 4"
+		}],
+		count: 4L
+	},
+	{
+		uid: "7c81276f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "livingrock",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Stop, you animal!",
+	icon: {
+		id: "botania:specialflower",
+		tag: {
+			type: "medumone"
+		}
+	},
+	x: -1.25d,
+	y: 4.25d,
+	text: [
+		"�oAlternately, 'You Shall Not Pass!', but that's overused.",
+		"",
+		"�rThis flower gives all other mobs (non-player) a slow effect when they are in a short radius of the flower."
+	],
+	dependencies: [
+		"31947654"
+	],
+	tasks: [{
+		uid: "7c388439",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "medumone"
+			}
+		}]
+	}]
+}

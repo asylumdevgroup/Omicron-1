@@ -1,0 +1,23 @@
+{
+	title: "The Storage Branch",
+	icon: "minecraft:chest",
+	x: -1.0d,
+	y: -0.5d,
+	text: [
+		"Storage is a concept that becomes even more important in Modded Minecraft, as there is a much wider variety of items to store. This Quest Branch will cover the various options available for storage."
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "cd462ec9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "chestWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

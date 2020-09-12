@@ -1,0 +1,54 @@
+{
+	title: "Magma Crucible",
+	icon: {
+		id: "thermalexpansion:machine",
+		tag: {
+			RSControl: 0,
+			Facing: 3,
+			Energy: 0,
+			SideCache: [
+				1,
+				1,
+				2,
+				2,
+				2,
+				2
+			],
+			Level: 0
+		},
+		Damage: 6s
+	},
+	x: -6.75d,
+	y: 5.0d,
+	text: [
+		"This machine uses energy to melt items into fluids.",
+		"",
+		"It even makes lava. Ooooh, ahhhh."
+	],
+	dependencies: [
+		"f8107fc4",
+		"409ff985"
+	],
+	tasks: [{
+		uid: "650da099",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0,
+				Facing: 3,
+				Energy: 0,
+				SideCache: [
+					1,
+					1,
+					2,
+					2,
+					2,
+					2
+				],
+				Level: 0
+			},
+			Damage: 6s
+		}]
+	}]
+}

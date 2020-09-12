@@ -1,0 +1,19 @@
+{
+	title: "Isotope Separator",
+	icon: "nuclearcraft:isotope_separator_idle",
+	x: 3.0d,
+	y: 4.75d,
+	text: [
+		"This Machine takes Radioactive Materials, and breaks them down into various forms called Isotopes. Some of these Isotopes can be used as fuel for your fission reactor."
+	],
+	dependencies: [
+		"f6d83eef"
+	],
+	tasks: [{
+		uid: "67bc5f53",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:isotope_separator_idle"
+		}]
+	}]
+}

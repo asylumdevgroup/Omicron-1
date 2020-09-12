@@ -1,0 +1,86 @@
+{
+	title: "Cooking Tools",
+	icon: "harvestcraft:potitem",
+	x: 6.75d,
+	y: 3.75d,
+	text: [
+		"Lots of food from Pam's Harvest requires special tools for cooking things. This is a list of the tools that you can use to get bigger and better food items.",
+		"",
+		"�oYum!"
+	],
+	dependencies: [
+		"637ca0aa"
+	],
+	tasks: [{
+		uid: "e37ceb57",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cuttingboarditem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c400164c",
+		type: "item",
+		items: [{
+			item: "harvestcraft:potitem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8b9fec71",
+		type: "item",
+		items: [{
+			item: "harvestcraft:skilletitem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a5300bc6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:saucepanitem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b4b04b41",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bakewareitem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c66739bc",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mortarandpestleitem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "351759b1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mixingbowlitem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0d80c4fd",
+		type: "item",
+		items: [{
+			item: "harvestcraft:juiceritem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

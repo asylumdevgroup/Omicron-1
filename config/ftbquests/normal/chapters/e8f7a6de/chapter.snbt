@@ -1,0 +1,10 @@
+{
+	title: "The Technological Journey II",
+	icon: "thermalexpansion:frame",
+	description: [
+		"Now that you've learned some \"low-tech\" mods, we will introduce some \"High-tech\" mods such as Thermal Expansion, NuclearCraft, Industrial Foregoing, and AE2."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

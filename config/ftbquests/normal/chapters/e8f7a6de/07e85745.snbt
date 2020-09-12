@@ -1,0 +1,23 @@
+{
+	title: "Quartz Grindstone",
+	icon: "appliedenergistics2:grindstone",
+	x: -6.75d,
+	y: 0.0d,
+	text: [
+		"The Quartz grindstone is a manual grinder. After building it, you'll need to attach a wooden crank to the top of the machine. Press and hold your right mouse button to start grinding."
+	],
+	tasks: [{
+		uid: "f6184fce",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:grindstone"
+		}]
+	},
+	{
+		uid: "ce2e276c",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crank"
+		}]
+	}]
+}

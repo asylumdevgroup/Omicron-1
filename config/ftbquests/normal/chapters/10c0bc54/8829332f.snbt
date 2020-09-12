@@ -1,0 +1,26 @@
+{
+	title: "Well this is just Great",
+	icon: {
+		id: "bloodmagic:soul_gem",
+		tag: {},
+		Damage: 3s
+	},
+	x: -5.5d,
+	y: 8.0d,
+	text: [
+		"I think the title says it all."
+	],
+	dependencies: [
+		"0d605d55"
+	],
+	tasks: [{
+		uid: "be649c80",
+		type: "item",
+		items: [{
+			id: "bloodmagic:soul_gem",
+			tag: {},
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,47 @@
+{
+	title: "Fission Reactor",
+	icon: "nuclearcraft:fission_controller_new_idle",
+	x: 1.5d,
+	y: 4.75d,
+	text: [
+		"After Acquiring a lot of resources and going through long processing chains, you are finally ready to make your first reactor! These five components are essential for any efficient and safe reactor. NOTE: Only one of each component is required for this quest, but with the sole exception of the controller, you will need more than one, but the amount depends on how big you make your reactor."
+	],
+	dependencies: [
+		"31607e91"
+	],
+	tasks: [{
+		uid: "f8c985da",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_controller_new_idle"
+		}]
+	},
+	{
+		uid: "77a5908e",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_block"
+		}]
+	},
+	{
+		uid: "6a3be816",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:cell_block"
+		}]
+	},
+	{
+		uid: "a8d74f09",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ingot_block 1 8"
+		}]
+	},
+	{
+		uid: "adc5fe29",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:cooler"
+		}]
+	}]
+}

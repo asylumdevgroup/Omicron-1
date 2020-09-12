@@ -1,0 +1,37 @@
+{
+	title: "Mob Farming",
+	icon: "industrialforegoing:mob_duplicator",
+	x: -0.5d,
+	y: 3.25d,
+	text: [
+		"The Mob Crusher kills mobs at the cost of power, producing Essence, which is used in a Mob Duplicator to spawn mobs. The Mob Duplicator also requires that the mob you want to spawn be captured by right-clicking it with a Mob Imprisonment Tool.",
+		"",
+		"See the Industrial Foregoing Manual for more Information."
+	],
+	dependencies: [
+		"e29c0529"
+	],
+	tasks: [{
+		uid: "391294f3",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_relocator"
+		}]
+	},
+	{
+		uid: "3819c718",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_duplicator"
+		}]
+	},
+	{
+		uid: "441edc0a",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_imprisonment_tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

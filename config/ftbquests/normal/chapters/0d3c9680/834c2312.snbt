@@ -1,0 +1,19 @@
+{
+	title: "Even More Storage!",
+	icon: "ironchest:iron_chest 1 2",
+	x: -1.75d,
+	y: 5.25d,
+	text: [
+		"This Chest can hold 108 slots of items, the most of any chest available in this modpack. That is, it can hold twice the items of a double chest or iron chest."
+	],
+	dependencies: [
+		"cb702e17"
+	],
+	tasks: [{
+		uid: "7f924147",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 2"
+		}]
+	}]
+}

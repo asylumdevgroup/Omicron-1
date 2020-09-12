@@ -1,0 +1,99 @@
+{
+	title: "Iron and Diamonds",
+	icon: "minecraft:iron_ingot",
+	x: -8.0d,
+	y: 0.25d,
+	text: [
+		"It's time to put the mine in Minecraft. Now get you pickaxe, you're going mining!",
+		"",
+		"Don't forget, FTB UltiMine is in this pack (you can mine all of one block that is touching... until you run out of durability on your tool)"
+	],
+	dependencies: [
+		"6ee9f609"
+	],
+	tasks: [{
+		uid: "6ab4157b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreIron",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "cdde5c0d",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "502c07a5",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "648b613c",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5756fde1",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "41109d29",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5261901c",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond 4"
+		}],
+		count: 4L
+	},
+	{
+		uid: "b084a858",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "afc732a7",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 12
+	},
+	{
+		uid: "1d213e6e",
+		type: "choice",
+		table: 0
+	}]
+}

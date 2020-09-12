@@ -1,0 +1,19 @@
+{
+	title: "Alloy Furnace",
+	icon: "nuclearcraft:alloy_furnace_idle",
+	x: 3.0d,
+	y: 3.25d,
+	text: [
+		"This Machine is used to create special alloys such as Ferroboron Alloy and Tough Alloy, which are important in getting your first Fission Reactor."
+	],
+	dependencies: [
+		"e7d2e984"
+	],
+	tasks: [{
+		uid: "8b26a619",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:alloy_furnace_idle"
+		}]
+	}]
+}

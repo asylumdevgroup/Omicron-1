@@ -1,0 +1,12 @@
+{
+	title: "Wheat Farmer",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:bread",
+		count: 16
+	},
+	{
+		item: "actuallyadditions:item_food 1 17",
+		count: 16
+	}]
+}

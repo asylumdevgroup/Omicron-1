@@ -1,0 +1,25 @@
+{
+	title: "Red Altar",
+	icon: "bloodmagic:altar",
+	x: -7.75d,
+	y: 1.75d,
+	text: [
+		"�oIt is unfortunately, your �o�o�cblood�r�o. Smeared all over that thing. Don't worry though, it won't hurt... too much.",
+		"",
+		"�rThe recipe isn't that bad though. A few gold ingots, some stone, a furnace, and a demonic will. Whip it up in no time.",
+		"",
+		"",
+		"",
+		"We won't go into how here, but this is a multi-block structure that can be upgraded to unlock further and more powerful recipes. To do this, you will need a 23w x 23l x 9h room and an internet connection. Search something like \"minecraft blood altar\" in your favorite search engine (Google).  Be SURE to include minecraft in that search!"
+	],
+	dependencies: [
+		"8607a62e"
+	],
+	tasks: [{
+		uid: "0842d0bf",
+		type: "item",
+		items: [{
+			item: "bloodmagic:altar"
+		}]
+	}]
+}

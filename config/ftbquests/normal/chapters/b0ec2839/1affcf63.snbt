@@ -1,0 +1,72 @@
+{
+	title: "Fermenter",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "ethanol",
+			Amount: 1000
+		}
+	},
+	x: 10.25d,
+	y: 8.5d,
+	text: [
+		"This Multiblock Structure is used to produce ethanol from plant material, which is the next step in producing power from Biodiesel.",
+		"",
+		"See the Engineer's Manual for more information and how to construct this Multiblock."
+	],
+	dependencies: [
+		"3141d0f5"
+	],
+	tasks: [{
+		uid: "e27a89d8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "ef20190e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 2 6"
+		}],
+		count: 2L
+	},
+	{
+		uid: "33a2d348",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "17eaf83e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 2 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "3a09b2af",
+		type: "item",
+		items: [{
+			item: "minecraft:cauldron 4"
+		}],
+		count: 4L
+	},
+	{
+		uid: "2a61cfcc",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 4 9"
+		}],
+		count: 4L
+	}]
+}

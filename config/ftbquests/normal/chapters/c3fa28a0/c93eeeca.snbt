@@ -1,0 +1,73 @@
+{
+	title: "About the Quest Book",
+	icon: "ftbquests:book",
+	x: -13.75d,
+	y: -0.25d,
+	text: [
+		"If you are totally new to Modded Minecraft, congratulations on opening this book! Let's learn how to use it.",
+		"",
+		"As part of each quest in this book, you must complete one or more tasks, of which there are several possible types. The First, and simplest, is the Checkbox Task. To complete this task, all you have to do is check the box. The Second, and most common, is the retrieval task. For this, you must have a certain number of a certain item or set of items in your inventory, and you must have them all at once. Let's try it out with six wooden logs. This type of task may require you to submit the items, when it says \"Consume: Yes\" at the top. Collect some more logs and submit them to try it out.",
+		"",
+		"Congratulations, you now know the basics of the quest book! For completing all four tasks in this quest, you may have some food and torches. Click the reward items to claim them!"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "a9231944",
+		type: "checkmark"
+	},
+	{
+		uid: "dee051ed",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 6L
+	},
+	{
+		uid: "cd25af05",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 4L,
+		consume_items: true
+	},
+	{
+		uid: "3deafe25",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "plankWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "c4916c22",
+		type: "item",
+		item: "minecraft:apple",
+		count: 16
+	},
+	{
+		uid: "ebc50f5a",
+		type: "item",
+		item: "minecraft:torch",
+		count: 16
+	}]
+}

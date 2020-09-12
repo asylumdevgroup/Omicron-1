@@ -1,0 +1,29 @@
+{
+	title: "Laser Drill",
+	icon: "industrialforegoing:laser_drill",
+	x: 1.0d,
+	y: 1.75d,
+	text: [
+		"This Machine, when supplied with heavy amounts of power and a lens, generates ores out of thin air. NOTE: The Base Must have a direct line of sight to bedrock. When different colors of lenses are used, there are different chances to get certain ores.",
+		"",
+		"See the Industrial Foregoing Manual for more Information."
+	],
+	dependencies: [
+		"9c88eac7"
+	],
+	tasks: [{
+		uid: "f20f86ef",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_base"
+		}]
+	},
+	{
+		uid: "3ef9a552",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_drill 4"
+		}],
+		count: 4L
+	}]
+}

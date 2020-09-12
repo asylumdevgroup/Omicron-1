@@ -1,0 +1,59 @@
+{
+	title: "The Gathering: Tinker's Construct",
+	icon: "tconstruct:ore",
+	x: -0.5d,
+	y: 7.0d,
+	text: [
+		"Each type of item that is used to create a tool in Tinkers' has a different property, and they have different properties when used as different parts of the tool. Some will assist you, like the naturally slow repairing of wood. Others are annoying, like the cheapskate property of stone which causes less durability when it is used as the head. See �oMaterials and You�r for more info.",
+		"",
+		"One that has to be mentioned is LivingWood from Botania (a magic mod). It has regeneration and additional modifiers, which allows for adding extras to your tool, like redstone for speed, lapis for luck, quartz for sharpness, and even a mending moss that works like vanilla's mending but stores extra XP when possible.",
+		"",
+		"These are some of the extras that can be used to beef up your tools."
+	],
+	dependencies: [
+		"6ff6363c"
+	],
+	tasks: [{
+		uid: "1cf2d5d1",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials 1 19"
+		}]
+	},
+	{
+		uid: "4efb82a1",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials 1 14"
+		}]
+	},
+	{
+		uid: "02d85773",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials 1 16"
+		}]
+	},
+	{
+		uid: "4da18027",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials 1 17"
+		}]
+	},
+	{
+		uid: "3eee9dbc",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	},
+	{
+		uid: "d8f6afa9",
+		type: "item",
+		items: [{
+			item: "minecraft:tnt 3"
+		}],
+		count: 3L
+	}]
+}

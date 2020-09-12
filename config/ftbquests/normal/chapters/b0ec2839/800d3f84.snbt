@@ -1,0 +1,21 @@
+{
+	title: "Engineer's Workbench",
+	icon: "immersiveengineering:wooden_device0 1 2",
+	x: 10.25d,
+	y: 2.5d,
+	text: [
+		"This Block, when supplied with a blueprint and the necessary ingredients, can be used to craft items such as press molds, circuits, and more.",
+		"",
+		"See the Engineer's Manual for more information."
+	],
+	dependencies: [
+		"a27f09b6"
+	],
+	tasks: [{
+		uid: "e127718a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 2"
+		}]
+	}]
+}

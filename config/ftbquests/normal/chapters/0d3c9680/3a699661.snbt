@@ -1,0 +1,23 @@
+{
+	title: "A Slope? Is this still Minecraft?",
+	icon: {
+		id: "architecturecraft:shape",
+		tag: {
+			Shape: 0,
+			BaseName: "minecraft:planks",
+			BaseData: 0
+		}
+	},
+	x: -11.25d,
+	y: 3.5d,
+	text: [
+		"Put some blocks in your sawbench, and look at all the crazy shapes you can make!"
+	],
+	dependencies: [
+		"7ed3d3d4"
+	],
+	tasks: [{
+		uid: "1e6ecda8",
+		type: "checkmark"
+	}]
+}

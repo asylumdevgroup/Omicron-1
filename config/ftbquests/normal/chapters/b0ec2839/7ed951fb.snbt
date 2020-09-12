@@ -1,0 +1,22 @@
+{
+	title: "Redstone Energy Fluxduct",
+	icon: "thermaldynamics:duct_0 1 2",
+	x: 2.75d,
+	y: 5.5d,
+	text: [
+		"Once you get farther into your world, you'll find yourself needing to move MORE power. Unfortunatly, your hardened fluxducts are upgraded to the max. Now you'll need to make a redstone fluxduct.",
+		"",
+		"First, create an empty redstone energy fluxduct (2 electrum ingots and a hardened glass).",
+		"Then fill it in the fluid transposer with redstone. You'll be set on power... for a little while."
+	],
+	dependencies: [
+		"712149b6"
+	],
+	tasks: [{
+		uid: "8fb7fda0",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0 1 2"
+		}]
+	}]
+}

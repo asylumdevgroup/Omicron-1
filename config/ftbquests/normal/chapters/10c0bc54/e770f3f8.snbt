@@ -1,0 +1,30 @@
+{
+	title: "Hush!",
+	icon: {
+		id: "botania:specialflower",
+		tag: {
+			type: "bergamute"
+		}
+	},
+	x: 1.75d,
+	y: 4.25d,
+	text: [
+		"if you like to keep things quiet, this flower will help you out. it absorbs sounds that are created in a small radius around it, and converts this into mana. the mana, however, is so insignificant that it can't be transfered or used.",
+		"",
+		"",
+		"�o[no letters were yelled in the making of this quest]"
+	],
+	dependencies: [
+		"31947654"
+	],
+	tasks: [{
+		uid: "386652d4",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "bergamute"
+			}
+		}]
+	}]
+}

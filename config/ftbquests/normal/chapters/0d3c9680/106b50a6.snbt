@@ -1,0 +1,23 @@
+{
+	title: "EnderStorage",
+	icon: "enderstorage:ender_storage",
+	x: 0.75d,
+	y: 2.25d,
+	text: [
+		"Just like your typical ender chest, you can break it, carry it, and put it back down. This ender chest has a bonus feature of different color combination channels. �cRed-Red-Red�r can hold all your red colored items, while �e�6Yellow-Yellow-Yellow�r can hold your sunflowers (for example).",
+		"",
+		"Use any dye and right-click the top buttons to change the color (it consumes the dye)."
+	],
+	dependencies: [
+		"85850022"
+	],
+	tasks: [{
+		uid: "fdd4f275",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage"
+		}],
+		count: 2L,
+		ignore_nbt: 1b
+	}]
+}

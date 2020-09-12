@@ -1,0 +1,41 @@
+{
+	title: "Etho-Style!",
+	icon: "cookingforblockheads:cow_jar",
+	x: 8.25d,
+	y: 3.75d,
+	text: [
+		"Sometimes there are things in mods that you don't really get, but you really want.",
+		"",
+		"Like a cow in a jar.",
+		"",
+		"Just why?",
+		"",
+		"But hey, it produces milk!",
+		"",
+		"All you need is a cow, a milk jar... and an anvil (how else did you think you were going to get that huge cow in there!?)"
+	],
+	dependencies: [
+		"637ca0aa"
+	],
+	tasks: [{
+		uid: "50ee4d87",
+		type: "item",
+		items: [{
+			item: "minecraft:anvil"
+		}]
+	},
+	{
+		uid: "75360657",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:milk_jar"
+		}]
+	},
+	{
+		uid: "722531af",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:cow_jar"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Cryo-Stabalized Fluxduct",
+	icon: "thermaldynamics:duct_0 1 5",
+	x: 2.75d,
+	y: 10.0d,
+	text: [
+		"The end. There is nothing better. Literally infinite power transfer. This should be illegal.",
+		"",
+		"You'll need to upgrade your resonant fluxducts (filled only) to create an empty cryo-stabalized flucduct and then fill it with some gelid cryotheum. Good fun!"
+	],
+	dependencies: [
+		"cde9fc20"
+	],
+	tasks: [{
+		uid: "88e33902",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0 1 5"
+		}]
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "A Little Tinkering",
+	icon: "tconstruct:tooltables",
+	x: -1.0d,
+	y: 0.75d,
+	text: [
+		"It's like a crafting table 2.0, but it's a station. It crafts and can see the last inventory to touch it. It also connects to some other tables in a tabbed GUI. More on those tables later...",
+		"",
+		"(For this reward, first click either the Banana Bread or the Pumpkin bread and then click 'Claim'. You only get one)"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "67cb57d3",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}]
+	}],
+	rewards: [{
+		uid: "4d805286",
+		type: "choice",
+		table: 4
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "The Food Branch",
+	icon: "minecraft:wheat_seeds",
+	x: 7.0d,
+	y: -0.5d,
+	text: [
+		"This section is all about food. Food can be super important in Modded Minecraft because some task use your hunger meter. For example, in this pack you can use OreExcavator, which allows you to break lots of one type of block at once. When it does this, though, you use a your hunger meter much faster. It's a great way to quickly clear an area while just requiring food."
+	],
+	dependencies: [
+		"bbc9bd38"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "b5bc4b1a",
+		type: "checkmark"
+	}]
+}

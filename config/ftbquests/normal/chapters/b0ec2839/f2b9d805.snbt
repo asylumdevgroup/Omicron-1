@@ -1,0 +1,17 @@
+{
+	title: "Info: Power",
+	icon: "rftools:powercell_simple",
+	x: 4.25d,
+	y: 0.75d,
+	text: [
+		"Before you move on to Part II, you'll need some sort of power. Power in modded takes on a few forms. Some can be converted from one to another, and some mods require their own generator to work. If you're ever in doubt of what type of power is needed, Google it.",
+		"",
+		"Each of these energy types has a way to transfer power between blocks. These have different names, but basically work like plugging the machine in. Connect your cord to the energy generator and make a line to the block to power.",
+		"",
+		"�lPro/lazy tip:�r If you don't know what power type is needed for a block, try a few different conduits/cords/ducts until you find the one that attaches to your block. Then power your conduit/cord/duct and you're good to go"
+	],
+	tasks: [{
+		uid: "9ec11be0",
+		type: "checkmark"
+	}]
+}

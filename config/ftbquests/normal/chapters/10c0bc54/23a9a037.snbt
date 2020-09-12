@@ -1,0 +1,20 @@
+{
+	title: "Dawnstone",
+	icon: "embers:ingot_dawnstone",
+	x: -12.75d,
+	y: 9.25d,
+	text: [
+		"See the Ancient Codex for more information."
+	],
+	dependencies: [
+		"691d7b4e"
+	],
+	tasks: [{
+		uid: "cce50d49",
+		type: "item",
+		items: [{
+			item: "embers:ingot_dawnstone 2"
+		}],
+		count: 2L
+	}]
+}

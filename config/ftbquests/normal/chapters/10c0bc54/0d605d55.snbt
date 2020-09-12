@@ -1,0 +1,28 @@
+{
+	title: "It's quite a Common Gem",
+	icon: {
+		id: "bloodmagic:soul_gem",
+		tag: {},
+		Damage: 2s
+	},
+	x: -5.5d,
+	y: 6.5d,
+	text: [
+		"�oMore! More! More!",
+		"",
+		"�rWhen a lesser really is lesser..."
+	],
+	dependencies: [
+		"05e35eb5"
+	],
+	tasks: [{
+		uid: "026936ee",
+		type: "item",
+		items: [{
+			id: "bloodmagic:soul_gem",
+			tag: {},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

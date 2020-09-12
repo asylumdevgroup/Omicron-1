@@ -1,0 +1,41 @@
+{
+	title: "Top-Tier Alloy",
+	icon: "tconstruct:ingots 1 2",
+	x: -0.5d,
+	y: 8.75d,
+	text: [
+		"�oThis quest won't be possible until you've completed at least some of the magic quest line.",
+		"",
+		"�rYou'll need some enderium, manyullyn and miron.",
+		"",
+		"Enderium is formed in the smeltery with ender pearls and casted into ingots.",
+		"",
+		"Manyullyn is alloyed from cobalt and ardite, two metals found in the nether.",
+		"",
+		"Mirion is alloyed from terrasteel, manasteel, elementium, cobalt, and glass. You should have some cobalt from the last quest, but you'll need to open an elven portal to get elementium."
+	],
+	dependencies: [
+		"a273e8b0"
+	],
+	tasks: [{
+		uid: "fe0232eb",
+		type: "item",
+		items: [{
+			item: "tconstruct:ingots 1 2"
+		}]
+	},
+	{
+		uid: "909acdb1",
+		type: "item",
+		items: [{
+			item: "plustic:mirioningot"
+		}]
+	},
+	{
+		uid: "477275e4",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 167"
+		}]
+	}]
+}

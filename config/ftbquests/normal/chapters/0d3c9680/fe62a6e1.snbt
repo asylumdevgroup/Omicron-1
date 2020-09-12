@@ -1,0 +1,19 @@
+{
+	title: "Iron Chests",
+	icon: "ironchest:iron_chest",
+	x: -1.75d,
+	y: 2.25d,
+	text: [
+		"This upgraded chest, crafted with a chest and 8 iron ingots, can hold 54 stacks (as much as a double chest) in only a one block space. It can also be placed between double chests, allowing for much more compact storage."
+	],
+	dependencies: [
+		"85850022"
+	],
+	tasks: [{
+		uid: "7d03d30a",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest"
+		}]
+	}]
+}

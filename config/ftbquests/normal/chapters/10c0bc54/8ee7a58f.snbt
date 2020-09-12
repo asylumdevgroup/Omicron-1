@@ -1,0 +1,31 @@
+{
+	title: "My Kind of Flower",
+	icon: {
+		id: "botania:specialflower",
+		tag: {
+			type: "gourmaryllis"
+		}
+	},
+	x: 1.75d,
+	y: 1.75d,
+	text: [
+		"�oThis plant likes to EAT!",
+		"",
+		"�rThis one (I wont' try to pronounce it) likes to eat food. It's a bit picky though. It likes to eat food it hasn't eaten lately, so keep a wide variety around.",
+		"",
+		"Once fed, this plant will start generating mana."
+	],
+	dependencies: [
+		"31947654"
+	],
+	tasks: [{
+		uid: "7a49e499",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "gourmaryllis"
+			}
+		}]
+	}]
+}

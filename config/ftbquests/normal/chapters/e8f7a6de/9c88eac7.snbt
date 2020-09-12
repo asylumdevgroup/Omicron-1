@@ -1,0 +1,41 @@
+{
+	title: "Pink Slime Production",
+	icon: "industrialforegoing:mob_slaughter_factory",
+	x: -0.5d,
+	y: 1.75d,
+	text: [
+		"This machine kills passive mobs, producing Pink Slime liquid, which when placed in the world, spawns Pink Slime Mobs, which will drop Pink Slimeballs when killed.",
+		"",
+		"See the Industrial Foregoing Manual for more Information."
+	],
+	dependencies: [
+		"e29c0529"
+	],
+	tasks: [{
+		uid: "10c6dcfd",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_slaughter_factory"
+		}]
+	},
+	{
+		uid: "2a4183b3",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "if.pink_slime",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f2e60bf4",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:pink_slime"
+		}]
+	}]
+}

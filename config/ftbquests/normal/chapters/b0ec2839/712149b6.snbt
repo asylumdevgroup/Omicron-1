@@ -1,0 +1,19 @@
+{
+	title: "Hardened Fluxduct",
+	icon: "thermaldynamics:duct_0 1 1",
+	x: 2.75d,
+	y: 4.0d,
+	text: [
+		"The hardened fluxduct transfers power much faster. Upgrade your leadstone fluxducts to hardened fluxducts with some invar and a bit more redstone. Now you have some power!"
+	],
+	dependencies: [
+		"c7db32f0"
+	],
+	tasks: [{
+		uid: "eab9d62f",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0 1 1"
+		}]
+	}]
+}

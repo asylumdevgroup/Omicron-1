@@ -1,0 +1,10 @@
+{
+	title: "The Modded Journey",
+	icon: "ironchest:iron_chest 1 2",
+	description: [
+		"Now that you understand the bare minimum of modded Minecraft, let's start by introducing some mods that expand upon basic vanilla concepts, such as food, building, and storage."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

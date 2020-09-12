@@ -1,0 +1,23 @@
+{
+	title: "Mana Spreader",
+	icon: "botania:spreader",
+	x: -2.0d,
+	y: 6.75d,
+	text: [
+		"The mana spreader is, I think anyways, the most important part of Botania as well as the most frustrating.",
+		"",
+		"Mana spreaders move mana. That's all.",
+		"",
+		"Say you have an endoflame that is producing mana. You also have a mana pool a few blocks away. You need that mana in that pool, but mana is magic; you can't just pick it up. To move the mana, put a mana spreader next to the endoflame. Then shift-R-click on the spreader with a wand of the forest and shift-R-click on the pool. When the spreader works, you'll see a green particle effect jumping between the spreader and the object it is filling."
+	],
+	dependencies: [
+		"f9b48825"
+	],
+	tasks: [{
+		uid: "ed535692",
+		type: "item",
+		items: [{
+			item: "botania:spreader"
+		}]
+	}]
+}

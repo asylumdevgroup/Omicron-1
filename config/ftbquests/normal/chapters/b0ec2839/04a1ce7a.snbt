@@ -1,0 +1,79 @@
+{
+	title: "Tinkers' Smeltery",
+	icon: "tconstruct:seared_tank",
+	x: 1.0d,
+	y: 5.25d,
+	text: [
+		"These are parts of a smeltery.",
+		"",
+		"Controler: Right click to view contents. Insert and melt items from here",
+		"",
+		"Bricks: forms the exterior of the smeltery",
+		"",
+		"Drain: Allows fluids to inserted/removed from the smeltery",
+		"",
+		"Basin: Fills up with fluids that cool and become blocks",
+		"",
+		"Table: Fills with fluids to form tool parts, ingots, and more",
+		"",
+		"Faucet: Allows you to click on it to remove fluids from the smeltery if there is a table/basin underneath it.",
+		"",
+		"Tank: When it contains lava, the smeltery can melt items and use a little lava in the process. Eventually, you can use other hot fluids to melt items.",
+		"",
+		"",
+		"Check the Tinkers' guidebook - �nMaterials and YOU�r - for more info!"
+	],
+	dependencies: [
+		"6ff6363c"
+	],
+	tasks: [{
+		uid: "40593dfa",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	},
+	{
+		uid: "3364f612",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared 5 3"
+		}],
+		count: 5L
+	},
+	{
+		uid: "239f3b1e",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}]
+	},
+	{
+		uid: "32d2894c",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting 1 1"
+		}]
+	},
+	{
+		uid: "885191ab",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting"
+		}]
+	},
+	{
+		uid: "b743c497",
+		type: "item",
+		items: [{
+			item: "tconstruct:faucet"
+		}]
+	},
+	{
+		uid: "bdc2b7f9",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_tank"
+		}]
+	}]
+}

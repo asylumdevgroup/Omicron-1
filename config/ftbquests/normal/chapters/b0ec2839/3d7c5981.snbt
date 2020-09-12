@@ -1,0 +1,29 @@
+{
+	title: "Zap!",
+	icon: "immersiveengineering:wirecoil 1 6",
+	x: 11.75d,
+	y: 4.0d,
+	text: [
+		"What did I tell you about touching the wires!? You'll shock yourself! If you just can't help it (or wires are in your way), then insulate the wires!!",
+		"",
+		"See the Engineer's Manual for more information."
+	],
+	dependencies: [
+		"2c259360",
+		"a0d95e76"
+	],
+	tasks: [{
+		uid: "fc382b8a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 6"
+		}]
+	},
+	{
+		uid: "444a3be3",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 7"
+		}]
+	}]
+}

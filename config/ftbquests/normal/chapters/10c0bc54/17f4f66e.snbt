@@ -1,0 +1,27 @@
+{
+	title: "Tree Eater",
+	icon: {
+		id: "botania:specialflower",
+		tag: {
+			type: "munchdew"
+		}
+	},
+	x: 1.75d,
+	y: 3.0d,
+	text: [
+		"This mana generating flower eats leaves that grow around it. It produces a large amount of mana as well. Be careful though, because it likes to eat non-stop. If it stops eating, it stops for minutes at a time."
+	],
+	dependencies: [
+		"31947654"
+	],
+	tasks: [{
+		uid: "744e5395",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "munchdew"
+			}
+		}]
+	}]
+}

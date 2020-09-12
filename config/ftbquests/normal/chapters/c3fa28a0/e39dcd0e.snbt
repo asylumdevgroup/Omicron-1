@@ -1,0 +1,37 @@
+{
+	title: "The End",
+	icon: "minecraft:skull 1 5",
+	x: -5.0d,
+	y: 0.25d,
+	text: [
+		"In Vanilla, this marks just about the end of the game. In modded, this is just the beginning.",
+		"",
+		"�oGood luck"
+	],
+	dependencies: [
+		"409ff985"
+	],
+	tasks: [{
+		uid: "392a83b6",
+		type: "dimension",
+		dim: 1
+	},
+	{
+		uid: "f6477d06",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "9d3792e9",
+		type: "item",
+		item: "harvestcraft:beefwellingtonitem",
+		count: 4
+	},
+	{
+		uid: "be491c33",
+		type: "item",
+		item: "minecraft:purpur_block",
+		count: 32
+	}]
+}

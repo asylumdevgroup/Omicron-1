@@ -1,0 +1,48 @@
+{
+	title: "Charged Crystal Production",
+	icon: "appliedenergistics2:material 1 1",
+	x: -4.5d,
+	y: 1.75d,
+	text: [
+		"Charged crystals can be created from regular certus quartz in a charger.",
+		"",
+		"For production, you'll need an energy acceptor (if you're using RF), some ME Glass cables, and the charger. All of these require fluix crystals.",
+		"",
+		"Fluix crystals are created by tossing a redstone dust, nether quartz, and a charged crystal into water. Wait a moment and they will transform... just don't ask why red, light blue, and white make a dark purple crystal. IT'S SCIENCE PEOPLE!"
+	],
+	dependencies: [
+		"18781b85",
+		"07e85745",
+		"fe7219ff"
+	],
+	tasks: [{
+		uid: "3b32cac7",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 5 7"
+		}],
+		count: 5L
+	},
+	{
+		uid: "9f1fac54",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:energy_acceptor"
+		}]
+	},
+	{
+		uid: "b67c0cf0",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 4 16"
+		}],
+		count: 4L
+	},
+	{
+		uid: "1b6d1f8b",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:charger"
+		}]
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Sugarcane Farmer",
+	icon: "minecraft:reeds",
+	x: -8.75d,
+	y: 3.25d,
+	text: [
+		"Sugar... Yum. Get some sugarcane, get more sugarcane! Win-Win."
+	],
+	dependencies: [
+		"bbc9bd38"
+	],
+	tasks: [{
+		uid: "b8917f36",
+		type: "item",
+		items: [{
+			item: "minecraft:reeds 32"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "4f751d75",
+		type: "item",
+		item: "minecraft:reeds",
+		count: 64
+	},
+	{
+		uid: "daf6cfad",
+		type: "choice",
+		table: 2
+	}]
+}

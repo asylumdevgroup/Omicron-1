@@ -1,0 +1,21 @@
+{
+	title: "Petal Apothecary",
+	icon: "botania:altar",
+	x: 0.25d,
+	y: 3.0d,
+	text: [
+		"A simple recipe, just stone and a petal in the right shape.",
+		"",
+		"Note that there is no GUI, and you don't right click to place items in. You actually throw (default Q) items into it. Finish each recipe with some seeds."
+	],
+	dependencies: [
+		"01181bc3"
+	],
+	tasks: [{
+		uid: "a15824a2",
+		type: "item",
+		items: [{
+			item: "botania:altar"
+		}]
+	}]
+}

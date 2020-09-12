@@ -1,0 +1,13 @@
+{
+	title: "NuclearCraft",
+	icon: "nuclearcraft:ingot 1 4",
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"NuclearCraft is a mod centered around using Nuclear Reactors to generate massive amounts of power. Unlike similar mods such as Extreme Reactors, NuclearCraft is semi-realistic, involving radioactive isotopes, chemical processing, and fission and fusion byproducts."
+	],
+	tasks: [{
+		uid: "7fffd40a",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,66 @@
+{
+	title: "Biodiesel Power",
+	icon: "immersiveengineering:metal_decoration0 1 6",
+	x: 8.75d,
+	y: 10.0d,
+	text: [
+		"Are you ready to turn your newly produced Biodiesel into lots of power! Then construct a Diesel Generator and pipe some biodiesel into it!",
+		"",
+		"See the Engineer's Manual for more information and how to construct this Multiblock."
+	],
+	dependencies: [
+		"17415230"
+	],
+	tasks: [{
+		uid: "776e6883",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "scaffoldingSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "6ceec732",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 5 6"
+		}],
+		count: 5L
+	},
+	{
+		uid: "e3139392",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "04b43bbb",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 13 5"
+		}],
+		count: 13L
+	},
+	{
+		uid: "a7c5d6a6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 4 6"
+		}],
+		count: 4L
+	},
+	{
+		uid: "04190b08",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 9 7"
+		}],
+		count: 9L
+	}]
+}

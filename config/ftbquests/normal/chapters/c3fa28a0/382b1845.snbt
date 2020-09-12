@@ -1,0 +1,38 @@
+{
+	title: "Wheat Farmer",
+	icon: "minecraft:wheat",
+	x: -10.25d,
+	y: 3.25d,
+	text: [
+		"Food is super important in Minecraft. Food is even more important when you use OreExcavator - the mod that lets you hold a key (Grave --> ~ by default) to mine lots of one resource at once. When you mine like this you get hungry."
+	],
+	dependencies: [
+		"bbc9bd38"
+	],
+	tasks: [{
+		uid: "45f35c95",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat_seeds 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "9b18809b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "cropWheat",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}],
+	rewards: [{
+		uid: "ca728a59",
+		type: "choice",
+		table: 3
+	}]
+}

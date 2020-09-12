@@ -1,0 +1,19 @@
+{
+	title: "Mixing Metals",
+	icon: "embers:mixer",
+	x: -12.75d,
+	y: 6.75d,
+	text: [
+		"See the Ancient Codex for more information."
+	],
+	dependencies: [
+		"fab07dec"
+	],
+	tasks: [{
+		uid: "ec0ca1dd",
+		type: "item",
+		items: [{
+			item: "embers:mixer"
+		}]
+	}]
+}

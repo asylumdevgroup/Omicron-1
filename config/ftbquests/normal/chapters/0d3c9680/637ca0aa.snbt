@@ -1,0 +1,86 @@
+{
+	title: "Cooking for Blockheads",
+	icon: "cookingforblockheads:cooking_table",
+	x: 7.5d,
+	y: 2.25d,
+	text: [
+		"'Cooking For Blockheads' is a mod designed to assist you with cooking food with the ingredients you have on hand. When you have these items touching, you can use them to create wild combinations of fantastical foods."
+	],
+	dependencies: [
+		"2317c748"
+	],
+	tasks: [{
+		uid: "c7221b7e",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:cooking_table"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a146c9b8",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:oven"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ae2cfb67",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:fridge"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7199352c",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:sink"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "268b299e",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:tool_rack"
+		}],
+		count: 4L,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9c09e314",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:toaster"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "10247227",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:milk_jar"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "01e9189d",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:spice_rack"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2103a4d7",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:counter"
+		}],
+		count: 2L,
+		ignore_nbt: 1b
+	}]
+}

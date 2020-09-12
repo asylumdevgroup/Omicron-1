@@ -1,0 +1,21 @@
+{
+	title: "Industrial Foregoing",
+	icon: "teslacorelib:machine_case",
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"Industrial Foregoing is a large technology mod with a wide variety of features, such as power generation, farming and storage utilities, and more! It is a reimagining of the older mod MineFactory Reloaded."
+	],
+	tasks: [{
+		uid: "a8de1d7f",
+		type: "item",
+		items: [{
+			item: "teslacorelib:machine_case"
+		}]
+	}],
+	rewards: [{
+		uid: "30783d19",
+		type: "item",
+		item: "industrialforegoing:book_manual"
+	}]
+}

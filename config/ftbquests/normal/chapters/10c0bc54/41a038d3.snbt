@@ -1,0 +1,25 @@
+{
+	title: "Manasteel",
+	icon: "botania:manaresource",
+	x: 4.0d,
+	y: 8.0d,
+	text: [
+		"Manasteel is created by throwing iron ingots into a mana pool. The iron ingot and some mana will be consumed, but it's worth it. We think."
+	],
+	dependencies: [
+		"27064ca7"
+	],
+	tasks: [{
+		uid: "631d6bb5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotManasteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}
