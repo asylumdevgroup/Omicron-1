@@ -4,7 +4,7 @@
 	x: -10.25d,
 	y: 2.0d,
 	text: [
-		"No Description"
+		"The ArchitectureCraft mod allows for you to make all kinds of shapes to build with, some of which should not logically exist in Minecraft!"
 	],
 	dependencies: [
 		"30b1ae5e"

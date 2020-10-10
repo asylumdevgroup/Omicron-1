@@ -4,7 +4,7 @@
 	x: 4.25d,
 	y: 7.0d,
 	text: [
-		"The Atomic Reconstructor is a powered machine used to craft several of the crafting components for Actually Additions. It has two modes of operation: Deactivation and �c�0�f�r�r�r�r�r�r�rPulse. Deactivation mode means that it will be on and continuously use power unless given a redstone signal. Pulse mode means that it will only operate when given a redstone pulse, such as from a button or pressure plate. You can cycle between the two modes by right-clicking the machine with a �c�rredstone torch.",
+		"The Atomic Reconstructor is a powered machine used to craft several of the crafting components for Actually Additions. It has two modes of operation: Deactivation and Pulse. Deactivation mode means that it will be on and continuously use power unless given a redstone signal. Pulse mode means that it will only operate when given a redstone pulse, such as from a button or pressure plate. You can cycle between the two modes by right-clicking the machine with a redstone torch.",
 		"",
 		"You can also use the Atomic Reconstructor to upgrade your power. Simply craft some Crystallized Canola Seeds using the machine, and drop them in placed oil (acquired using a canola press and fermenting barrel). The oil will transform into Crystallized oil."
 	],

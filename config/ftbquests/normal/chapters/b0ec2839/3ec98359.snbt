@@ -4,7 +4,7 @@
 	x: 4.25d,
 	y: 2.5d,
 	text: [
-		"You'll need to create some power before you use it or transfer it. Start small. This coal generator produces about 185 RF/tick.",
+		"You'll need to create some power before you use it or transfer it. Start small. This coal generator produces about 30 RF/tick.",
 		"",
 		"It takes some iron, cobblestone, coal, and a piece of black quartz (You can get these from mining black quartz ore)"
 	],

@@ -4,7 +4,7 @@
 	x: -7.5d,
 	y: 3.75d,
 	text: [
-		"�rThese are some interesting variants of Chisel's blocks. See if you chisel them!"
+		"These are some interesting variants of Chisel's blocks. See if you chisel them!"
 	],
 	dependencies: [
 		"e71223e9"

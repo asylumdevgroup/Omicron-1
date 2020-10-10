@@ -4,7 +4,7 @@
 	x: -10.25d,
 	y: 3.25d,
 	text: [
-		"Food is super important in Minecraft. Food is even more important when you use OreExcavator - the mod that lets you hold a key (Grave --> ~ by default) to mine lots of one resource at once. When you mine like this you get hungry."
+		"Food is super important in Minecraft. Food is even more important when you use FTB UltiMine - the mod that lets you hold a key (Grave --> ~ by default) to mine lots of one resource at once. When you mine like this you get hungry."
 	],
 	dependencies: [
 		"bbc9bd38"
