@@ -1,13 +1,14 @@
-# Omicron-XII
+# ADG Omicron 1
 ADG's Light Modpack for 1.12.2.
 
 ## Credits
 * Seadoggie01 (Former ADG Developer) for helping with many of the initial quests
-* Nayla (ADG Developer) for creating the Logo and Menu.
+* EndangeredNayla (ADG Developer) for creating the Logo and Menu.
 
 ## Modlist
 * Actually Additions (by Ellpeck)
-* AE2 Unofficial Extended Life (by PrototypeTrousers)
+* AE2 Unofficial Extended Life (by notmywing)
+* Alfheim Lighting Engine (by Desoroxxx)
 * AppleSkin (by squeek502)
 * ArchitectureCraft - TridentMC Version (by darkevilmac)
 * Aroma1997Core (by Aroma1997)
@@ -46,10 +47,10 @@ ADG's Light Modpack for 1.12.2.
 * GunpowderLib (by Jacky)
 * Had Enough Items (by CleanroomMC)
 * Immersive Engineering (by BluSunrize)
-* Immersive Technology (by tgstyle0)
+* Immersive Technology (by tgstyle)
 * Industrial Foregoing (by Buuz135)
 * Integration Foregoing (by Jacky)
-* Inventory Tweaks \[1.12 only\] (by JimeoWan)
+* Inventory Bogo Sorter (by brachy84)
 * Iron Backpacks (by gr8pefish)
 * Iron Chests (by ProgWML6)
 * Item Filters (by LatvianModder)
@@ -61,6 +62,7 @@ ADG's Light Modpack for 1.12.2.
 * McJtyLib (by McJty)
 * MixinBooter (by CleanroomMC)
 * Mod Name Tooltip (by mezz)
+* ModularUI (by CleanroomMC)
 * More Overlays (by feldim245)
 * Mouse Tweaks Unofficial (by CleanroomMC)
 * NuclearCraft (by tomdodd4598)
@@ -70,8 +72,9 @@ ADG's Light Modpack for 1.12.2.
 * p455w0rd's Library (by TheRealp455w0rd)
 * Pam's HarvestCraft (by pamharvestcraft)
 * Placebo (by Shadows_of_Fire)
-* Quark (by Vazkii)
+* Quark: RotN Edition (by asterixxxxxxxxxxxxxx)
 * RandomPatches (Forge) (by TheRandomLabs)
+* Red Core (by Desoroxxx)
 * Redstone Arsenal (by TeamCoFH)
 * Redstone Flux (by TeamCoFH)
 * Resource Loader (by Lumien231)
